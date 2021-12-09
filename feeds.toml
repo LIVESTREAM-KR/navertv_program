@@ -1,4 +1,4 @@
-[navertv_musicbank]
+[musicbank]
 title = "KBS 뮤직뱅크 ─ 네이버TV"
 url = "https://tv.naver.com/musicbank/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -9,7 +9,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_showmusiccore]
+[showmusiccore]
 title = "MBC 쇼! 음악중심 ─ 네이버TV"
 url = "https://tv.naver.com/musiccore/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -20,7 +20,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_inkigayo]
+[inkigayo]
 title = "SBS 인기가요 ─ 네이버TV"
 url = "https://tv.naver.com/inkigayo/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -31,7 +31,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_mcountdown]
+[mcountdown]
 title = "Mnet 엠카운트다운 ─ 네이버TV"
 url = "https://tv.naver.com/mcountdown/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -42,7 +42,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_theshow]
+[theshow]
 title = "SBS MTV 더쇼 ─ 네이버TV"
 url = "https://tv.naver.com/theshow/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -53,7 +53,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_showchampion]
+[showchampion]
 title = "MBC M 쇼챔피언 ─ 네이버TV"
 url = "https://tv.naver.com/showchampion/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -64,7 +64,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_sketchbook]
+[sketchbook]
 title = "KBS 유희열의 스케치북 ─ 네이버TV"
 url = "https://tv.naver.com/sketchbook/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -75,7 +75,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_satfreedom]
+[satfreedom]
 title = "KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV"
 url = "https://tv.naver.com/satfreedom/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -86,7 +86,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_mask]
+[mask]
 title = "MBC 복면가왕 ─ 네이버TV"
 url = "https://tv.naver.com/mask/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -97,7 +97,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_simplykpop]
+[simplykpop]
 title = "ARIRANG 심플리 케이팝 ─ 네이버TV"
 url = "https://tv.naver.com/kpop"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -108,7 +108,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_ubcdran]
+[ubcdran]
 title = "UBC 열린예술무대 뒤란 ─ 네이버TV"
 url = "https://tv.naver.com/ubcdran/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -119,7 +119,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_weekidol]
+[weekidol]
 title = "MBC M 주간아이돌 ─ 네이버TV"
 url = "https://tv.naver.com/weekidol/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -130,7 +130,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_amazingsaturday]
+[amazingsaturday]
 title = "tvN 놀라운 토요일 ─ 네이버TV"
 url = "https://tv.naver.com/cjenm.amazingsaturday/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -141,7 +141,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_streetwomanfighter]
+[streetwomanfighter]
 title = "Mnet 스트릿 우먼 파이터 ─ 네이버TV"
 url = "https://tv.naver.com/cjenm.STREETWOMANFIGHTER/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
@@ -152,7 +152,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_singagain2]
+[singagain2]
 title = "JTBC 싱어게인2 ─ 네이버TV"
 url = "https://tv.naver.com/jtbc.singagain2/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
