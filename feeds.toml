@@ -130,6 +130,17 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[navertv_weekidol]
+title = "MBC M 주간아이돌 ─ 네이버TV"
+url = "https://tv.naver.com/weekidol/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [navertv_streetwomanfighter]
 title = "스트릿 우먼 파이터 ─ 네이버TV"
 url = "https://tv.naver.com/cjenm.STREETWOMANFIGHTER/clips"
