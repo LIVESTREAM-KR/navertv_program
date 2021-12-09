@@ -42,17 +42,6 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[navertv_]
-title = " ─ 네이버TV"
-url = "https://tv.naver.com//clips"
-entrySelector = "div[class^='cds _MM_CARD']"
-titleSelector = "dt.title"
-linkSelector = "dt.title a"
-imageSelector = "div.cds_type a img"
-contentSelector = "span.tm_b"
-waitUntil = "networkidle"
-onFail = "stale"
-
 [navertv_theshow]
 title = "SBS MTV 더쇼 ─ 네이버TV"
 url = "https://tv.naver.com/theshow/clips"
