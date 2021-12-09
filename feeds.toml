@@ -162,3 +162,15 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[myteenagegirl]
+title = "MBC 방과후 설렘 ─ 네이버TV"
+url = "https://tv.naver.com/mbc.myteenagegirl/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+onFail = "stale"
+
