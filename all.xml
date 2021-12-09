@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 20:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 21:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2742,6 +2742,30 @@
             <pubDate>Thu, 09 Dec 2021 19:32:54 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_22/LjHwa_16383226306416rmCs_JPEG/20211201_102618_436_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[풀영상] 김서진&김예서 ＜살짝 설렜어＞ 무삭제 full ver., MBC 211128 방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23800398</link>
+            <guid>https://tv.naver.com/v/23800398</guid>
+            <pubDate>Thu, 09 Dec 2021 21:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_250/GVG8t_1638173830799rabjL_JPEG/clip_20211129170528_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭발적인 언택트 평가단의 반응💥 김예서&김서진의 ＜살짝 설렜어＞, MBC 211128 방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/23787758</link>
+            <guid>https://tv.naver.com/v/23787758</guid>
+            <pubDate>Thu, 09 Dec 2021 21:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211128_88/tud6r_1638106068028VbyEF_JPEG/clip_20211128221246_83.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티저] 전 세계를 설레게 할 걸그룹 프로젝트! ＜방과후 설렘＞ 🌺, MBC 202111 방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/20487043</link>
+            <guid>https://tv.naver.com/v/20487043</guid>
+            <pubDate>Thu, 09 Dec 2021 21:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210531_290/Q1HtH_1622444497502C2vkW_JPEG/clip_20210531155540_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
