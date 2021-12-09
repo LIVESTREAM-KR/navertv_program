@@ -6,7 +6,7 @@ titleSelector = "dt.title"
 linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
-waitUntil = "networkidle"
+waitForSelector = "div.cds_area._infiniteCardArea div.cds._MM_CARD"
 onFail = "stale"
 
 [showmusiccore]
