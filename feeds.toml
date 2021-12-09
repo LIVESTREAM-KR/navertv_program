@@ -120,7 +120,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [navertv_ubcdran]
-title = "열린예술무대 뒤란 ─ 네이버TV"
+title = "UBC 열린예술무대 뒤란 ─ 네이버TV"
 url = "https://tv.naver.com/ubcdran/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
 titleSelector = "dt.title"
@@ -141,8 +141,19 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[navertv_amazingsaturday]
+title = "tvN 놀라운 토요일 ─ 네이버TV"
+url = "https://tv.naver.com/cjenm.amazingsaturday/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [navertv_streetwomanfighter]
-title = "스트릿 우먼 파이터 ─ 네이버TV"
+title = "Mnet 스트릿 우먼 파이터 ─ 네이버TV"
 url = "https://tv.naver.com/cjenm.STREETWOMANFIGHTER/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
 titleSelector = "dt.title"
