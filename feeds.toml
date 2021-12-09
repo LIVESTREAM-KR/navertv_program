@@ -87,7 +87,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [navertv_satfreedom]
-title = "KBS 불후의 명곡 ─ 네이버TV"
+title = "KBS 불후의 명곡2 전설을 노래하다 ─ 네이버TV"
 url = "https://tv.naver.com/satfreedom/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
 titleSelector = "dt.title"
