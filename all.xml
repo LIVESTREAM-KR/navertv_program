@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 04:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 05:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,70 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우주 🏴‍해적🏴‍의 유니크한 컬러 에버글로우의 ‘Pirate’ _ Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013415</link>
+            <guid>https://tv.naver.com/v/24013415</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_184/m70yd_1639112271671ALUdA_PNG/1639112228236.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신비로운 💓매력💓 돋보이는 슈퍼루키 아이브의 ‘ELEVEN‘ _ Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013412</link>
+            <guid>https://tv.naver.com/v/24013412</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_77/49mt0_1639112267352IDwr4_PNG/1639111698499.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013397</link>
+            <guid>https://tv.naver.com/v/24013397</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[54:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_114/hM5d1_1639112411476MtCzH_PNG/1639112370224.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[다채로운 🎼마에스트로 고스트나인의 ‘Control’ _ Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013178</link>
+            <guid>https://tv.naver.com/v/24013178</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_275/PUN4H_1639111479895lrKdJ_PNG/1639110839762.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[4인 4색 희망의 🔖메시지🔖 담은 B.I.G의 ‘FLASHBACK’ _ Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013175</link>
+            <guid>https://tv.naver.com/v/24013175</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_170/u9YQJ_16391114719542N2Di_PNG/1639110812964.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[3단 고음으로 🧥호소력 폭발하는 신승태의 ‘낯선이’ _ Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013173</link>
+            <guid>https://tv.naver.com/v/24013173</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_167/nzivk_1639111465761mEMwR_PNG/1639109463331.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[몽환적인 🥃동양미🥃 안예은의 ‘소식’ _ Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013016</link>
+            <guid>https://tv.naver.com/v/24013016</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_254/WX4Ob_1639110903564AGJSO_PNG/1639109457357.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[상처에도 무너지지 않는다는 🌟의지를 담은 나다의 ‘Bulletproof’ _ Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013013</link>
+            <guid>https://tv.naver.com/v/24013013</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_32/sF4v5_1639110895755y8T4T_PNG/1639109452292.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[몽환적인 🎨매력 가득 담긴 시그니처의 ‘Boyfriend’ _ Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24012839</link>
             <guid>https://tv.naver.com/v/24012839</guid>
@@ -1608,68 +1672,84 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211203_53/eQa76_1638506459723qj0TX_PNG/1638506393576.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[상큼발랄한 에너지💛 아이칠린의 ‘FRESH’ _ Ep.496 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23876864</link>
-            <guid>https://tv.naver.com/v/23876864</guid>
-            <pubDate>Thu, 09 Dec 2021 19:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_266/PSfJk_1638506460992MJAg0_PNG/1638506401253.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[테이_비상 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013040</link>
+            <guid>https://tv.naver.com/v/24013040</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[5:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_37/gN66g_1639110991970eyk9q_JPEG/7e611d02-5972-11ec-82c9-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🔥핫데뷔🔥 특급신인 빌리의 'RING X RING' _ Ep.496 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23876863</link>
-            <guid>https://tv.naver.com/v/23876863</guid>
-            <pubDate>Thu, 09 Dec 2021 19:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_108/grwz6_1638506462140P5jFU_PNG/1638506406252.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[오무라이스(오곤&무성)_뒤란에게 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013031</link>
+            <guid>https://tv.naver.com/v/24013031</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_141/QXWVp_16391109671723bEsv_JPEG/66608d22-5972-11ec-8e54-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강렬한 카리스마🙌 고스트나인의 ‘Control’ _ Ep.496 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23876841</link>
-            <guid>https://tv.naver.com/v/23876841</guid>
-            <pubDate>Thu, 09 Dec 2021 19:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_202/N2ldp_1638506463502dS0af_PNG/1638506411272.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[BTRS(소찬휘&김경호&박완규)_천년의사랑 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013025</link>
+            <guid>https://tv.naver.com/v/24013025</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_8/uj8H7_1639110936942DiKXV_JPEG/5d84c9a1-5972-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중독성 강한 디스코🎵 박군의 '유턴하지마' _ Ep.496 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23876838</link>
-            <guid>https://tv.naver.com/v/23876838</guid>
-            <pubDate>Thu, 09 Dec 2021 19:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_89/CCvHd_1638506464966IENNr_PNG/1638506416549.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[BTRS(소찬휘&김경호&박완규)_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013012</link>
+            <guid>https://tv.naver.com/v/24013012</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[6:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_173/nyxDA_163911089481571bEh_JPEG/2fb5cce2-5972-11ec-917b-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[판타지같은 사랑💗 엘라스트의 ‘To Lie’ _ Ep.496 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23876836</link>
-            <guid>https://tv.naver.com/v/23876836</guid>
-            <pubDate>Thu, 09 Dec 2021 19:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_288/0uSyi_1638506465975R7IVB_PNG/1638506421659.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[BTRS(소찬휘&김경호&박완규)_붉은노을 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24013000</link>
+            <guid>https://tv.naver.com/v/24013000</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_270/WADdu_1639110851471wPqxQ_JPEG/1f24027c-5972-11ec-a713-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아름다운 시절을 함께 했던 사람에 대한 그리움.. 몽니의 '다시' _ Ep.496 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23876832</link>
-            <guid>https://tv.naver.com/v/23876832</guid>
-            <pubDate>Thu, 09 Dec 2021 19:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_196/AehBM_1638506467572iO1KB_PNG/1638506426841.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[BTRS(소찬휘&김경호&박완규)_미지의세계 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24012992</link>
+            <guid>https://tv.naver.com/v/24012992</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[5:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_62/3SXWI_1639110817021yyCBx_JPEG/fbf3d4de-5971-11ec-9a6e-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비아이지 (B.I.G) - 안녕하세요 (Hello) + FLASHBACK ★Simply's Spotlight★ _ Ep.496 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23876829</link>
-            <guid>https://tv.naver.com/v/23876829</guid>
-            <pubDate>Thu, 09 Dec 2021 19:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[7:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_138/zJS4V_1638506469117d32qH_PNG/1638506431998.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[BTRS(소찬휘&김경호&박완규)_금지된 사랑 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24012982</link>
+            <guid>https://tv.naver.com/v/24012982</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_278/0iYsQ_1639110772697SPuE2_JPEG/ef3b9aff-5971-11ec-b0b6-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[동양적인 아름다움💜 원어스의 ‘월하미인’ _ Ep.496 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23876828</link>
-            <guid>https://tv.naver.com/v/23876828</guid>
-            <pubDate>Thu, 09 Dec 2021 19:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_207/f1sM5_1638506470565Xgwd5_PNG/1638506437993.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[BTRS(소찬휘&김경호&박완규)_TEARS (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24012966</link>
+            <guid>https://tv.naver.com/v/24012966</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_173/DN6qL_1639110704620C22Wd_JPEG/dfcd692d-5971-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTRS(소찬휘&김경호&박완규)_RockandRoll (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24012954</link>
+            <guid>https://tv.naver.com/v/24012954</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_132/U8VFD_163911064993299IB3_JPEG/c372a6eb-5971-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신곡선공개]알리_주저하는 연인들을 위해 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24012939</link>
+            <guid>https://tv.naver.com/v/24012939</guid>
+            <pubDate>Fri, 10 Dec 2021 05:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[7:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_250/X1rX5_1639110590132RuN1v_JPEG/957b8800-5971-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이영지_Go high (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
@@ -1830,86 +1910,6 @@
             <pubDate>Thu, 09 Dec 2021 19:32:42 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211118_169/2btL5_1637245850992Swyes_JPEG/f1ea1629-487b-11ec-bc73-a0369ff968b0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허찬미_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23607289</link>
-            <guid>https://tv.naver.com/v/23607289</guid>
-            <pubDate>Fri, 10 Dec 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_69/OJPV4_1637245768149LXnFP_JPEG/d730f554-487b-11ec-a713-a0369ff95ec0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허찬미_Lights (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23607275</link>
-            <guid>https://tv.naver.com/v/23607275</guid>
-            <pubDate>Fri, 10 Dec 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_26/gscRT_1637245723757BwbVw_JPEG/8779b477-487b-11ec-9d5b-a0369ff94f34_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나윤권_나였으면 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23477379</link>
-            <guid>https://tv.naver.com/v/23477379</guid>
-            <pubDate>Fri, 10 Dec 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_290/nwEG1_1636633795351D87di_JPEG/fe1ac40b-42ea-11ec-a979-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나윤권_아름답고 아름다운 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23477362</link>
-            <guid>https://tv.naver.com/v/23477362</guid>
-            <pubDate>Fri, 10 Dec 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_61/lhhaD_1636633754642oauof_JPEG/e0ac47ba-42ea-11ec-9b44-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나윤권_그대가 있어 웃는다 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23477343</link>
-            <guid>https://tv.naver.com/v/23477343</guid>
-            <pubDate>Fri, 10 Dec 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_154/afkcc_1636633706001XOY7v_JPEG/cb658106-42ea-11ec-9970-a0369ff94ec8_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나윤권_기대 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23477326</link>
-            <guid>https://tv.naver.com/v/23477326</guid>
-            <pubDate>Fri, 10 Dec 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[4:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_144/U6GS5_1636633667608ghIO2_JPEG/a1e2ac12-42ea-11ec-917b-a0369ff9545c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나윤권_바람이 좋은날 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23477283</link>
-            <guid>https://tv.naver.com/v/23477283</guid>
-            <pubDate>Fri, 10 Dec 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_73/BZuzh_16366335868133zcHY_JPEG/2cbb10a4-42ea-11ec-b0b6-246e963a4708_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADOY_Wonder (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23477190</link>
-            <guid>https://tv.naver.com/v/23477190</guid>
-            <pubDate>Fri, 10 Dec 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_97/SXOfH_1636633400917UJNDe_JPEG/fe668f06-42e9-11ec-a331-48df379cca40_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADOY_Baby (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23477146</link>
-            <guid>https://tv.naver.com/v/23477146</guid>
-            <pubDate>Fri, 10 Dec 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_236/4oM4d_1636633325998Ia5BL_JPEG/e48446fe-42e9-11ec-a979-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADOY_Simply (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23477120</link>
-            <guid>https://tv.naver.com/v/23477120</guid>
-            <pubDate>Fri, 10 Dec 2021 04:28:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211111_264/Lk8as_1636633283510A9SmD_JPEG/cd18cb09-42e9-11ec-a74c-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[괜찮겠어? 우린 케이팝을 찢는 04즈인데. (MBC M 주간아이돌 ─ 네이버TV)]]></title>
