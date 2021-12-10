@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 09:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 10:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 541회 예고]]></title>
+            <link>https://tv.naver.com/v/24015794</link>
+            <guid>https://tv.naver.com/v/24015794</guid>
+            <pubDate>Fri, 10 Dec 2021 10:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_241/GEMN0_1639118817692BA8OY_JPEG/CA202112150002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[괜찮겠어? 우린 케이팝을 찢는 04즈인데.]]></title>
             <link>https://tv.naver.com/v/23981378</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 19:57:00 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_53/xhgbH_1638775628149UJLwH_JPEG/CA202112080008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 540회 예고]]></title>
-            <link>https://tv.naver.com/v/23888883</link>
-            <guid>https://tv.naver.com/v/23888883</guid>
-            <pubDate>Thu, 09 Dec 2021 19:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_133/W4h2P_1638525730123K3rIu_JPEG/CA202112080002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
