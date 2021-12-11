@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 11:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 12:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 Dec 2021 10:25:35 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_241/GEMN0_1639118817692BA8OY_JPEG/CA202112150002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 세로캠 Ver.] 투모로우바이투게더(TOMORROW X TOGETHER) - ＜In My Blood＞ (원곡 : 션 멘데스)♬ l EP.515]]></title>
+            <link>https://tv.naver.com/v/24015270</link>
+            <guid>https://tv.naver.com/v/24015270</guid>
+            <pubDate>Sat, 11 Dec 2021 12:33:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_267/Q2HhK_1639117375250J0Xls_JPEG/CA202106090097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[괜찮겠어? 우린 케이팝을 찢는 04즈인데.]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 19:57:00 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_103/yPOYI_1638775629218AfMjv_JPEG/CA202112080009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 무엇이든 이루어주는 우리브♥가 추는 ＜소원을 말해봐＞♬]]></title>
-            <link>https://tv.naver.com/v/23927703</link>
-            <guid>https://tv.naver.com/v/23927703</guid>
-            <pubDate>Thu, 09 Dec 2021 19:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_53/xhgbH_1638775628149UJLwH_JPEG/CA202112080008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
