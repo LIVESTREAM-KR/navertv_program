@@ -4,7 +4,7 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 10:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 11:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 Dec 2021 10:24:11 GMT</pubDate>
             <content:encoded><![CDATA[4:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_17/ZRS6f_163911737272292WVF_JPEG/CA202112080094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[12월 2주차 ♥쇼챔피언♡ MC 모음.zip (원어스 이도, 아스트로 문빈, 아스트로 산하) | Show Champion | EP.415]]></title>
+            <link>https://tv.naver.com/v/24015252</link>
+            <guid>https://tv.naver.com/v/24015252</guid>
+            <pubDate>Sat, 11 Dec 2021 11:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_3/gGDYo_16391173168241qw2s_JPEG/CA202112080080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쇼챔직캠] IVE LEESEO - ELEVEN (아이브 이서 - 일레븐) l Show Champion l EP.419]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 19:56:20 GMT</pubDate>
             <content:encoded><![CDATA[4:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_61/I7Ant_1638960710939Ohfai_JPEG/CA202112080039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEUS - LUNA (원어스 - 월하미인(月下美人 : LUNA))]]></title>
-            <link>https://tv.naver.com/v/23978662</link>
-            <guid>https://tv.naver.com/v/23978662</guid>
-            <pubDate>Thu, 09 Dec 2021 19:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_216/BoCs9_1638956520666B9WyR_JPEG/CA202112080037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
