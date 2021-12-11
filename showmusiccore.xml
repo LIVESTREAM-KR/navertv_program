@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 07:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 08:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 야생돌 김기중 직캠 'ANSWER' (WILD IDOL FanCam) @Show!MusicCore 211211]]></title>
+            <link>https://tv.naver.com/v/24030343</link>
+            <guid>https://tv.naver.com/v/24030343</guid>
+            <pubDate>Sat, 11 Dec 2021 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_29/mAwjr_1639210974356gJfi5_JPEG/clip_20211211170131_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엑스디너리 히어로즈 직캠 'Happy Death Day' (Xdinary Heroes FanCam) @Show!MusicCore 211211]]></title>
+            <link>https://tv.naver.com/v/24030274</link>
+            <guid>https://tv.naver.com/v/24030274</guid>
+            <pubDate>Sat, 11 Dec 2021 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_100/dnKvv_1639210627993T0UQ4_JPEG/clip_20211211165414_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 하하 직캠 'GAP(공백)' (HAHA FanCam) @Show!MusicCore 211211]]></title>
+            <link>https://tv.naver.com/v/24030273</link>
+            <guid>https://tv.naver.com/v/24030273</guid>
+            <pubDate>Sat, 11 Dec 2021 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_55/5u7SF_1639210626268tw2BV_JPEG/clip_20211211165215_47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 지상천하 직캠 '1010235(열렬히사모해)' (JISANGCHEONHA FanCam) @Show!MusicCore 211211]]></title>
+            <link>https://tv.naver.com/v/24030271</link>
+            <guid>https://tv.naver.com/v/24030271</guid>
+            <pubDate>Sat, 11 Dec 2021 08:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_189/tyUgE_1639210624516ml4Jk_JPEG/clip_20211211165226_49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 온앤오프 효진 직캠 'Goosebumps' (ONF HYOJIN FanCam) @Show!MusicCore 211204]]></title>
             <link>https://tv.naver.com/v/23929068</link>
@@ -214,38 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 19:55:54 GMT</pubDate>
             <content:encoded><![CDATA[3:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211127_155/JNDtp_1638002211227hni80_JPEG/clip_20211127171208_77.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 몬스타엑스 민혁 직캠 'Rush Hour' (MONSTA X MINHYUK FanCam) @Show!MusicCore 211127]]></title>
-            <link>https://tv.naver.com/v/23774930</link>
-            <guid>https://tv.naver.com/v/23774930</guid>
-            <pubDate>Thu, 09 Dec 2021 19:55:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211127_130/QjMTZ_1638002210231MDWQF_JPEG/clip_20211127171035_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 몬스타엑스 형원 직캠 'Rush Hour' (MONSTA X HYUNGWON FanCam) @Show!MusicCore 211127]]></title>
-            <link>https://tv.naver.com/v/23774889</link>
-            <guid>https://tv.naver.com/v/23774889</guid>
-            <pubDate>Thu, 09 Dec 2021 19:55:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211127_148/IaAum_16380019068335xCFG_JPEG/clip_20211127171104_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 몬스타엑스 아이엠 직캠 'Rush Hour' (MONSTA X I.M FanCam) @Show!MusicCore 211127]]></title>
-            <link>https://tv.naver.com/v/23774888</link>
-            <guid>https://tv.naver.com/v/23774888</guid>
-            <pubDate>Thu, 09 Dec 2021 19:55:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211127_79/i8L0S_1638001905689nY7VO_JPEG/clip_20211127171051_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 몬스타엑스 기현 직캠 'Rush Hour' (MONSTA X KIHYUN FanCam) @Show!MusicCore 211127]]></title>
-            <link>https://tv.naver.com/v/23774887</link>
-            <guid>https://tv.naver.com/v/23774887</guid>
-            <pubDate>Thu, 09 Dec 2021 19:55:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211127_97/uSsM4_16380019047941Ct1x_JPEG/clip_20211127171041_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
