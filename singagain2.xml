@@ -4,9 +4,17 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 23:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 01:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독 선공개] 상상도 못 한 정체ㄴ(°0°)ㄱ 임팩트 최강 '인트로' 드라마 OST를 부른 20호 가수!]]></title>
+            <link>https://tv.naver.com/v/24046578</link>
+            <guid>https://tv.naver.com/v/24046578</guid>
+            <pubDate>Mon, 13 Dec 2021 01:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_11/67FlP_163935740283446mFe_JPEG/20211213_094654_207_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[싱어게인2 모아듣기] 다들 왜 여기 계세요(?) 남다른 클라쓰로 무대를 뒤집어버린 오디션 최강자들🤴👸 | JTBC 211206 방송]]></title>
             <link>https://tv.naver.com/v/24001554</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 19:57:18 GMT</pubDate>
             <content:encoded><![CDATA[11:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_254/AR1Ge_1638406324170sLGjN_JPEG/20211202_092449_591_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티저] 실패에는 '다시'가 있어야 한다, 다시 나를 부르다 ＜싱어게인2＞ - 주니어 편｜12월 6일 (월) 밤 9시 첫 방송!]]></title>
-            <link>https://tv.naver.com/v/23832252</link>
-            <guid>https://tv.naver.com/v/23832252</guid>
-            <pubDate>Thu, 09 Dec 2021 19:57:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_22/LjHwa_16383226306416rmCs_JPEG/20211201_102618_436_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
