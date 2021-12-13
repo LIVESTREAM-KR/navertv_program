@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 06:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Thu, 09 Dec 2021 19:30:02 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엑스디너리 히어로즈 건일 직캠 'Happy Death Day' (Xdinary Heroes GUN-IL FanCam) @Show!MusicCore 211211 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24052486</link>
+            <guid>https://tv.naver.com/v/24052486</guid>
+            <pubDate>Mon, 13 Dec 2021 06:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_293/iLsmx_1639376228398CrRLs_JPEG/clip_20211213144929_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엑스디너리 히어로즈 오드 직캠 'Happy Death Day' (Xdinary Heroes O.de FanCam) @Show!MusicCore 211211 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24052485</link>
+            <guid>https://tv.naver.com/v/24052485</guid>
+            <pubDate>Mon, 13 Dec 2021 06:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_255/rGK4u_16393762269436z6OF_JPEG/clip_20211213144917_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엑스디너리 히어로즈 준한 직캠 'Happy Death Day' (Xdinary Heroes Jun Han FanCam) @Show!MusicCore 21121 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24052335</link>
+            <guid>https://tv.naver.com/v/24052335</guid>
+            <pubDate>Mon, 13 Dec 2021 06:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_220/CCqVY_1639375934862BLJja_JPEG/clip_20211213144908_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 아이브 레이 직캠 'ELEVEN' (IVE REI FanCam) @Show!MusicCore 211211 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -230,30 +254,6 @@
             <pubDate>Thu, 09 Dec 2021 19:30:10 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_253/mblYf_1638778108473c4HIB_JPEG/clip_20211206164159_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 온앤오프 와이엇 직캠 'Goosebumps' (ONF WYATT FanCam) @Show!MusicCore 211204 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23928973</link>
-            <guid>https://tv.naver.com/v/23928973</guid>
-            <pubDate>Thu, 09 Dec 2021 19:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_19/xa6MM_1638778107191yJLNX_JPEG/clip_20211206164125_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 온앤오프 제이어스 직캠 'Goosebumps' (ONF J-US FanCam) @Show!MusicCore 211204 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23928972</link>
-            <guid>https://tv.naver.com/v/23928972</guid>
-            <pubDate>Thu, 09 Dec 2021 19:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_261/gCwjy_1638778106337PkMCL_JPEG/clip_20211206164105_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 에버글로우 이유 직캠 'Pirate' (EVERGLOW E:U FanCam) @Show!MusicCore 211204 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23921729</link>
-            <guid>https://tv.naver.com/v/23921729</guid>
-            <pubDate>Thu, 09 Dec 2021 19:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_286/pF4z4_1638757028593RWhiL_JPEG/clip_20211206105630_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -976,6 +976,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170710_44/W7seI_1499677537300zuhxv_JPEG/VD13895327_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 12월 셋째 주 쇼챔 시네마 상영작은? (with. IVE(아이브)) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24052062</link>
+            <guid>https://tv.naver.com/v/24052062</guid>
+            <pubDate>Mon, 13 Dec 2021 06:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_123/RNxqy_1639375331571lIT7E_JPEG/CA202112150003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠] ONEUS XION - LUNA (원어스 시온 - 월하미인) l Show Champion l EP.419 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24015268</link>
             <guid>https://tv.naver.com/v/24015268</guid>
@@ -1206,14 +1214,6 @@
             <pubDate>Thu, 09 Dec 2021 19:31:12 GMT</pubDate>
             <content:encoded><![CDATA[4:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_236/OW6wm_1639028817776I153m_JPEG/CA202112080078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[♥I HAVE 챔피언송♥ IVE - ELEVEN 앵콜 Full ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23979967</link>
-            <guid>https://tv.naver.com/v/23979967</guid>
-            <pubDate>Thu, 09 Dec 2021 19:31:12 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_61/I7Ant_1638960710939Ohfai_JPEG/CA202112080039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
