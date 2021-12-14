@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 07:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 08:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 백스테이지] ★2021 하드털이 특집★ 한 해를 마무리하며 외장 하드를 꺼내는데...더보기 (에이티즈/원어스/TO1/STAYC) l #쇼챔피언비하인드 l EP.223]]></title>
+            <link>https://tv.naver.com/v/24072984</link>
+            <guid>https://tv.naver.com/v/24072984</guid>
+            <pubDate>Tue, 14 Dec 2021 08:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[14:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_121/2Znib_1639468321688JP6ST_JPEG/CA202112140006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 백스테이지] ★2021 하드털이 특집★ 한 해를 마무리하며 외장 하드를 꺼내는데.. 더보기(CIX/TO1/크래비티/스테이씨/엔하이픈) l #쇼챔피언비하인드 l EP.223]]></title>
+            <link>https://tv.naver.com/v/24072483</link>
+            <guid>https://tv.naver.com/v/24072483</guid>
+            <pubDate>Tue, 14 Dec 2021 08:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[16:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_255/gSsiI_1639467143027u1jED_JPEG/CA202112140004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔 백스테이지] 소리🔇 지~~~르지 말고 박수쳐👏🏻 쇼챔비 가라사대 ＂절대로 재생 참을 수 없어＂ (원어스/EVERGLOW/IVE) l #쇼챔피언비하인드 l EP.223]]></title>
+            <link>https://tv.naver.com/v/24072472</link>
+            <guid>https://tv.naver.com/v/24072472</guid>
+            <pubDate>Tue, 14 Dec 2021 08:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[13:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_194/pgbzv_1639467131476Bxrxl_JPEG/CA202112140005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 12월 셋째 주 쇼챔 시네마 상영작은? (with. IVE(아이브))]]></title>
             <link>https://tv.naver.com/v/24052062</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 19:56:20 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_170/5rRk5_1639030150135hB71P_JPEG/CA202112080079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] IVE -  INTRO+ELEVEN (아이브 - 인트로+일레븐) l Show Champion l EP.419]]></title>
-            <link>https://tv.naver.com/v/23993350</link>
-            <guid>https://tv.naver.com/v/23993350</guid>
-            <pubDate>Thu, 09 Dec 2021 19:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_53/nC9FO_1639029722310ul44N_JPEG/CA202112080075_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] EVERGLOW -  Pirate (에버글로우 - 파일럿) l Show Champion l EP.419]]></title>
-            <link>https://tv.naver.com/v/23993181</link>
-            <guid>https://tv.naver.com/v/23993181</guid>
-            <pubDate>Thu, 09 Dec 2021 19:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_46/2343P_1639029429869t8VG5_JPEG/CA202112080076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] ONEUS - LUNA (원어스 - 월하미인(月下美人 : LUNA)) l Show Champion l EP.419]]></title>
-            <link>https://tv.naver.com/v/23992854</link>
-            <guid>https://tv.naver.com/v/23992854</guid>
-            <pubDate>Thu, 09 Dec 2021 19:56:20 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_236/OW6wm_1639028817776I153m_JPEG/CA202112080078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
