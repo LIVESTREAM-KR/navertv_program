@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 23:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 01:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211127_57/6gKrE_1638011533768VE7gW_JPEG/ccde0106-4f72-11ec-9dda-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[방송선공개] 드디어 공개되는 뀨와와의 짱친 셀카! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24053953</link>
+            <guid>https://tv.naver.com/v/24053953</guid>
+            <pubDate>Tue, 14 Dec 2021 01:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_16/CLSVX_1639379538710SBEho_JPEG/CA202112150005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 요즘 효진이의 샤워 애창곡은? 현실 고증 100% 리얼 재연! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24053952</link>
+            <guid>https://tv.naver.com/v/24053952</guid>
+            <pubDate>Tue, 14 Dec 2021 01:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_66/1LgZR_1639379537166eqABa_JPEG/CA202112150004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주간아이돌 541회 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24015794</link>
             <guid>https://tv.naver.com/v/24015794</guid>
@@ -2134,22 +2150,6 @@
             <pubDate>Thu, 09 Dec 2021 19:36:51 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_250/uf04K_1638946317222oxsAi_JPEG/CA202112080016_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] IVE YUJIN - ELEVEN (아이브 유진 - 일레븐) l EP.540 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23966500</link>
-            <guid>https://tv.naver.com/v/23966500</guid>
-            <pubDate>Thu, 09 Dec 2021 19:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_98/NAx5Q_16389463212686MXhN_JPEG/CA202112080014_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 얼굴로 하는 건 다 잘하는 얼굴 천재 워뇨 ＞_＜♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23927705</link>
-            <guid>https://tv.naver.com/v/23927705</guid>
-            <pubDate>Thu, 09 Dec 2021 19:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_103/yPOYI_1638775629218AfMjv_JPEG/CA202112080009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
@@ -2672,7 +2672,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_31/5xV9v_1639390088330xCQFk_JPEG/20211213_185726_890_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독 선공개] 상상도 못 한 정체ㄴ(°0°)ㄱ 임팩트 최강 '인트로' 드라마 OST를 부른 20호 가수! (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <title><![CDATA[[선공개] 상상도 못 한 정체ㄴ(°0°)ㄱ 임팩트 최강 '인트로' 드라마 OST를 부른 20호 가수! (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24046578</link>
             <guid>https://tv.naver.com/v/24046578</guid>
             <pubDate>Mon, 13 Dec 2021 01:08:13 GMT</pubDate>

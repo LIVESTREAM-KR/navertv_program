@@ -4,9 +4,25 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 23:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 01:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] 드디어 공개되는 뀨와와의 짱친 셀카!]]></title>
+            <link>https://tv.naver.com/v/24053953</link>
+            <guid>https://tv.naver.com/v/24053953</guid>
+            <pubDate>Tue, 14 Dec 2021 01:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_16/CLSVX_1639379538710SBEho_JPEG/CA202112150005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 요즘 효진이의 샤워 애창곡은? 현실 고증 100% 리얼 재연!]]></title>
+            <link>https://tv.naver.com/v/24053952</link>
+            <guid>https://tv.naver.com/v/24053952</guid>
+            <pubDate>Tue, 14 Dec 2021 01:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_66/1LgZR_1639379537166eqABa_JPEG/CA202112150004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 541회 예고]]></title>
             <link>https://tv.naver.com/v/24015794</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 19:57:00 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_250/uf04K_1638946317222oxsAi_JPEG/CA202112080016_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] IVE YUJIN - ELEVEN (아이브 유진 - 일레븐) l EP.540]]></title>
-            <link>https://tv.naver.com/v/23966500</link>
-            <guid>https://tv.naver.com/v/23966500</guid>
-            <pubDate>Thu, 09 Dec 2021 19:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_98/NAx5Q_16389463212686MXhN_JPEG/CA202112080014_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 얼굴로 하는 건 다 잘하는 얼굴 천재 워뇨 ＞_＜♥]]></title>
-            <link>https://tv.naver.com/v/23927705</link>
-            <guid>https://tv.naver.com/v/23927705</guid>
-            <pubDate>Thu, 09 Dec 2021 19:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_103/yPOYI_1638775629218AfMjv_JPEG/CA202112080009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
