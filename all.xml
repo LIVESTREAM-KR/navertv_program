@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 02:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 03:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -976,12 +976,60 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170710_44/W7seI_1499677537300zuhxv_JPEG/VD13895327_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스포 권장] 미리 보는 IVE 엔딩요정_ 이서ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24073308</link>
+            <guid>https://tv.naver.com/v/24073308</guid>
+            <pubDate>Wed, 15 Dec 2021 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_45/UI80w_16394690036532p2Y1_JPEG/CA202112150011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 IVE 엔딩요정_ 리즈ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24073139</link>
+            <guid>https://tv.naver.com/v/24073139</guid>
+            <pubDate>Wed, 15 Dec 2021 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_120/pPL6Q_1639468678104qfJ6G_JPEG/CA202112150010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 IVE 엔딩요정_ 원영ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24073138</link>
+            <guid>https://tv.naver.com/v/24073138</guid>
+            <pubDate>Wed, 15 Dec 2021 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_245/r0ycp_1639468677151mTmH6_JPEG/CA202112150009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 IVE 엔딩요정_ 레이ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24073014</link>
+            <guid>https://tv.naver.com/v/24073014</guid>
+            <pubDate>Wed, 15 Dec 2021 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_53/oHkGJ_1639468381097Pko5g_JPEG/CA202112150008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔 백스테이지] ★2021 하드털이 특집★ 한 해를 마무리하며 외장 하드를 꺼내는데...더보기 (에이티즈/원어스/TO1/STAYC) l #쇼챔피언비하인드 l EP.223 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24072984</link>
             <guid>https://tv.naver.com/v/24072984</guid>
             <pubDate>Tue, 14 Dec 2021 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[14:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211214_121/2Znib_1639468321688JP6ST_JPEG/CA202112140006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 IVE 엔딩요정_ 유진ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24072856</link>
+            <guid>https://tv.naver.com/v/24072856</guid>
+            <pubDate>Wed, 15 Dec 2021 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_300/tiEX3_16394680148023pCMN_JPEG/CA202112150007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 IVE 엔딩요정_ 가을ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24072854</link>
+            <guid>https://tv.naver.com/v/24072854</guid>
+            <pubDate>Wed, 15 Dec 2021 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_202/LI8Ex_1639468013693hBlD0_JPEG/CA202112150006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쇼챔 백스테이지] ★2021 하드털이 특집★ 한 해를 마무리하며 외장 하드를 꺼내는데.. 더보기(CIX/TO1/크래비티/스테이씨/엔하이픈) l #쇼챔피언비하인드 l EP.223 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
@@ -1166,54 +1214,6 @@
             <pubDate>Fri, 10 Dec 2021 10:24:11 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_291/q5thi_1639115215017jmtRL_JPEG/CA202112080084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] JISANGCHEONHA JISANG (LeeSangjoon)-1010235(지상천하 지상(이상준)-열렬히사모해) | Show Champion | EP.419 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014192</link>
-            <guid>https://tv.naver.com/v/24014192</guid>
-            <pubDate>Fri, 10 Dec 2021 10:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_269/cI1pp_1639114639267Nv4u1_JPEG/CA202112080088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] ONEUS LEE DO - BBUSYEO (원어스 이도 - 뿌셔) l Show Champion l EP.419 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014190</link>
-            <guid>https://tv.naver.com/v/24014190</guid>
-            <pubDate>Fri, 10 Dec 2021 10:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_71/iL7Hw_1639114636598C6Yqi_JPEG/CA202112080083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] ONEUS RAVN - BBUSYEO (원어스 레이븐 - 뿌셔) l Show Champion l EP.419 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014189</link>
-            <guid>https://tv.naver.com/v/24014189</guid>
-            <pubDate>Fri, 10 Dec 2021 10:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_68/W9LHL_1639114635482iWROy_JPEG/CA202112080082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] ONEUS SEO HO - BBUSYEO (원어스 서호 - 뿌셔) l Show Champion l EP.419 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014073</link>
-            <guid>https://tv.naver.com/v/24014073</guid>
-            <pubDate>Fri, 10 Dec 2021 10:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_60/6Gh2P_1639114325740jARRz_JPEG/CA202112080081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] ONEUS - BBUSYEO (원어스 - 뿌셔) l Show Champion l EP.419 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23993632</link>
-            <guid>https://tv.naver.com/v/23993632</guid>
-            <pubDate>Thu, 09 Dec 2021 19:31:12 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_90/0L4M4_1639030374709omSF7_JPEG/CA202112080077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] JISANGCHEONHA -  1010235 (지상천하 - 열렬히 사모해) l Show Champion l EP.419 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/23993536</link>
-            <guid>https://tv.naver.com/v/23993536</guid>
-            <pubDate>Thu, 09 Dec 2021 19:31:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_170/5rRk5_1639030150135hB71P_JPEG/CA202112080079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
