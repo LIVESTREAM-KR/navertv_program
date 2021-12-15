@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 09:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 10:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -976,6 +976,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170710_44/W7seI_1499677537300zuhxv_JPEG/VD13895327_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] ATEEZ - The Real(Heung Ver.) (에이티즈 - 멋 (흥興 Ver.)) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24094504</link>
+            <guid>https://tv.naver.com/v/24094504</guid>
+            <pubDate>Wed, 15 Dec 2021 10:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_229/K9Jwo_1639561020616JX4K6_JPEG/CA202112150042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] ATEEZ - Turbulence (에이티즈 - 야간비행) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24094442</link>
+            <guid>https://tv.naver.com/v/24094442</guid>
+            <pubDate>Wed, 15 Dec 2021 10:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_166/uGy6A_16395607351115XplI_JPEG/CA202112150041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SPECIAL STAGE] Ji Suyeon (Weki Meki) - strawberry moon (위키미키 지수연 - 스트로베리 문 (원곡: 아이유)) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24094441</link>
+            <guid>https://tv.naver.com/v/24094441</guid>
+            <pubDate>Wed, 15 Dec 2021 10:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_127/rBJaV_1639560734123APGnR_JPEG/CA202112150040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[EVERGLOW - Pirate (에버글로우 - 파일럿) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24094169</link>
             <guid>https://tv.naver.com/v/24094169</guid>
@@ -1190,30 +1214,6 @@
             <pubDate>Sat, 11 Dec 2021 11:18:02 GMT</pubDate>
             <content:encoded><![CDATA[6:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_162/UeiGu_1639354918561XCIPI_JPEG/CA202112080080_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] IVE LEESEO - ELEVEN (아이브 이서 - 일레븐) l Show Champion l EP.419 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24015250</link>
-            <guid>https://tv.naver.com/v/24015250</guid>
-            <pubDate>Fri, 10 Dec 2021 10:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_79/2nlPm_1639117313471RjYDo_JPEG/CA202112080100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] EVERGLOW YIREN - Pirate (에버글로우 이런 - 파일럿) l Show Champion l EP.419 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24015135</link>
-            <guid>https://tv.naver.com/v/24015135</guid>
-            <pubDate>Fri, 10 Dec 2021 10:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_250/vfeuE_1639117018514DN0Md_JPEG/CA202112080102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] EVERGLOW MIA - Pirate (에버글로우 미아 - 파일럿) l Show Champion l EP.419 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24015040</link>
-            <guid>https://tv.naver.com/v/24015040</guid>
-            <pubDate>Fri, 10 Dec 2021 10:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_128/AKElA_1639116736593ViyuI_JPEG/CA202112080103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
