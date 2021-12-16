@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 06:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 07:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 세로캠 Ver.] 온앤오프(ONF) - ＜Show Must Go On＞♬ l EP.541]]></title>
+            <link>https://tv.naver.com/v/24102382</link>
+            <guid>https://tv.naver.com/v/24102382</guid>
+            <pubDate>Thu, 16 Dec 2021 07:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_222/RXH5Z_16396141113327Yfj6_JPEG/CA202112150023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시원하게 입으로 돌진! 장인들의 가.꾸]]></title>
             <link>https://tv.naver.com/v/24097216</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 19:57:00 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_271/3Sv4Z_1638965529723UtAcS_JPEG/CA202112080056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짱이브 이렇게 하면 슈퍼스타밖에 못 돼...♥]]></title>
-            <link>https://tv.naver.com/v/23981304</link>
-            <guid>https://tv.naver.com/v/23981304</guid>
-            <pubDate>Thu, 09 Dec 2021 19:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_38/EKbhE_16389653489210eG9U_JPEG/CA202112080057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
