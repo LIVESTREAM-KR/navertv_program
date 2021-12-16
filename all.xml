@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 10:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 11:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -976,6 +976,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170710_44/W7seI_1499677537300zuhxv_JPEG/VD13895327_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2주 연속 1위 ♥ IVE - ELEVEN 앵콜 Full ver. (6분할 앵콜은 처음이지? ^-^) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24114527</link>
+            <guid>https://tv.naver.com/v/24114527</guid>
+            <pubDate>Thu, 16 Dec 2021 11:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_206/Zx1IW_1639650723455AVrkf_JPEG/CA202112150083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쇼챔직캠] Ji Suyeon (Weki Meki) - strawberry moon (위키미키 지수연 - 스트로베리 문 (원곡: 아이유)) l Show Champion l EP. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24112135</link>
             <guid>https://tv.naver.com/v/24112135</guid>
@@ -1206,14 +1214,6 @@
             <pubDate>Tue, 14 Dec 2021 08:25:57 GMT</pubDate>
             <content:encoded><![CDATA[14:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211214_121/2Znib_1639468321688JP6ST_JPEG/CA202112140006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포 권장] 미리 보는 IVE 엔딩요정_ 유진ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24072856</link>
-            <guid>https://tv.naver.com/v/24072856</guid>
-            <pubDate>Wed, 15 Dec 2021 03:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_300/tiEX3_16394680148023pCMN_JPEG/CA202112150007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
