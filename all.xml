@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 05:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 06:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》💌에버글로우와 함께한 아랍에미리트 콘투어는 이번주도 계속 된다💌~!! _498 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24108905</link>
+            <guid>https://tv.naver.com/v/24108905</guid>
+            <pubDate>Thu, 16 Dec 2021 06:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_14/R5VSO_16396354181365SUPR_PNG/1639635414253.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[PLYCAM 4K] 에버글로우 이런 'Pirate' 직캠 (EVERGLOW YIREN 'Pirate') l Simply K -Pop CON-TOUR Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24014424</link>
             <guid>https://tv.naver.com/v/24014424</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_77/49mt0_1639112267352IDwr4_PNG/1639111698499.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24013397</link>
-            <guid>https://tv.naver.com/v/24013397</guid>
-            <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[54:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_114/hM5d1_1639112411476MtCzH_PNG/1639112370224.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[로맨틱 펀치_밤은 짧아 걸어 아가씨야 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
