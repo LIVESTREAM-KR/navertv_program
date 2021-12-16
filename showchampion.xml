@@ -4,9 +4,57 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 09:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 10:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Ji Suyeon (Weki Meki) - strawberry moon (위키미키 지수연 - 스트로베리 문 (원곡: 아이유)) l Show Champion l EP.]]></title>
+            <link>https://tv.naver.com/v/24112135</link>
+            <guid>https://tv.naver.com/v/24112135</guid>
+            <pubDate>Thu, 16 Dec 2021 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_218/u0OMH_1639642624145med56_JPEG/CA202112150082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] ATEEZ - Turbulence (에이티즈 - 야간비행) l Show Champion l EP.420]]></title>
+            <link>https://tv.naver.com/v/24112134</link>
+            <guid>https://tv.naver.com/v/24112134</guid>
+            <pubDate>Thu, 16 Dec 2021 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_236/ccunP_1639642621817edjme_JPEG/CA202112150078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] ATEEZ - The Real (Heung Ver.) (에이티즈 - 멋 (흥興 Ver.)) l Show Champion l EP.420]]></title>
+            <link>https://tv.naver.com/v/24112053</link>
+            <guid>https://tv.naver.com/v/24112053</guid>
+            <pubDate>Thu, 16 Dec 2021 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_143/MgeY8_16396423334832uA3n_JPEG/CA202112150077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] IVE -  ELEVEN (아이브 - 일레븐) l Show Champion l EP.420]]></title>
+            <link>https://tv.naver.com/v/24111986</link>
+            <guid>https://tv.naver.com/v/24111986</guid>
+            <pubDate>Thu, 16 Dec 2021 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_132/0zmNz_1639642153937FFgBI_JPEG/CA202112150080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Xdinary Heroes - Happy Death Day (엑스디너리 히어로즈 - 해피 데스 데이) l Show Champion l EP.420]]></title>
+            <link>https://tv.naver.com/v/24111688</link>
+            <guid>https://tv.naver.com/v/24111688</guid>
+            <pubDate>Thu, 16 Dec 2021 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_283/0Uuiw_1639641424742I2nC9_JPEG/CA202112150081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] Billlie - snowy night (빌리 - 스노이 나이트) l Show Champion l EP.420]]></title>
+            <link>https://tv.naver.com/v/24111574</link>
+            <guid>https://tv.naver.com/v/24111574</guid>
+            <pubDate>Thu, 16 Dec 2021 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_236/eKx3t_16396411146800yuzV_JPEG/CA202112150079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[COMEBACK] ATEEZ - The Real(Heung Ver.) (에이티즈 - 멋 (흥興 Ver.))]]></title>
             <link>https://tv.naver.com/v/24094504</link>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 15 Dec 2021 03:21:37 GMT</pubDate>
             <content:encoded><![CDATA[0:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211214_300/tiEX3_16394680148023pCMN_JPEG/CA202112150007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포 권장] 미리 보는 IVE 엔딩요정_ 가을ver.]]></title>
-            <link>https://tv.naver.com/v/24072854</link>
-            <guid>https://tv.naver.com/v/24072854</guid>
-            <pubDate>Wed, 15 Dec 2021 03:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_202/LI8Ex_1639468013693hBlD0_JPEG/CA202112150006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 백스테이지] ★2021 하드털이 특집★ 한 해를 마무리하며 외장 하드를 꺼내는데.. 더보기(CIX/TO1/크래비티/스테이씨/엔하이픈) l #쇼챔피언비하인드 l EP.223]]></title>
-            <link>https://tv.naver.com/v/24072483</link>
-            <guid>https://tv.naver.com/v/24072483</guid>
-            <pubDate>Tue, 14 Dec 2021 08:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[16:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_255/gSsiI_1639467143027u1jED_JPEG/CA202112140004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔 백스테이지] 소리🔇 지~~~르지 말고 박수쳐👏🏻 쇼챔비 가라사대 ＂절대로 재생 참을 수 없어＂ (원어스/EVERGLOW/IVE) l #쇼챔피언비하인드 l EP.223]]></title>
-            <link>https://tv.naver.com/v/24072472</link>
-            <guid>https://tv.naver.com/v/24072472</guid>
-            <pubDate>Tue, 14 Dec 2021 08:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[13:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_194/pgbzv_1639467131476Bxrxl_JPEG/CA202112140005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 12월 셋째 주 쇼챔 시네마 상영작은? (with. IVE(아이브))]]></title>
-            <link>https://tv.naver.com/v/24052062</link>
-            <guid>https://tv.naver.com/v/24052062</guid>
-            <pubDate>Mon, 13 Dec 2021 06:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_123/RNxqy_1639375331571lIT7E_JPEG/CA202112150003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] ONEUS XION - LUNA (원어스 시온 - 월하미인) l Show Champion l EP.419]]></title>
-            <link>https://tv.naver.com/v/24015268</link>
-            <guid>https://tv.naver.com/v/24015268</guid>
-            <pubDate>Fri, 10 Dec 2021 10:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_17/ZRS6f_163911737272292WVF_JPEG/CA202112080094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월 2주차 ♥쇼챔피언♡ MC 모음.zip (원어스 이도, 아스트로 문빈, 아스트로 산하) | Show Champion | EP.415]]></title>
-            <link>https://tv.naver.com/v/24015252</link>
-            <guid>https://tv.naver.com/v/24015252</guid>
-            <pubDate>Sat, 11 Dec 2021 11:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[6:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_162/UeiGu_1639354918561XCIPI_JPEG/CA202112080080_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
