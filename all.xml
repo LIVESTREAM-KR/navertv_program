@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 06:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1557,7 +1557,87 @@
             <guid>https://tv.naver.com/v/24126347</guid>
             <pubDate>Fri, 17 Dec 2021 05:21:02 GMT</pubDate>
             <content:encoded><![CDATA[53:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_41/Xo4t2_1639717285508Qn2Pi_JPEG/858580cd-5ef5-11ec-b18f-48df37ae3dc4_01.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_161/bW5C4_1639718899072oWI9C_PNG/1639718831265.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[나쁜 남자에게 상처받은 마음, 시그니처의 ‘Boyfriend’ (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24122347</link>
+            <guid>https://tv.naver.com/v/24122347</guid>
+            <pubDate>Fri, 17 Dec 2021 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_41/Vo4nP_1639721421848WY3TV_PNG/1639721417832.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[걱정과 두려움은 넣어두고 나에게로~🌟 고스트나인의 'Control' (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24122345</link>
+            <guid>https://tv.naver.com/v/24122345</guid>
+            <pubDate>Fri, 17 Dec 2021 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_261/Syzp4_1639720907333tpoL6_PNG/1639720900577.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[중독성 강한 멜로디🎵 박군의 ‘유턴하지마’ (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24122343</link>
+            <guid>https://tv.naver.com/v/24122343</guid>
+            <pubDate>Fri, 17 Dec 2021 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_152/u6rDf_1639720892131qGy7I_PNG/1639720887987.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삶에 지친 이들에게 전하는 위로, 신승태의 '낯선이' (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24122340</link>
+            <guid>https://tv.naver.com/v/24122340</guid>
+            <pubDate>Fri, 17 Dec 2021 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_121/TEQsN_16397194381686mTk0_PNG/1639719433899.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[힘든 시간도 마음먹기에 달렸다🙌 T1419의 '무궁화 꽃이 피었습니다' (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24122335</link>
+            <guid>https://tv.naver.com/v/24122335</guid>
+            <pubDate>Fri, 17 Dec 2021 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_44/vcOIx_16397191417101Ee8v_PNG/1639719138772.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[헤어진 연인과의 추억.. 송이한의 '추억에 묻어둔 채 살아갈게' (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24122334</link>
+            <guid>https://tv.naver.com/v/24122334</guid>
+            <pubDate>Fri, 17 Dec 2021 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_224/mB72Y_1639718812799xWXQl_PNG/1639718804103.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[파워풀한 매력적인 음색🙏 나다의 'Bulletproof' (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24122333</link>
+            <guid>https://tv.naver.com/v/24122333</guid>
+            <pubDate>Fri, 17 Dec 2021 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_29/q9b51_1639718811250G86Fp_PNG/1639718797740.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[허스키한 중저음 보이스, 문지현의 '시간이 필요해' (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24122330</link>
+            <guid>https://tv.naver.com/v/24122330</guid>
+            <pubDate>Fri, 17 Dec 2021 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_93/l3duo_1639718809927mmx8X_PNG/1639718791443.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[두려움과 그리움이 공존하는 사랑💓 W.O.W의 'To my EX' (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24122326</link>
+            <guid>https://tv.naver.com/v/24122326</guid>
+            <pubDate>Fri, 17 Dec 2021 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_232/yEsML_163971880857115nJ9_PNG/1639718784940.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑하는 상대에게 전하는 마음💗 하이엘의 '아름다운 밤' (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24122321</link>
+            <guid>https://tv.naver.com/v/24122321</guid>
+            <pubDate>Fri, 17 Dec 2021 06:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_166/eoHod_1639718807041GG71g_PNG/1639718779389.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[《예고》💌에버글로우와 함께한 아랍에미리트 콘투어는 이번주도 계속 된다💌~!! _498 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
@@ -1590,86 +1670,6 @@
             <pubDate>Fri, 10 Dec 2021 06:26:31 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_228/RIKR5_1639115141112R5IJc_JPEG/1639114743110.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 에버글로우 미아 ‘Pirate' 직캠 (EVERGLOW MIA 'Pirate') l Simply K-Pop CON-TOUR Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014409</link>
-            <guid>https://tv.naver.com/v/24014409</guid>
-            <pubDate>Fri, 10 Dec 2021 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_34/ahsBM_1639115133361lrN4P_JPEG/1639114756619.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 안예은 ‘소식’ 가로직캠 (AHN YEEUN 'The Word‘) l Simply K-Pop CON-TOUR Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014405</link>
-            <guid>https://tv.naver.com/v/24014405</guid>
-            <pubDate>Fri, 10 Dec 2021 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_31/S9qMr_1639115124081yJCUE_JPEG/1639114762082.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 고스트나인 이진우 ‘Control' 직캠 (GHOST9 Lee Jin Woo 'Control') l Simply K -Pop CON-TOUR Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014400</link>
-            <guid>https://tv.naver.com/v/24014400</guid>
-            <pubDate>Fri, 10 Dec 2021 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_216/t2nPR_16391151151918p1Hd_JPEG/1639114807563.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 고스트나인 이강성 ‘Control' 직캠 (GHOST9 Lee Kang Sung 'Control') l Simply K -Pop CON-TOUR Ep.49 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014393</link>
-            <guid>https://tv.naver.com/v/24014393</guid>
-            <pubDate>Fri, 10 Dec 2021 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_28/8aRbq_1639115108147fXJlz_JPEG/1639114815471.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 시그니처 클로이 'Boyfriend' 직캠 (cignature Chloe 'Boyfriend') l Simply K-Pop CON-TOUR Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014382</link>
-            <guid>https://tv.naver.com/v/24014382</guid>
-            <pubDate>Fri, 10 Dec 2021 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_248/CP3vq_1639115084351sfHuh_JPEG/1639114769101.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 나다 'Bulletproof' 직캠 (NADA 'Bulletproof') l Simply K-Pop CON-TOUR Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014372</link>
-            <guid>https://tv.naver.com/v/24014372</guid>
-            <pubDate>Fri, 10 Dec 2021 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_199/8idGU_1639115068170eqBRo_JPEG/1639114783327.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 시그니처 도희 'Boyfriend' 직캠 cignature DOHEE 'Boyfriend') l Simply K-Pop CON-TOUR Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014371</link>
-            <guid>https://tv.naver.com/v/24014371</guid>
-            <pubDate>Fri, 10 Dec 2021 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_165/bN4TT_1639115056824KOPzG_JPEG/1639114776220.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 티일사일구 케빈 ‘무궁화 꽃이 피었습니다’ 직캠 (T1419 Kevin 'Red Light, Green Light‘ (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014365</link>
-            <guid>https://tv.naver.com/v/24014365</guid>
-            <pubDate>Fri, 10 Dec 2021 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_120/64WzZ_1639115042307XA4c1_JPEG/1639114790605.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 티일사일구 ‘무궁화 꽃이 피었습니다 풀캠 (T1419 'Red Light, Green Light') l Simply K -Pop (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24014360</link>
-            <guid>https://tv.naver.com/v/24014360</guid>
-            <pubDate>Fri, 10 Dec 2021 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_172/9KSdt_1639115037167SBIAc_JPEG/1639114796131.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주 🏴‍해적🏴‍의 유니크한 컬러 에버글로우의 ‘Pirate’ _ Ep.497 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24013415</link>
-            <guid>https://tv.naver.com/v/24013415</guid>
-            <pubDate>Fri, 10 Dec 2021 05:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_184/m70yd_1639112271671ALUdA_PNG/1639112228236.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[로맨틱 펀치_밤은 짧아 걸어 아가씨야 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
