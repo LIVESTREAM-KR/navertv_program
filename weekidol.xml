@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 09:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 10:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 542회 예고]]></title>
+            <link>https://tv.naver.com/v/24130981</link>
+            <guid>https://tv.naver.com/v/24130981</guid>
+            <pubDate>Fri, 17 Dec 2021 10:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_267/DnDIw_1639728471475xSnHo_JPEG/CA202112220002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Weekly Playlist l 세로캠 Ver.] 온앤오프(ONF) - ＜Show Must Go On＞♬ l EP.541]]></title>
             <link>https://tv.naver.com/v/24102382</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Dec 2021 12:33:04 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_267/Q2HhK_1639117375250J0Xls_JPEG/CA202106090097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괜찮겠어? 우린 케이팝을 찢는 04즈인데.]]></title>
-            <link>https://tv.naver.com/v/23981378</link>
-            <guid>https://tv.naver.com/v/23981378</guid>
-            <pubDate>Thu, 09 Dec 2021 19:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_271/3Sv4Z_1638965529723UtAcS_JPEG/CA202112080056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
