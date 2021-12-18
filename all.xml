@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 08:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 09:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 09 Dec 2021 19:30:02 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 에버글로우 직캠 'Pirate' (EVERGLOW FanCam) @Show!MusicCore 211218 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24144326</link>
+            <guid>https://tv.naver.com/v/24144326</guid>
+            <pubDate>Sat, 18 Dec 2021 09:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211218_221/VOVl8_1639818723944oY5WU_JPEG/clip_20211218174811_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 라비 세로캠 '애니' (RAVI FanCam) @Show!MusicCore 211218 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24144170</link>
+            <guid>https://tv.naver.com/v/24144170</guid>
+            <pubDate>Sat, 18 Dec 2021 09:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211218_114/zzOz3_1639817514178IRTUy_JPEG/clip_20211218172819_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 송민호 직캠 'LOVE IN DA CAR' (MINO FanCam) @Show!MusicCore 211218 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211211_30/vvuVx_1639211231991BjBV8_JPEG/clip_20211211170157_62.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 야생돌 서성혁 직캠 'ANSWER' (WILD IDOL FanCam) @Show!MusicCore 211211 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24030387</link>
-            <guid>https://tv.naver.com/v/24030387</guid>
-            <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_108/Wj8rC_1639211230868Yverk_JPEG/clip_20211211170150_60.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 야생돌 노윤호 직캠 'ANSWER' (WILD IDOL FanCam) @Show!MusicCore 211211 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24030385</link>
-            <guid>https://tv.naver.com/v/24030385</guid>
-            <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_291/5tXfg_1639211229670TkJ9D_JPEG/clip_20211211170145_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
