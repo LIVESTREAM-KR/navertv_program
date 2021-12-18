@@ -4,7 +4,7 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 11:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 12:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_157/qhjip_1639725134570PTsao_JPEG/CA202112150099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[12월 3주차 ♥쇼챔피언♡ MC 모음.zip (아스트로 문빈, 아스트로 산하) | Show Champion | EP.420]]></title>
+            <link>https://tv.naver.com/v/24123712</link>
+            <guid>https://tv.naver.com/v/24123712</guid>
+            <pubDate>Sat, 18 Dec 2021 12:32:11 GMT</pubDate>
+            <content:encoded><![CDATA[9:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_10/hNyJL_1639709218072tXO2n_JPEG/CA202112150084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2주 연속 1위 ♥ IVE - ELEVEN 앵콜 Full ver. (6분할 앵콜은 처음이지? ^-^)]]></title>
             <link>https://tv.naver.com/v/24114527</link>
             <guid>https://tv.naver.com/v/24114527</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Dec 2021 10:22:42 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211216_236/ccunP_1639642621817edjme_JPEG/CA202112150078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] ATEEZ - The Real (Heung Ver.) (에이티즈 - 멋 (흥興 Ver.)) l Show Champion l EP.420]]></title>
-            <link>https://tv.naver.com/v/24112053</link>
-            <guid>https://tv.naver.com/v/24112053</guid>
-            <pubDate>Thu, 16 Dec 2021 10:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_143/MgeY8_16396423334832uA3n_JPEG/CA202112150077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
