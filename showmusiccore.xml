@@ -4,9 +4,57 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 05:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 06:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 안유진 직캠 'ELEVEN' (IVE YUJIN FanCam) @Show!MusicCore 211218]]></title>
+            <link>https://tv.naver.com/v/24165571</link>
+            <guid>https://tv.naver.com/v/24165571</guid>
+            <pubDate>Mon, 20 Dec 2021 06:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_292/SE9gx_1639981372439HBaCP_JPEG/clip_20211220150321_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 장원영 직캠 'ELEVEN' (IVE WONYOUNG FanCam) @Show!MusicCore 211218]]></title>
+            <link>https://tv.naver.com/v/24165570</link>
+            <guid>https://tv.naver.com/v/24165570</guid>
+            <pubDate>Mon, 20 Dec 2021 06:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_276/8ZzLW_1639981371406Y3XpT_JPEG/clip_20211220150315_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아이브 이서 직캠 'ELEVEN' (IVE LEESEO FanCam) @Show!MusicCore 211218]]></title>
+            <link>https://tv.naver.com/v/24165469</link>
+            <guid>https://tv.naver.com/v/24165469</guid>
+            <pubDate>Mon, 20 Dec 2021 06:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_143/wI26I_1639981021439PwfMV_JPEG/clip_20211220150035_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 니엘 직캠 'Suddenly' (NIEL FanCam) @Show!MusicCore 211218]]></title>
+            <link>https://tv.naver.com/v/24165278</link>
+            <guid>https://tv.naver.com/v/24165278</guid>
+            <pubDate>Mon, 20 Dec 2021 06:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_142/ioM3o_1639980473427l78fR_JPEG/clip_20211220144145_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 창조 직캠 'Suddenly' (CHANGJO FanCam) @Show!MusicCore 211218]]></title>
+            <link>https://tv.naver.com/v/24165277</link>
+            <guid>https://tv.naver.com/v/24165277</guid>
+            <pubDate>Mon, 20 Dec 2021 06:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_16/kTtY5_1639980472239VzFIO_JPEG/clip_20211220144013_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 환희 직캠 'Suddenly' (Hwanhee FanCam) @Show!MusicCore 211218]]></title>
+            <link>https://tv.naver.com/v/24165177</link>
+            <guid>https://tv.naver.com/v/24165177</guid>
+            <pubDate>Mon, 20 Dec 2021 06:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_249/Atnda_1639980126457IFFeU_JPEG/clip_20211220143832_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 아이브 직캠 'ELEVEN' (IVE FanCam) @Show!MusicCore 211218]]></title>
             <link>https://tv.naver.com/v/24144504</link>
@@ -198,54 +246,6 @@
             <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211211_103/KxZtr_1639212417199AmdSQ_JPEG/clip_20211211172307_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 가을 직캠 'ELEVEN' (IVE GAEUL FanCam) @Show!MusicCore 211211]]></title>
-            <link>https://tv.naver.com/v/24030593</link>
-            <guid>https://tv.naver.com/v/24030593</guid>
-            <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_160/ryfdS_1639212415672j1NuN_JPEG/clip_20211211172301_75.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 리즈 직캠 'ELEVEN' (IVE LIZ FanCam) @Show!MusicCore 211211]]></title>
-            <link>https://tv.naver.com/v/24030592</link>
-            <guid>https://tv.naver.com/v/24030592</guid>
-            <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_290/HIWpO_1639212414472mor8J_JPEG/clip_20211211172257_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 이서 직캠 'ELEVEN' (IVE LEESEO FanCam) @Show!MusicCore 211211]]></title>
-            <link>https://tv.naver.com/v/24030590</link>
-            <guid>https://tv.naver.com/v/24030590</guid>
-            <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_152/OzbPG_1639212413191055bH_JPEG/clip_20211211172253_73.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 안유진 직캠 'ELEVEN' (IVE YUJIN FanCam) @Show!MusicCore 211211]]></title>
-            <link>https://tv.naver.com/v/24030589</link>
-            <guid>https://tv.naver.com/v/24030589</guid>
-            <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_265/D99Pq_1639212411987JgMXP_JPEG/clip_20211211172244_71.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 장원영 직캠 'ELEVEN' (IVE WONYOUNG FanCam) @Show!MusicCore 211211]]></title>
-            <link>https://tv.naver.com/v/24030558</link>
-            <guid>https://tv.naver.com/v/24030558</guid>
-            <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_121/uAqB4_1639212175892EP9yg_JPEG/clip_20211211172249_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 직캠 'ELEVEN' (IVE FanCam) @Show!MusicCore 211211]]></title>
-            <link>https://tv.naver.com/v/24030540</link>
-            <guid>https://tv.naver.com/v/24030540</guid>
-            <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_181/QxYGu_1639212117005JhYMn_JPEG/clip_20211211172238_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
