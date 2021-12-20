@@ -4,9 +4,17 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 23:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 01:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독 선공개] 흥 폭발↗️ 유재석에 이어 이승기까지 춤 추게 한 59호의 정체는? ㅋㅋ]]></title>
+            <link>https://tv.naver.com/v/24160012</link>
+            <guid>https://tv.naver.com/v/24160012</guid>
+            <pubDate>Mon, 20 Dec 2021 01:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_51/JzxFz_16399615223727Nvti_JPEG/20211220_093234_164_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[싱어게인2 모아듣기] 고수님들 내 마음속에 저장★ 천년만년 노래만 불러주세요..😇 | JTBC 211213 방송]]></title>
             <link>https://tv.naver.com/v/24119146</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Dec 2021 19:57:17 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_292/UCH4e_1638790739377ym1bm_JPEG/20211206_202633_042_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[31호에게 홀라당 넘어감💚 'ALL 어게인' 받을 수밖에 없는 무대( ˃᷄˶˶̫˶˂᷅ ) | JTBC 211206 방송]]></title>
-            <link>https://tv.naver.com/v/23932996</link>
-            <guid>https://tv.naver.com/v/23932996</guid>
-            <pubDate>Thu, 09 Dec 2021 19:57:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_160/SH2Pi_1638789774791BN7Q5_JPEG/20211206_200850_541_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
