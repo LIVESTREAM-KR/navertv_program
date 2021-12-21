@@ -4,7 +4,7 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 01:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 02:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Mon, 20 Dec 2021 13:31:03 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_113/4MzUU_16399985378492zATy_JPEG/20211220_195712_563_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어젯밤엔 우리 아빠가~🖍 39호의 노래에 심사위원 대혼란 ㅋㅋ | JTBC 211220 방송]]></title>
-            <link>https://tv.naver.com/v/24171058</link>
-            <guid>https://tv.naver.com/v/24171058</guid>
-            <pubDate>Mon, 20 Dec 2021 13:31:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_166/Aggow_1639998535649Fm4Bt_JPEG/20211220_195420_618_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옛 추억에 푹 빠져드는(,,꒪ᐞ꒪,,) 25호 가수의 〈사랑하긴 했었나요〉♬ | JTBC 211220 방송]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 16 Dec 2021 16:34:50 GMT</pubDate>
             <content:encoded><![CDATA[8:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_234/3K9yy_1639668423142deA7o_JPEG/20211217_000648_891_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어게인2 3회 예고편 - 모두를 충격에 빠트린 노래의 주인공은?!]]></title>
+            <link>https://tv.naver.com/v/24059414</link>
+            <guid>https://tv.naver.com/v/24059414</guid>
+            <pubDate>Tue, 21 Dec 2021 02:41:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_60/RIgP1_1639395143417aAtQg_JPEG/20211213_202257_986_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
