@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 23:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 01:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_250/X1rX5_1639110590132RuN1v_JPEG/957b8800-5971-11ec-a979-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[방송선공개] 올 한 해 케이팝을 떠들썩하게 만든 곡들을 모아모아! 랜덤 플레이 댄스 배틀! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24165572</link>
+            <guid>https://tv.naver.com/v/24165572</guid>
+            <pubDate>Tue, 21 Dec 2021 01:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_79/Q5K7v_1639981373647Jp73X_JPEG/CA202112220003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주간아이돌 542회 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24130981</link>
             <guid>https://tv.naver.com/v/24130981</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Fri, 10 Dec 2021 10:25:35 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_241/GEMN0_1639118817692BA8OY_JPEG/CA202112150002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 세로캠 Ver.] 투모로우바이투게더(TOMORROW X TOGETHER) - ＜In My Blood＞ (원곡 : 션 멘데스)♬ l EP.515 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24015270</link>
-            <guid>https://tv.naver.com/v/24015270</guid>
-            <pubDate>Sat, 11 Dec 2021 12:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_267/Q2HhK_1639117375250J0Xls_JPEG/CA202106090097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
@@ -2712,7 +2712,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_37/9hWDy_1639993618278DEjqP_JPEG/20211220_182928_316_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독 선공개] 흥 폭발↗️ 유재석에 이어 이승기까지 춤 추게 한 59호의 정체는? ㅋㅋ (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <title><![CDATA[[선공개] 흥 폭발↗️ 유재석에 이어 이승기까지 춤 추게 한 59호의 정체는? ㅋㅋ (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24160012</link>
             <guid>https://tv.naver.com/v/24160012</guid>
             <pubDate>Mon, 20 Dec 2021 01:10:29 GMT</pubDate>
