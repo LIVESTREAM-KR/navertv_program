@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 07:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 08:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 우주호 직캠 '미리 메리 크리스마스' (JUNGWOO X MINJU X Lee Know FanCam) @Show!MusicCore 211225]]></title>
+            <link>https://tv.naver.com/v/24262827</link>
+            <guid>https://tv.naver.com/v/24262827</guid>
+            <pubDate>Sat, 25 Dec 2021 08:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211225_70/FhTud_1640419014478LCNUS_JPEG/clip_20211225163845_58.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 아이브 안유진 직캠 'ELEVEN' (IVE YUJIN FanCam) @Show!MusicCore 211218]]></title>
             <link>https://tv.naver.com/v/24165571</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Dec 2021 06:25:19 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_220/CCqVY_1639375934862BLJja_JPEG/clip_20211213144908_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 아이브 레이 직캠 'ELEVEN' (IVE REI FanCam) @Show!MusicCore 211211]]></title>
-            <link>https://tv.naver.com/v/24030594</link>
-            <guid>https://tv.naver.com/v/24030594</guid>
-            <pubDate>Sat, 11 Dec 2021 09:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211211_103/KxZtr_1639212417199AmdSQ_JPEG/clip_20211211172307_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
