@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 23:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 01:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2504,6 +2504,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210712_155/XLq8z_1626069103384sL4GE_JPEG/85b475ba-1028-43b0-9e6e-8aa4b824fccb_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Jtalk 인터뷰_이승기 편] 이승기가 만난 '싱어게인2' 참가자들은? (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24306707</link>
+            <guid>https://tv.naver.com/v/24306707</guid>
+            <pubDate>Tue, 28 Dec 2021 01:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[5:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_81/f7a8n_1640652780182uR8a2_JPEG/20211228_093423_743_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[싱어게인2 5회 예고편 - 마침내 시작된 남녀 최강 죽음의 조 대결 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24299486</link>
             <guid>https://tv.naver.com/v/24299486</guid>
@@ -2720,7 +2728,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_30/v0EZM_1640597875791Dxvjb_JPEG/20211227_182442_779_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독 선공개] 오히려 심사위원이 괴로운 죽음의 조😱 이 대결의 승자는? (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <title><![CDATA[[선공개] 오히려 심사위원이 괴로운 죽음의 조😱 이 대결의 승자는? (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24284832</link>
             <guid>https://tv.naver.com/v/24284832</guid>
             <pubDate>Mon, 27 Dec 2021 02:45:04 GMT</pubDate>
@@ -2734,14 +2742,6 @@
             <pubDate>Mon, 27 Dec 2021 02:45:04 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211220_106/3QOFi_1640001118195bKd6P_JPEG/20211220_204228_393_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 소절에 끝. 73호의 美친 음색에 규현이 부러워서 배 아픔( ｰ̀εｰ́ ) | JTBC 211220 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24171618</link>
-            <guid>https://tv.naver.com/v/24171618</guid>
-            <pubDate>Mon, 27 Dec 2021 02:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_298/sN8TG_1640000833766Xkvma_JPEG/20211220_202905_508_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 2학년 최사랑 - Run the World #예능연구소4K직캠 #FanCam l MBC211226방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
