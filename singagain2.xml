@@ -4,9 +4,17 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 08:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 09:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스페셜] 춤이면 춤! 노래면 노래! 아 물론 싱어게인2 명MC 이승기 이야깁니다.. | JTBC 211227 방송]]></title>
+            <link>https://tv.naver.com/v/24337731</link>
+            <guid>https://tv.naver.com/v/24337731</guid>
+            <pubDate>Wed, 29 Dec 2021 09:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[8:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_58/68Xod_1640767083596TJ2o0_JPEG/20211229_171513_964_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Jtalk 인터뷰_이승기 편] 이승기가 만난 '싱어게인2' 참가자들은?]]></title>
             <link>https://tv.naver.com/v/24306707</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 01:10:40 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_182/5VBg1_1640567005525f4EBS_JPEG/20211227_094605_035_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 4회 예고편 - 심사위원이 직접 짠 2라운드 팀 대항전♨]]></title>
-            <link>https://tv.naver.com/v/24171693</link>
-            <guid>https://tv.naver.com/v/24171693</guid>
-            <pubDate>Mon, 20 Dec 2021 14:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_106/3QOFi_1640001118195bKd6P_JPEG/20211220_204228_393_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
