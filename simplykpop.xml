@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 07:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 08:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》💌빌리(Billlie)와 함께한 이번주 연말특집 콘투어💌~!! _500회]]></title>
+            <link>https://tv.naver.com/v/24355226</link>
+            <guid>https://tv.naver.com/v/24355226</guid>
+            <pubDate>Thu, 30 Dec 2021 08:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_128/erhxe_1640851695090SFcyV_PNG/1640851690607.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[섬세한 🌼감성🌼 담뿍 담은 에이비식스의 ‘그 해 여름’]]></title>
             <link>https://tv.naver.com/v/24243495</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 17 Dec 2021 07:20:58 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_187/gWvUM_1639715376923FWkLD_JPEG/1639714452509.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 나다 'Bulletproof' 풀캠 (NADA 'Bulletproof') l Simply K-Pop CON-TOUR Ep.498]]></title>
-            <link>https://tv.naver.com/v/24125674</link>
-            <guid>https://tv.naver.com/v/24125674</guid>
-            <pubDate>Fri, 17 Dec 2021 07:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_100/Gl2UD_1639715371337BzOEP_JPEG/1639714439291.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
