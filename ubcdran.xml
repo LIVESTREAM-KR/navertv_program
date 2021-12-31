@@ -4,7 +4,7 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 11:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 12:35:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 31 Dec 2021 11:19:40 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_220/Nnn8N_1640933333869FkHwy_JPEG/137db9c3-6a05-11ec-93de-a0369ff94ec8_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이혁_Alone(원곡Heart)]]></title>
+            <link>https://tv.naver.com/v/24374176</link>
+            <guid>https://tv.naver.com/v/24374176</guid>
+            <pubDate>Fri, 31 Dec 2021 12:34:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_273/cnDZ9_1640933197059tKPiJ_JPEG/eee2d7ea-6a04-11ec-bf52-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소란_속삭여줘(Dang!)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Dec 2021 07:21:34 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_184/OdjXr_1639378152101xTSmv_JPEG/a1bf8d7d-5be0-11ec-a3dc-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나루_오늘도 난 살았네]]></title>
-            <link>https://tv.naver.com/v/24013234</link>
-            <guid>https://tv.naver.com/v/24013234</guid>
-            <pubDate>Fri, 10 Dec 2021 11:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_213/0yv3T_1639111642154W8f4z_JPEG/e1c9c2a6-5973-11ec-917b-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
