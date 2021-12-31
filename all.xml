@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 03:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 04:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BDC - MOON RIDER (문 라이더) + MOON WALKER (문 워커) ★Simply's Spotlight★ _ Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24371409</link>
+            <guid>https://tv.naver.com/v/24371409</guid>
+            <pubDate>Fri, 31 Dec 2021 04:29:19 GMT</pubDate>
+            <content:encoded><![CDATA[6:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_40/GLdQT_1640924213776spbYO_PNG/1640923927279.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[☃️겨울의 따뜻하고 포근한 감성 빌리의 ‘snowy night’ _ Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24371405</link>
+            <guid>https://tv.naver.com/v/24371405</guid>
+            <pubDate>Fri, 31 Dec 2021 04:29:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_183/bVBVy_1640924201202zA6hc_PNG/1640923893083.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[《예고》💌빌리(Billlie)와 함께한 이번주 연말특집 콘투어💌~!! _500회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24355226</link>
             <guid>https://tv.naver.com/v/24355226</guid>
@@ -1654,22 +1670,6 @@
             <pubDate>Mon, 27 Dec 2021 02:44:33 GMT</pubDate>
             <content:encoded><![CDATA[53:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_161/bW5C4_1639718899072oWI9C_PNG/1639718831265.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 티일사일구 제로 ‘무궁화 꽃이 피었습니다 직캠 (T1419 Zero 'Red Light, Green Light') (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24125677</link>
-            <guid>https://tv.naver.com/v/24125677</guid>
-            <pubDate>Mon, 27 Dec 2021 02:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_190/KFLgP_1639715381416RhTsb_JPEG/1639714457677.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 티일사일구 온 ‘무궁화 꽃이 피었습니다’ 직캠 (T1419 ON 'Red Light, Green Light‘) (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24125675</link>
-            <guid>https://tv.naver.com/v/24125675</guid>
-            <pubDate>Mon, 27 Dec 2021 02:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_187/gWvUM_1639715376923FWkLD_JPEG/1639714452509.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신곡선공개]오무라이스(오곤&무성)_울산관람차 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
