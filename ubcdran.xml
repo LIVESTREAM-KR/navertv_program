@@ -4,9 +4,17 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 05:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 06:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 울주마운틴플렉스 축하쇼 으라차차 콘서트]]></title>
+            <link>https://tv.naver.com/v/24424697</link>
+            <guid>https://tv.naver.com/v/24424697</guid>
+            <pubDate>Tue, 04 Jan 2022 06:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[49:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_148/eXq62_1641275281833sP5DT_JPEG/cb77276e-6d1f-11ec-b776-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이민혁_시선]]></title>
             <link>https://tv.naver.com/v/24374447</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Dec 2021 07:21:34 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_13/3P8xh_1639378198391unNjU_JPEG/ba7b57b3-5be0-11ec-9d5b-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기프트_나가려다]]></title>
-            <link>https://tv.naver.com/v/24053386</link>
-            <guid>https://tv.naver.com/v/24053386</guid>
-            <pubDate>Mon, 13 Dec 2021 07:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_184/OdjXr_1639378152101xTSmv_JPEG/a1bf8d7d-5be0-11ec-a3dc-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
