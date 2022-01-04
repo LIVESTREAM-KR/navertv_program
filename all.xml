@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 23:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 01:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_184/OdjXr_1639378152101xTSmv_JPEG/a1bf8d7d-5be0-11ec-a3dc-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[방송선공개] 댄스그룹 엑디즈?! Xdinary Heroes 정수와 O.de가 준비한 JYP 선배님들 댄스 커버 무대! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24409013</link>
+            <guid>https://tv.naver.com/v/24409013</guid>
+            <pubDate>Tue, 04 Jan 2022 01:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_172/64tsq_16411942130424l77P_JPEG/CA202201050004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 확신의 남주상 Xdinary Heroes 가온의 도깨비 명대사! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24408900</link>
+            <guid>https://tv.naver.com/v/24408900</guid>
+            <pubDate>Tue, 04 Jan 2022 01:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_140/XBnB3_1641193912703xlPjW_JPEG/CA202201050003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주간아이돌 543회 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24375846</link>
             <guid>https://tv.naver.com/v/24375846</guid>
@@ -2134,22 +2150,6 @@
             <pubDate>Mon, 27 Dec 2021 02:44:45 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_34/nXf6M_1639568288268zti8J_JPEG/CA202112150049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7년 내내 유치뽕짝 'MK 개그'='유 취향' 제대로 저격🔫 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24096598</link>
-            <guid>https://tv.naver.com/v/24096598</guid>
-            <pubDate>Mon, 27 Dec 2021 02:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_97/sjORj_1639568225659u7cjd_JPEG/CA202112150048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다정한 온뿌네♥ 평생 가족이 되어주라! 가족사진 찰칵📸 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24096514</link>
-            <guid>https://tv.naver.com/v/24096514</guid>
-            <pubDate>Mon, 27 Dec 2021 02:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_170/BmWaC_1639567919114bTFql_JPEG/CA202112150047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
@@ -2600,7 +2600,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_48/bDsXc_16412086148013Jxtn_JPEG/20220103_200051_393_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[7호 추가 합격!! 아쉽게 탈락한 13호의 이름 '오열' | JTBC 220103 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <title><![CDATA[7호 추가 합격!! 아쉽게 탈락한 53호의 이름 '오열' | JTBC 220103 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24413638</link>
             <guid>https://tv.naver.com/v/24413638</guid>
             <pubDate>Mon, 03 Jan 2022 13:29:20 GMT</pubDate>
