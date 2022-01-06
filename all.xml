@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 09:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 10:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_52/btgxa_16393782525808UURH_JPEG/d776035a-5be0-11ec-9a6e-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Weekly Playlist l 세로캠] Xdinary Heroes - ＜Drown＞ (원곡 : Bring Me The Horizon) ♬ l EP.543 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24466500</link>
+            <guid>https://tv.naver.com/v/24466500</guid>
+            <pubDate>Thu, 06 Jan 2022 10:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_47/ysxZt_1641452492571K4jL4_JPEG/CA202201050042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드러머에게 칼을 쥐어주면 생기는 일! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24453426</link>
             <guid>https://tv.naver.com/v/24453426</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Mon, 27 Dec 2021 02:44:45 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_31/hP9Ix_1640172836065iQeFe_JPEG/CA202112220009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댄스 무형문화제 'Stray Kids'★ 그룹 퍼포먼스 남자 부분 수상 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24210323</link>
-            <guid>https://tv.naver.com/v/24210323</guid>
-            <pubDate>Mon, 27 Dec 2021 02:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_54/sxhv0_1640172782867KUDkr_JPEG/CA202112220010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
