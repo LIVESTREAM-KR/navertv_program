@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 09:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 10:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 544회 예고]]></title>
+            <link>https://tv.naver.com/v/24490841</link>
+            <guid>https://tv.naver.com/v/24490841</guid>
+            <pubDate>Fri, 07 Jan 2022 10:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_232/BHS8L_1641547298965toV9I_JPEG/CA202201120002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Weekly Playlist l 세로캠] Xdinary Heroes - ＜Drown＞ (원곡 : Bring Me The Horizon) ♬ l EP.543]]></title>
             <link>https://tv.naver.com/v/24466500</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 07:22:45 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_218/QcKag_16401731422220MGqt_JPEG/CA202112220011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌도 보는 'ITZY 유나' 직캠! 개인 직캠 여자 부문 수상]]></title>
-            <link>https://tv.naver.com/v/24210342</link>
-            <guid>https://tv.naver.com/v/24210342</guid>
-            <pubDate>Mon, 27 Dec 2021 07:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_31/hP9Ix_1640172836065iQeFe_JPEG/CA202112220009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
