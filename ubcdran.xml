@@ -4,7 +4,7 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 10:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 11:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,86 @@
             <pubDate>Thu, 06 Jan 2022 06:27:35 GMT</pubDate>
             <content:encoded><![CDATA[49:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_208/0vSRV_16415433951786NUL8_JPEG/61187e9c-6eaf-11ec-b908-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이예준_미친소리]]></title>
+            <link>https://tv.naver.com/v/24446610</link>
+            <guid>https://tv.naver.com/v/24446610</guid>
+            <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_32/zU8QG_1641367388635W4dF3_JPEG/29fbaf47-6df8-11ec-8e73-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허영생_U R MAN]]></title>
+            <link>https://tv.naver.com/v/24446566</link>
+            <guid>https://tv.naver.com/v/24446566</guid>
+            <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_42/wFHQG_1641367327002q4J95_JPEG/0bed97c4-6df8-11ec-8e73-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조성모_너의 곁으로]]></title>
+            <link>https://tv.naver.com/v/24446542</link>
+            <guid>https://tv.naver.com/v/24446542</guid>
+            <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_127/4sMPk_1641367280896d3UzO_JPEG/e4526f39-6df7-11ec-be2f-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제아_Bad Habits(원곡 애드시런)]]></title>
+            <link>https://tv.naver.com/v/24446504</link>
+            <guid>https://tv.naver.com/v/24446504</guid>
+            <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_194/bIXLE_1641367214027Vts6p_JPEG/beb86dae-6df7-11ec-8a04-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아도이_Grace]]></title>
+            <link>https://tv.naver.com/v/24446463</link>
+            <guid>https://tv.naver.com/v/24446463</guid>
+            <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_194/CdN1q_1641367152306poTG1_JPEG/978bbd54-6df7-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너드커넥션_Water Fall]]></title>
+            <link>https://tv.naver.com/v/24446420</link>
+            <guid>https://tv.naver.com/v/24446420</guid>
+            <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[4:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_236/nvWKt_16413670852240DeoH_JPEG/6d216f76-6df7-11ec-8e73-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리도어_Woo]]></title>
+            <link>https://tv.naver.com/v/24446370</link>
+            <guid>https://tv.naver.com/v/24446370</guid>
+            <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_40/4S5CP_1641367012534OdECu_JPEG/4e7d8099-6df7-11ec-8a02-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크_좋다]]></title>
+            <link>https://tv.naver.com/v/24446333</link>
+            <guid>https://tv.naver.com/v/24446333</guid>
+            <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_68/hcR6a_1641366965774rXO2Q_JPEG/26da413a-6df7-11ec-8e73-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크_Romantic]]></title>
+            <link>https://tv.naver.com/v/24446285</link>
+            <guid>https://tv.naver.com/v/24446285</guid>
+            <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[6:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_197/W7U20_16413669034289POq1_JPEG/e3028c39-6df6-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나루_Did you have a good time?]]></title>
+            <link>https://tv.naver.com/v/24446202</link>
+            <guid>https://tv.naver.com/v/24446202</guid>
+            <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_12/cwZRR_1641366784424kYNw5_JPEG/bc138164-6df6-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 울주마운틴플렉스 축하쇼 으라차차 콘서트]]></title>
@@ -166,86 +246,6 @@
             <pubDate>Fri, 24 Dec 2021 11:18:47 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211224_227/aKv0i_164033247917836A2S_JPEG/7ccd36bc-648e-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디오스 오디오_끝없이 우리는]]></title>
-            <link>https://tv.naver.com/v/24248187</link>
-            <guid>https://tv.naver.com/v/24248187</guid>
-            <pubDate>Fri, 24 Dec 2021 11:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_162/05peX_1640332411326h0GRh_JPEG/56038ede-648e-11ec-be2f-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제아_눈물섬]]></title>
-            <link>https://tv.naver.com/v/24131744</link>
-            <guid>https://tv.naver.com/v/24131744</guid>
-            <pubDate>Fri, 17 Dec 2021 11:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_1/Yqg9r_1639730348662f3ora_JPEG/a0dff8eb-5f14-11ec-b9f9-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제아_인터뷰]]></title>
-            <link>https://tv.naver.com/v/24131729</link>
-            <guid>https://tv.naver.com/v/24131729</guid>
-            <pubDate>Fri, 17 Dec 2021 11:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[8:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_71/Ur8cu_1639730312731CeYmf_JPEG/4bbf371d-5f14-11ec-badc-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제아_그댄달라요]]></title>
-            <link>https://tv.naver.com/v/24131663</link>
-            <guid>https://tv.naver.com/v/24131663</guid>
-            <pubDate>Fri, 17 Dec 2021 11:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_209/LcLbp_1639730151552AGjCi_JPEG/286c6658-5f14-11ec-b40d-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제아_Greedyy]]></title>
-            <link>https://tv.naver.com/v/24131642</link>
-            <guid>https://tv.naver.com/v/24131642</guid>
-            <pubDate>Fri, 17 Dec 2021 11:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[4:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_20/54kUG_1639730094788XzBTH_JPEG/fcf059b8-5f13-11ec-b891-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리도어_하화]]></title>
-            <link>https://tv.naver.com/v/24131614</link>
-            <guid>https://tv.naver.com/v/24131614</guid>
-            <pubDate>Fri, 17 Dec 2021 11:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_183/PqbqJ_1639730022599SHL4F_JPEG/d6283883-5f13-11ec-83c9-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신곡선공개]라포엠_만월]]></title>
-            <link>https://tv.naver.com/v/24131579</link>
-            <guid>https://tv.naver.com/v/24131579</guid>
-            <pubDate>Fri, 17 Dec 2021 11:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[5:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_35/JQOVX_1639729950481usXFe_JPEG/9f4c0742-5f13-11ec-81e6-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신곡선공개]라포엠_Sunshine]]></title>
-            <link>https://tv.naver.com/v/24131555</link>
-            <guid>https://tv.naver.com/v/24131555</guid>
-            <pubDate>Fri, 17 Dec 2021 11:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_45/omRo4_1639729870295nYEfU_JPEG/72b84954-5f13-11ec-83c9-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱 펀치_밤은 짧아 걸어 아가씨야]]></title>
-            <link>https://tv.naver.com/v/24053473</link>
-            <guid>https://tv.naver.com/v/24053473</guid>
-            <pubDate>Mon, 13 Dec 2021 07:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[6:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_121/Hk22d_1639378343527GVODX_JPEG/f8f30230-5be0-11ec-9970-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로맨틱 펀치_몽유병]]></title>
-            <link>https://tv.naver.com/v/24053432</link>
-            <guid>https://tv.naver.com/v/24053432</guid>
-            <pubDate>Mon, 13 Dec 2021 07:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_52/btgxa_16393782525808UURH_JPEG/d776035a-5be0-11ec-9a6e-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
