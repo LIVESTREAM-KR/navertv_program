@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 04:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Farewell, MC MoonBae (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24485311</link>
+            <guid>https://tv.naver.com/v/24485311</guid>
+            <pubDate>Fri, 07 Jan 2022 05:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_220/PmXan_16415321771544Ig9x_PNG/1641532174023.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.501 - New Year Special (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24485163</link>
+            <guid>https://tv.naver.com/v/24485163</guid>
+            <pubDate>Fri, 07 Jan 2022 05:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[59:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_243/2CQAF_1641532312692wcdgB_PNG/1641532293169.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24372094</link>
             <guid>https://tv.naver.com/v/24372094</guid>
@@ -1654,22 +1670,6 @@
             <pubDate>Mon, 03 Jan 2022 01:11:20 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_23/kDcPd_1640849207733GEHbf_JPEG/1640848569949.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 비디씨 홍성준 'MOON RIDER' 직캠 (BDC Hong Seong Jun 'MOON RIDER') l Simply K -Pop CON-TOUR Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24354784</link>
-            <guid>https://tv.naver.com/v/24354784</guid>
-            <pubDate>Mon, 03 Jan 2022 01:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_207/xF5r6_1640849202742s6dFz_JPEG/1640848623046.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 위클리 소은 'After School' 가로직캠 (Weeekly PARK SOEUN 'After School') l Simply K -Pop CON-TOUR (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24354773</link>
-            <guid>https://tv.naver.com/v/24354773</guid>
-            <pubDate>Mon, 03 Jan 2022 01:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_59/1YPWO_1640849185938lrMkK_JPEG/1640848434857.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 울주 마운틴플렉스 축하쇼 으라차차 콘서트 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
