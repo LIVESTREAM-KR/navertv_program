@@ -4,9 +4,17 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 07:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 08:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 에스파 직캠 'Dreams Come True' (aespa FanCam) @Show!MusicCore 220108]]></title>
+            <link>https://tv.naver.com/v/24500769</link>
+            <guid>https://tv.naver.com/v/24500769</guid>
+            <pubDate>Sat, 08 Jan 2022 08:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_261/F0bIa_1641629552178oittB_JPEG/clip_20220108165343_55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 리노 직캠 '미리 메리 크리스마스' (Lee Know FanCam) @Show!MusicCore 211225]]></title>
             <link>https://tv.naver.com/v/24263437</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 08:27:10 GMT</pubDate>
             <content:encoded><![CDATA[4:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_288/2lmHo_1639377492510bDl4v_JPEG/clip_20211213151511_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엑스디너리 히어로즈 가온 직캠 'Happy Death Day' (Xdinary Heroes GAON FanCam) @Show!MusicCore 211211]]></title>
-            <link>https://tv.naver.com/v/24053038</link>
-            <guid>https://tv.naver.com/v/24053038</guid>
-            <pubDate>Mon, 27 Dec 2021 08:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_168/cXY4T_1639377491478Su5cy_JPEG/clip_20211213151508_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
