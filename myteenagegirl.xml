@@ -4,7 +4,7 @@
         <title>MBC 방과후 설렘 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 04:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 05:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_166/qIC0h_1641785254845laCP4_JPEG/clip_20220110120816_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 오유진 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송]]></title>
-            <link>https://tv.naver.com/v/24520507</link>
-            <guid>https://tv.naver.com/v/24520507</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_68/5vcdD_1641784591933niQSv_JPEG/clip_20220110115949_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[#방과후설렘 직캠] 1학년 보미세라 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송]]></title>
             <link>https://tv.naver.com/v/24520505</link>
             <guid>https://tv.naver.com/v/24520505</guid>
             <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_105/x9jub_1641784590954oTFk6_JPEG/clip_20220110115147_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 1학년 오유진 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송]]></title>
+            <link>https://tv.naver.com/v/24520507</link>
+            <guid>https://tv.naver.com/v/24520507</guid>
+            <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_68/5vcdD_1641784591933niQSv_JPEG/clip_20220110115949_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 2학년 조수이 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송]]></title>
