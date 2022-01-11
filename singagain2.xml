@@ -4,7 +4,7 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 06:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 07:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_100/Be1SZ_1641810452530Pz8pX_JPEG/20220110_191453_613_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아아~🐆 에너지 넘치게 본인의 색깔을 다 보여준 4호의 〈타잔〉♬ | JTBC 220110 방송]]></title>
-            <link>https://tv.naver.com/v/24529625</link>
-            <guid>https://tv.naver.com/v/24529625</guid>
-            <pubDate>Mon, 10 Jan 2022 12:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_119/8sPL6_16418103903679FIbv_JPEG/20220110_191100_406_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[57호 VS 4호] 4라운드로 진출할 가수는? (ft. 당황한 시조새) | JTBC 220110 방송]]></title>
             <link>https://tv.naver.com/v/24529537</link>
             <guid>https://tv.naver.com/v/24529537</guid>
@@ -182,6 +174,14 @@
             <pubDate>Mon, 10 Jan 2022 12:36:22 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_209/o31PV_16418100964942tvUo_JPEG/20220110_191147_075_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아아~🐆 에너지 넘치게 본인의 색깔을 다 보여준 4호의 〈타잔〉♬ | JTBC 220110 방송]]></title>
+            <link>https://tv.naver.com/v/24529625</link>
+            <guid>https://tv.naver.com/v/24529625</guid>
+            <pubDate>Mon, 10 Jan 2022 12:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_119/8sPL6_16418103903679FIbv_JPEG/20220110_191100_406_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[준비, 시작🦋 새롭게 도약할 57호의 모습이 기대됐던 무대 | JTBC 220110 방송]]></title>
