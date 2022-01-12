@@ -4,9 +4,17 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 05:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 06:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허영생_내 머리가 나빠서]]></title>
+            <link>https://tv.naver.com/v/24561747</link>
+            <guid>https://tv.naver.com/v/24561747</guid>
+            <pubDate>Wed, 12 Jan 2022 06:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_117/Wq3EP_16419670468406KftL_JPEG/39697f7f-736c-11ec-a810-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 울주 마운틴플렉스 축하쇼 으라차차 콘서트]]></title>
             <link>https://tv.naver.com/v/24464391</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_12/cwZRR_1641366784424kYNw5_JPEG/bc138164-6df6-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 울주마운틴플렉스 축하쇼 으라차차 콘서트]]></title>
-            <link>https://tv.naver.com/v/24424697</link>
-            <guid>https://tv.naver.com/v/24424697</guid>
-            <pubDate>Tue, 04 Jan 2022 06:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[49:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_148/eXq62_1641275281833sP5DT_JPEG/cb77276e-6d1f-11ec-b776-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이민혁_시선]]></title>

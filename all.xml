@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 05:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 06:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_23/kDcPd_1640849207733GEHbf_JPEG/1640848569949.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[허영생_내 머리가 나빠서 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24561747</link>
+            <guid>https://tv.naver.com/v/24561747</guid>
+            <pubDate>Wed, 12 Jan 2022 06:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_117/Wq3EP_16419670468406KftL_JPEG/39697f7f-736c-11ec-a810-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021 울주 마운틴플렉스 축하쇼 으라차차 콘서트 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24464391</link>
             <guid>https://tv.naver.com/v/24464391</guid>
@@ -1758,14 +1766,6 @@
             <pubDate>Fri, 07 Jan 2022 11:18:45 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_12/cwZRR_1641366784424kYNw5_JPEG/bc138164-6df6-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 울주마운틴플렉스 축하쇼 으라차차 콘서트 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24424697</link>
-            <guid>https://tv.naver.com/v/24424697</guid>
-            <pubDate>Tue, 04 Jan 2022 06:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[49:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_148/eXq62_1641275281833sP5DT_JPEG/cb77276e-6d1f-11ec-b776-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이민혁_시선 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
@@ -2648,6 +2648,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_59/YkhR3_16418106915801FyTF_JPEG/20220110_191956_098_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쉽게 가시지 않는 여운☺️ 20호의 중저음에 압도되어버린 무대 | JTBC 220110 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24529648</link>
+            <guid>https://tv.naver.com/v/24529648</guid>
+            <pubDate>Wed, 12 Jan 2022 06:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_18/Z2kgR_1641810454279Ga3gK_JPEG/20220110_191601_674_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이것이 록 스프릿🤘 웅장함이 느껴지는 20호의 〈봄비〉♪ | JTBC 220110 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24529646</link>
             <guid>https://tv.naver.com/v/24529646</guid>
@@ -2734,14 +2742,6 @@
             <pubDate>Mon, 03 Jan 2022 14:20:48 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_283/BzUDc_1641209872995Aa7Fl_JPEG/20220103_202542_572_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다름 속에 환상적인 조화💘 짜릿했던 '깐부'의 무대! | JTBC 220103 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24413982</link>
-            <guid>https://tv.naver.com/v/24413982</guid>
-            <pubDate>Mon, 03 Jan 2022 14:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_217/z3nBw_1641209515932l52Jz_JPEG/20220103_202119_666_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 4학년 김유연 - Power #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
