@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 08:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 09:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》이번주 콘투어는 💌김요한(KIM YOHAN)과 함께 스페인으로 떠난다💌~!! _502회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24585167</link>
+            <guid>https://tv.naver.com/v/24585167</guid>
+            <pubDate>Thu, 13 Jan 2022 09:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_95/FM23a_1642062531654PMM2G_PNG/1642062522295.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Farewell, MC MoonBae (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24485311</link>
             <guid>https://tv.naver.com/v/24485311</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Mon, 03 Jan 2022 01:11:20 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_267/7MyiX_16408492129754kTBg_JPEG/1640848555753.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 비디씨 윤정환 'MOON RIDER' 직캠 (BDC Yun Jung Hwan 'MOON RIDER') l Simply K-Pop CON-TOUR Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24354788</link>
-            <guid>https://tv.naver.com/v/24354788</guid>
-            <pubDate>Mon, 03 Jan 2022 01:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_23/kDcPd_1640849207733GEHbf_JPEG/1640848569949.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허영생_내 머리가 나빠서 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
