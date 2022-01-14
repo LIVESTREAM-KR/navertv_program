@@ -4,9 +4,17 @@
         <title>Mnet 엠카운트다운 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 01:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 02:43:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['1위' 꿈이 현실로! '케플러(Kep1er)'의 'WA DA DA' 무대 | Mnet 220113 방송]]></title>
+            <link>https://tv.naver.com/v/24588234</link>
+            <guid>https://tv.naver.com/v/24588234</guid>
+            <pubDate>Fri, 14 Jan 2022 02:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[5:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_272/Rtx9h_1642070209031K3isP_JPEG/1c670e8b-506f-4ad8-a3af-2dfaaffffd07_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['SPECIAL STAGE' 신한류 이끌 테마곡 'TO1'의 'Infinite City (Groundbreak Ver.)' 무대 | Mnet 211028 방송]]></title>
             <link>https://tv.naver.com/v/23225166</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 12:38:22 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210225_148/Mn2iH_1614183415744UQUXj_JPEG/B120041702_EPI0682_11_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[′원호′의 짙어진 섹시美! ′Open Mind′ 무대 | Mnet 200917 방송]]></title>
-            <link>https://tv.naver.com/v/15831706</link>
-            <guid>https://tv.naver.com/v/15831706</guid>
-            <pubDate>Mon, 27 Dec 2021 12:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210225_260/52jco_1614184085901hQdLK_JPEG/B120041702_EPI0682_12_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
