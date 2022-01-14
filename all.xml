@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 05:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 06:29:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1656,20 +1656,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220113_95/FM23a_1642062531654PMM2G_PNG/1642062522295.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Farewell, MC MoonBae (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24485311</link>
-            <guid>https://tv.naver.com/v/24485311</guid>
-            <pubDate>Fri, 07 Jan 2022 05:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_220/PmXan_16415321771544Ig9x_PNG/1641532174023.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[[PLYCAM 4K] 김요한 'DESSERT' 가로직캠 (KIM YOHAN 'DESSERT') l Simply K -Pop CON-TOUR Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24584229</link>
+            <guid>https://tv.naver.com/v/24584229</guid>
+            <pubDate>Fri, 14 Jan 2022 06:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_299/tJg43_1642059754788Cwe4A_JPEG/1642059750060.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.501 - New Year Special (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24485163</link>
-            <guid>https://tv.naver.com/v/24485163</guid>
-            <pubDate>Fri, 07 Jan 2022 05:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[59:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_243/2CQAF_1641532312692wcdgB_PNG/1641532293169.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[[PLYCAM 4K] 김요한 'DESSERT' 직캠 (KIM YOHAN 'DESSERT') l Simply K -Pop CON-TOUR Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24584219</link>
+            <guid>https://tv.naver.com/v/24584219</guid>
+            <pubDate>Fri, 14 Jan 2022 06:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_291/3eRqL_1642059742245WqGK7_JPEG/1642059738580.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허영생_내 머리가 나빠서 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
