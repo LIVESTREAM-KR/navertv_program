@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 04:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 05:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,62 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24599777</link>
+            <guid>https://tv.naver.com/v/24599777</guid>
+            <pubDate>Fri, 14 Jan 2022 05:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[55:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_273/33WeA_1642136937051Ochb3_PNG/1642136933448.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🧁달콤🧁한 사랑에 빠져벼린 김요한의 ‘DESSERT’ _ Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24599503</link>
+            <guid>https://tv.naver.com/v/24599503</guid>
+            <pubDate>Fri, 14 Jan 2022 05:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_270/m1TDt_1642137215744f2qIp_PNG/1642137212538.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🌙새벽 감성 자극하는 업텐션의 ‘너에게 미쳤었다’ _ Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24599501</link>
+            <guid>https://tv.naver.com/v/24599501</guid>
+            <pubDate>Fri, 14 Jan 2022 05:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_72/zluWw_1642136344304bEbNh_PNG/1642136341691.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[포근한 ❄️겨울❄️ 감성 담은 BF의 ‘설화’  _ Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24599493</link>
+            <guid>https://tv.naver.com/v/24599493</guid>
+            <pubDate>Fri, 14 Jan 2022 05:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_19/EGFOU_16421357901141SD0I_PNG/1642135787709.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서로의 마음으로 향하는 👒여행 원위의 ‘너의 우주는’ _ Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24599489</link>
+            <guid>https://tv.naver.com/v/24599489</guid>
+            <pubDate>Fri, 14 Jan 2022 05:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_141/xMabl_16421357798936Y8uF_PNG/1642135397929.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🔭화성에서 바라본 세상 미래소년의 ‘Marvelous’ _ Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24599220</link>
+            <guid>https://tv.naver.com/v/24599220</guid>
+            <pubDate>Fri, 14 Jan 2022 05:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_125/1PFAT_16421350507910408T_PNG/1642134838896.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[때 묻지 않은 🌼꿈을 간직한 기수의 ‘Waves of you (English Ver.)’ _ Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24599218</link>
+            <guid>https://tv.naver.com/v/24599218</guid>
+            <pubDate>Fri, 14 Jan 2022 05:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_201/q7wFg_164213504581499L9r_PNG/1642134562192.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[강렬한 🎡디스코 사운드 우아!의 ‘별 따러 가자’ _ Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24598998</link>
             <guid>https://tv.naver.com/v/24598998</guid>
@@ -1614,62 +1670,6 @@
             <pubDate>Fri, 07 Jan 2022 05:21:54 GMT</pubDate>
             <content:encoded><![CDATA[59:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_243/2CQAF_1641532312692wcdgB_PNG/1641532293169.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24372094</link>
-            <guid>https://tv.naver.com/v/24372094</guid>
-            <pubDate>Fri, 31 Dec 2021 05:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[53:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_105/hKZyy_1640927070028v77NV_PNG/1640927027234.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[에버글로우 (EVERGLOW) - Don't Speak (돈 스피크) + Pirate (파일럿) ★Simply's Spotlight★ _ Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24372081</link>
-            <guid>https://tv.naver.com/v/24372081</guid>
-            <pubDate>Fri, 31 Dec 2021 05:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[7:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_44/AoNyX_16409265217544DPIX_PNG/1640925209887.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오메가엑스 (OMEGA X) - VAMOS (바모스) + WHAT'S GOIN' ON ★Simply's Spotlight★ _ Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24371854</link>
-            <guid>https://tv.naver.com/v/24371854</guid>
-            <pubDate>Fri, 31 Dec 2021 05:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[7:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_295/MQif8_1640925748665G4jvd_PNG/1640924389853.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위클리 (Weeekly) - After School + Holiday Party ★Simply's Spotlight★ _ Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24371644</link>
-            <guid>https://tv.naver.com/v/24371644</guid>
-            <pubDate>Fri, 31 Dec 2021 05:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[7:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_260/OSSFP_1640925016431AAzNv_PNG/1640924105711.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BDC - MOON RIDER (문 라이더) + MOON WALKER (문 워커) ★Simply's Spotlight★ _ Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24371409</link>
-            <guid>https://tv.naver.com/v/24371409</guid>
-            <pubDate>Fri, 31 Dec 2021 04:29:19 GMT</pubDate>
-            <content:encoded><![CDATA[6:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_40/GLdQT_1640924213776spbYO_PNG/1640923927279.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[☃️겨울의 따뜻하고 포근한 감성 빌리의 ‘snowy night’ _ Ep.500 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24371405</link>
-            <guid>https://tv.naver.com/v/24371405</guid>
-            <pubDate>Fri, 31 Dec 2021 04:29:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_183/bVBVy_1640924201202zA6hc_PNG/1640923893083.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[《예고》💌빌리(Billlie)와 함께한 이번주 연말특집 콘투어💌~!! _500회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24355226</link>
-            <guid>https://tv.naver.com/v/24355226</guid>
-            <pubDate>Thu, 30 Dec 2021 08:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_128/erhxe_1640851695090SFcyV_PNG/1640851690607.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[허영생_내 머리가 나빠서 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
