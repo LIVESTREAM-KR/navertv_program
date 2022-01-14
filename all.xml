@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 09:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 10:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211224_227/aKv0i_164033247917836A2S_JPEG/7ccd36bc-648e-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주간아이돌 545회 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24601771</link>
+            <guid>https://tv.naver.com/v/24601771</guid>
+            <pubDate>Fri, 14 Jan 2022 10:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_68/4Y25v_1642141593912SpADq_JPEG/CA202201190002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한층 더 독해진 나이 공격 '나이 먹고 쪼꼬미 하기 힘들지ㅎ' (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24570409</link>
             <guid>https://tv.naver.com/v/24570409</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Wed, 05 Jan 2022 12:36:50 GMT</pubDate>
             <content:encoded><![CDATA[0:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_65/8HUfv_1641383864851dxcbk_JPEG/CA202201050024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 남자들 게임도 웃기게 한다.. ＜밴드 펜싱 히어로즈＞ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24453332</link>
-            <guid>https://tv.naver.com/v/24453332</guid>
-            <pubDate>Wed, 05 Jan 2022 12:36:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_14/PrzE0_1641383812143SmfCb_JPEG/CA202201050020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
