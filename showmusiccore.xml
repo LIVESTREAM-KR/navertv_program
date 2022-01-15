@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 10:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 11:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 장민호 세로캠 ‘정답은 없다’ (Jang Min-ho FanCam) @Show!MusicCore 220115]]></title>
+            <link>https://tv.naver.com/v/24621708</link>
+            <guid>https://tv.naver.com/v/24621708</guid>
+            <pubDate>Sat, 15 Jan 2022 11:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_94/xi2Zp_16422438918627BtFq_JPEG/clip_20220115192748_90.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 김요한 세로캠 ‘DESSERT’ (KIM YOHAN FanCam) @Show!MusicCore 220115]]></title>
+            <link>https://tv.naver.com/v/24621597</link>
+            <guid>https://tv.naver.com/v/24621597</guid>
+            <pubDate>Sat, 15 Jan 2022 11:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_266/003KP_1642243351595oVGFm_JPEG/clip_20220115191622_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 최강창민 직캠 ‘Devil’ (MAX CHANGMIN FanCam) @Show!MusicCore 220115]]></title>
+            <link>https://tv.naver.com/v/24621582</link>
+            <guid>https://tv.naver.com/v/24621582</guid>
+            <pubDate>Sat, 15 Jan 2022 11:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_129/I01lf_1642243289661rUjzf_JPEG/clip_20220115191743_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 원위 직캠 '너의 우주는 (Universe_)' (ONEWE FanCam) @Show!MusicCore 220115]]></title>
+            <link>https://tv.naver.com/v/24621364</link>
+            <guid>https://tv.naver.com/v/24621364</guid>
+            <pubDate>Sat, 15 Jan 2022 11:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_2/mEH6v_1642242389758EDTBQ_JPEG/clip_20220115190207_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 최강창민 세로캠 ‘Devil’ (MAX CHANGMIN FanCam) @Show!MusicCore 220115]]></title>
             <link>https://tv.naver.com/v/24621298</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 08 Jan 2022 10:22:55 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220108_65/4byXm_1641635191345jtKF6_JPEG/clip_20220108182844_99.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 피원하모니 기호 직캠 'Do It Like This' (P1Harmony KEEHO FanCam) @Show!MusicCore 220108]]></title>
-            <link>https://tv.naver.com/v/24501548</link>
-            <guid>https://tv.naver.com/v/24501548</guid>
-            <pubDate>Sat, 08 Jan 2022 10:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_39/jytwK_1641634951002hOOlA_JPEG/clip_20220108182502_97.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 케플러 김채현 직캠 'WA DA DA' (Kep1er KIM CHAEHYUN FanCam) @Show!MusicCore 220108]]></title>
-            <link>https://tv.naver.com/v/24501542</link>
-            <guid>https://tv.naver.com/v/24501542</guid>
-            <pubDate>Sat, 08 Jan 2022 10:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_138/EY7p5_1641634893088HP9I1_JPEG/clip_20220108181210_91.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 케플러 김다연 직캠 'WA DA DA' (Kep1er KIM DAYEON FanCam) @Show!MusicCore 220108]]></title>
-            <link>https://tv.naver.com/v/24501493</link>
-            <guid>https://tv.naver.com/v/24501493</guid>
-            <pubDate>Sat, 08 Jan 2022 10:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_63/5DLfC_1641634596462XGUxu_JPEG/clip_20220108181237_93.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 케플러 샤오팅 직캠 'WA DA DA' (Kep1er XIAOTING FanCam) @Show!MusicCore 220108]]></title>
-            <link>https://tv.naver.com/v/24501492</link>
-            <guid>https://tv.naver.com/v/24501492</guid>
-            <pubDate>Sat, 08 Jan 2022 10:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_225/JaXP5_164163459509912aky_JPEG/clip_20220108181143_89.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
