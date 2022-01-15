@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 08:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 09:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 09 Dec 2021 19:55:47 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 피원하모니 직캠 'Do It Like This' (P1Harmony FanCam) @Show!MusicCore 220115 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24620049</link>
+            <guid>https://tv.naver.com/v/24620049</guid>
+            <pubDate>Sat, 15 Jan 2022 09:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_94/rNoHV_1642236152107Gs7gG_JPEG/clip_20220115172206_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 업텐션 직캠 '너에게 미쳤었다' (UP10TION FanCam) @Show!MusicCore 220115 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24620029</link>
+            <guid>https://tv.naver.com/v/24620029</guid>
+            <pubDate>Sat, 15 Jan 2022 09:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_99/cLoHK_16422360895727QjSC_JPEG/clip_20220115171817_62.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 케플러 직캠 'WA DA DA' (Kep1er FanCam) @Show!MusicCore 220115 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -238,22 +254,6 @@
             <pubDate>Sat, 08 Jan 2022 09:22:17 GMT</pubDate>
             <content:encoded><![CDATA[4:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220108_3/xvUeR_1641630993378EQAwG_JPEG/clip_20220108171133_67.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 케플러 직캠 'WA DA DA' (Kep1er FanCam) @Show!MusicCore 220108 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24500937</link>
-            <guid>https://tv.naver.com/v/24500937</guid>
-            <pubDate>Sat, 08 Jan 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_104/5v8Zi_1641630449990hJKOM_JPEG/clip_20220108170821_65.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 에스파 닝닝 직캠 'Dreams Come True' (aespa NINGNING FanCam) @Show!MusicCore 220108 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24500928</link>
-            <guid>https://tv.naver.com/v/24500928</guid>
-            <pubDate>Sat, 08 Jan 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_49/VE9L9_1641630396025FYtXD_JPEG/clip_20220108170332_63.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
