@@ -4,9 +4,41 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 07:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 08:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 케플러 직캠 'WA DA DA' (Kep1er FanCam) @Show!MusicCore 220115]]></title>
+            <link>https://tv.naver.com/v/24619597</link>
+            <guid>https://tv.naver.com/v/24619597</guid>
+            <pubDate>Sat, 15 Jan 2022 08:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_47/IiY0r_16422345941132hUSP_JPEG/clip_20220115165219_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 온리원오브 직캠 ‘skinz’ (OnlyOneOf FanCam) @Show!MusicCore 220115]]></title>
+            <link>https://tv.naver.com/v/24619596</link>
+            <guid>https://tv.naver.com/v/24619596</guid>
+            <pubDate>Sat, 15 Jan 2022 08:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_141/aqy8d_16422345915584447y_JPEG/clip_20220115165214_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 우아! 직캠 ‘별 따러 가자’ (woo!ah! FanCam) @Show!MusicCore 220115]]></title>
+            <link>https://tv.naver.com/v/24619452</link>
+            <guid>https://tv.naver.com/v/24619452</guid>
+            <pubDate>Sat, 15 Jan 2022 08:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_199/QC7MJ_1642233993625qMD3L_JPEG/clip_20220115164649_55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 모모랜드 직캠 ‘Yummy Yummy Love’ (MOMOLAND FanCam) @Show!MusicCore 220115]]></title>
+            <link>https://tv.naver.com/v/24619451</link>
+            <guid>https://tv.naver.com/v/24619451</guid>
+            <pubDate>Sat, 15 Jan 2022 08:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220115_24/1U5D8_1642233990887PINrF_JPEG/clip_20220115164217_52.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 아이브 리즈 직캠 'ELEVEN' (IVE LIZ FanCam) @Show!MusicCore 220108]]></title>
             <link>https://tv.naver.com/v/24501745</link>
@@ -214,38 +246,6 @@
             <pubDate>Sat, 08 Jan 2022 09:22:17 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220108_49/VE9L9_1641630396025FYtXD_JPEG/clip_20220108170332_63.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 에스파 지젤 직캠 'Dreams Come True' (aespa GISELLE FanCam) @Show!MusicCore 220108]]></title>
-            <link>https://tv.naver.com/v/24500927</link>
-            <guid>https://tv.naver.com/v/24500927</guid>
-            <pubDate>Sat, 08 Jan 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_196/liW12_1641630394631S7Yr3_JPEG/clip_20220108170327_61.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 에스파 윈터 직캠 'Dreams Come True' (aespa WINTER FanCam) @Show!MusicCore 220108]]></title>
-            <link>https://tv.naver.com/v/24500926</link>
-            <guid>https://tv.naver.com/v/24500926</guid>
-            <pubDate>Sat, 08 Jan 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_222/uJpxR_1641630393408Cdkmo_JPEG/clip_20220108170322_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 에스파 카리나 직캠 'Dreams Come True' (aespa KARINA FanCam) @Show!MusicCore 220108]]></title>
-            <link>https://tv.naver.com/v/24500925</link>
-            <guid>https://tv.naver.com/v/24500925</guid>
-            <pubDate>Sat, 08 Jan 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_186/7LN4X_1641630391944FfjRl_JPEG/clip_20220108170315_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 에스파 직캠 'Dreams Come True' (aespa FanCam) @Show!MusicCore 220108]]></title>
-            <link>https://tv.naver.com/v/24500769</link>
-            <guid>https://tv.naver.com/v/24500769</guid>
-            <pubDate>Sat, 08 Jan 2022 08:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_261/F0bIa_1641629552178oittB_JPEG/clip_20220108165343_55.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
