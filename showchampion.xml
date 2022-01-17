@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 03:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 04:30:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] (어흥) 2022년 새롭게 돌아온 쇼챔피언 본방사수하면 안잡아 먹지~]]></title>
+            <link>https://tv.naver.com/v/24641007</link>
+            <guid>https://tv.naver.com/v/24641007</guid>
+            <pubDate>Mon, 17 Jan 2022 04:29:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_269/gV7IJ_1642392394752Vjxz7_JPEG/CA202201190003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠] IVE GAEUL - ELEVEN (아이브 가을 - 일레븐) | Show Champion l EP.420]]></title>
             <link>https://tv.naver.com/v/24131804</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Dec 2021 10:22:42 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211216_218/u0OMH_1639642624145med56_JPEG/CA202112150082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] ATEEZ - Turbulence (에이티즈 - 야간비행) l Show Champion l EP.420]]></title>
-            <link>https://tv.naver.com/v/24112134</link>
-            <guid>https://tv.naver.com/v/24112134</guid>
-            <pubDate>Thu, 16 Dec 2021 10:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_236/ccunP_1639642621817edjme_JPEG/CA202112150078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
