@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 23:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 01:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2504,6 +2504,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210712_155/XLq8z_1626069103384sL4GE_JPEG/85b475ba-1028-43b0-9e6e-8aa4b824fccb_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[선공개] 치열한 매칭에 기 빨리는(?) 30호vs33호의 대결⚡️ 벌써부터 짜릿해.. (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24637307</link>
+            <guid>https://tv.naver.com/v/24637307</guid>
+            <pubDate>Mon, 17 Jan 2022 01:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_80/hFW1p_1642379197296EVMyp_JPEG/20220117_091353_861_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스페셜] 지금 울 언니는 싱어게인2 덕질 중💕 아낌없이 칭찬하는 이해리 모음❣️ | JTBC 220110 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24553212</link>
             <guid>https://tv.naver.com/v/24553212</guid>
@@ -2734,14 +2742,6 @@
             <pubDate>Mon, 03 Jan 2022 14:20:48 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_154/qZO0y_1641210179822TTutJ_JPEG/20220103_202811_219_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시즌 통틀어 역대급🔥🔥 극찬 릴레이 '위치스'의 마력이 넘쳤던 무대‍ | JTBC 220103 방 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24414039</link>
-            <guid>https://tv.naver.com/v/24414039</guid>
-            <pubDate>Mon, 03 Jan 2022 14:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_283/BzUDc_1641209872995Aa7Fl_JPEG/20220103_202542_572_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 4학년 김유연 - Power #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
