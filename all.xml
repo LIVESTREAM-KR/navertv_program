@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 02:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2744,6 +2744,94 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_154/qZO0y_1641210179822TTutJ_JPEG/20220103_202811_219_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[#방과후설렘 직캠] 3학년 최윤정 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24640256</link>
+            <guid>https://tv.naver.com/v/24640256</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_261/GXYI2_1642389693512LOzn5_JPEG/clip_20220117115858_42.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 3학년 김현희 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24640255</link>
+            <guid>https://tv.naver.com/v/24640255</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_216/sUDEF_16423896919777aQ5B_JPEG/clip_20220117115722_40.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 3학년 이지우 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24640254</link>
+            <guid>https://tv.naver.com/v/24640254</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_100/zMXpw_1642389690532s8m0E_JPEG/clip_20220117115710_38.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 3학년 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24640180</link>
+            <guid>https://tv.naver.com/v/24640180</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_163/Vyk9l_1642389392978FJsGC_JPEG/clip_20220117115027_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 3학년 오지은 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24640082</link>
+            <guid>https://tv.naver.com/v/24640082</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_87/UN0Ti_164238909304551zbG_JPEG/clip_20220117115433_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 3학년 이태림 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24640081</link>
+            <guid>https://tv.naver.com/v/24640081</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_137/kKnuQ_1642389091687IhHYM_JPEG/clip_20220117115214_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 1학년 성민채 - MIC Drop #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24639810</link>
+            <guid>https://tv.naver.com/v/24639810</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_152/c7CN0_1642388250945v6TWt_JPEG/clip_20220117113644_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 1학년 정시우 - MIC Drop #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24639792</link>
+            <guid>https://tv.naver.com/v/24639792</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_38/TbsGr_1642388192182XjOvJ_JPEG/clip_20220117113409_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 2학년 미나미 - MIC Drop #예능연구소4K직캠 #FanCam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24639791</link>
+            <guid>https://tv.naver.com/v/24639791</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_5/YpJRP_1642388190571hNlMU_JPEG/clip_20220117113403_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 1학년 최수빈 - MIC Drop #예능연구소4K직캠 #FanCam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24639705</link>
+            <guid>https://tv.naver.com/v/24639705</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_213/maXVa_1642387895119wXMi5_JPEG/clip_20220117113352_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 1학년X2학년 ＜랩＞ 연합 – MIC Drop #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24639704</link>
+            <guid>https://tv.naver.com/v/24639704</guid>
+            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_102/lkStH_1642387892736L2HC8_JPEG/clip_20220117112616_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[유료광고포함][#방과후설렘 직캠] 4학년 이미희 - Next Level #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24639435</link>
             <guid>https://tv.naver.com/v/24639435</guid>
@@ -2894,94 +2982,6 @@
             <pubDate>Mon, 10 Jan 2022 04:30:13 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_109/ElmHF_16417857919124fugK_JPEG/clip_20220110120703_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 3학년X4학년 ＜댄스＞ 연합 – Power #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520747</link>
-            <guid>https://tv.naver.com/v/24520747</guid>
-            <pubDate>Mon, 10 Jan 2022 04:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_48/j3loa_1641785490867qiP3e_JPEG/clip_20220110121318_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 4학년 윤채원 - I #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520686</link>
-            <guid>https://tv.naver.com/v/24520686</guid>
-            <pubDate>Mon, 10 Jan 2022 04:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_148/s9yM3_1641785255986M6Gk2_JPEG/clip_20220110120827_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 3학년 이지우 - I #예능연구소4K직캠 #FanCam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520684</link>
-            <guid>https://tv.naver.com/v/24520684</guid>
-            <pubDate>Mon, 10 Jan 2022 04:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_166/qIC0h_1641785254845laCP4_JPEG/clip_20220110120816_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 보미세라 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520505</link>
-            <guid>https://tv.naver.com/v/24520505</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_105/x9jub_1641784590954oTFk6_JPEG/clip_20220110115147_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 오유진 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520507</link>
-            <guid>https://tv.naver.com/v/24520507</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_68/5vcdD_1641784591933niQSv_JPEG/clip_20220110115949_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 2학년 조수이 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520447</link>
-            <guid>https://tv.naver.com/v/24520447</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_161/ZhNs1_1641784352220IQCcQ_JPEG/clip_20220110115332_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 정유주 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520446</link>
-            <guid>https://tv.naver.com/v/24520446</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_16/lwgeq_16417843511335EcdV_JPEG/clip_20220110115241_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 2학년 이지원 - 맛 (Hot Sauce) #예능연구소4K직캠 #FanCam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520351</link>
-            <guid>https://tv.naver.com/v/24520351</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_118/yalM8_16417839976186FMXM_JPEG/clip_20220110115019_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 윤승주 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520350</link>
-            <guid>https://tv.naver.com/v/24520350</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_27/IQ2Oo_16417839964586RbOQ_JPEG/clip_20220110114340_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 김선유 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520347</link>
-            <guid>https://tv.naver.com/v/24520347</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_207/sfmC2_1641783995253EaJgh_JPEG/clip_20220110113703_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 2학년 카리나 - 맛 (Hot Sauce) #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24520250</link>
-            <guid>https://tv.naver.com/v/24520250</guid>
-            <pubDate>Mon, 10 Jan 2022 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_111/ICiSc_1641783692172dJJxX_JPEG/clip_20220110114032_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
