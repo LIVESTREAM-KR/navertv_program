@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 09:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 10:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -981,7 +981,7 @@
             <guid>https://tv.naver.com/v/24641007</guid>
             <pubDate>Mon, 17 Jan 2022 04:29:30 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_269/gV7IJ_1642392394752Vjxz7_JPEG/CA202201190003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_238/ezzXu_1642500097375VMbMw_JPEG/CA202201190003_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쇼챔직캠] IVE GAEUL - ELEVEN (아이브 가을 - 일레븐) | Show Champion l EP.420 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
