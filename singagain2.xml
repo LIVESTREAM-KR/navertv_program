@@ -4,7 +4,7 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 01:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 02:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_134/XmjRg_1642417050201Q2oPe_JPEG/20220117_194534_395_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[킹콩의 뜨개질🧵 어색하지만 진심을 다한 33호 가수 | JTBC 220117 방송]]></title>
+            <link>https://tv.naver.com/v/24649810</link>
+            <guid>https://tv.naver.com/v/24649810</guid>
+            <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_33/1a6q2_1642416713816ajm1P_JPEG/20220117_194439_492_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[33호의 목소리로 우리에게 해주는 위로 〈한숨〉♪ | JTBC 220117 방송]]></title>
             <link>https://tv.naver.com/v/24649897</link>
             <guid>https://tv.naver.com/v/24649897</guid>
             <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_289/P5eOi_16424169961507XJmG_JPEG/20220117_194348_104_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30호가 해야 할 고민… 노래 잘하는 가수들이 가끔 빠지는 함정 | JTBC 220117 방송]]></title>
+            <link>https://tv.naver.com/v/24649809</link>
+            <guid>https://tv.naver.com/v/24649809</guid>
+            <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_224/1RRO9_1642416710018cjNb1_JPEG/20220117_194250_149_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초심을 되새기며 부르는 30호의 〈어떻게 사랑이 그래요〉♪ | JTBC 220117 방송]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_169/40Y7T_1642416992539UBbor_JPEG/20220117_194037_705_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹콩의 뜨개질🧵 어색하지만 진심을 다한 33호 가수 | JTBC 220117 방송]]></title>
-            <link>https://tv.naver.com/v/24649810</link>
-            <guid>https://tv.naver.com/v/24649810</guid>
-            <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_33/1a6q2_1642416713816ajm1P_JPEG/20220117_194439_492_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30호가 해야 할 고민… 노래 잘하는 가수들이 가끔 빠지는 함정 | JTBC 220117 방송]]></title>
-            <link>https://tv.naver.com/v/24649809</link>
-            <guid>https://tv.naver.com/v/24649809</guid>
-            <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_224/1RRO9_1642416710018cjNb1_JPEG/20220117_194250_149_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천천히 스며드는... 34호의 목소리만으로 채운 노래 〈가을 시선〉♪ | JTBC 220117 방송]]></title>
@@ -96,20 +96,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_111/P5m8H_1642416693462xcbmE_JPEG/20220117_193733_812_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[70년대 곡을 재해석! 숲의 정령 같은🌳 73호의 무대 〈찻잔〉♪ | JTBC 220117 방송]]></title>
-            <link>https://tv.naver.com/v/24649788</link>
-            <guid>https://tv.naver.com/v/24649788</guid>
-            <pubDate>Mon, 17 Jan 2022 13:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_140/0Fd1q_1642416689498zhnWF_JPEG/20220117_193511_551_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[70호 vs 73호] 소울메이트 깐부의 대결⚡ 4라운드에 진출할 가수는? | JTBC 220117 방송]]></title>
             <link>https://tv.naver.com/v/24649698</link>
             <guid>https://tv.naver.com/v/24649698</guid>
             <pubDate>Mon, 17 Jan 2022 13:32:29 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_265/H0jYX_1642416398950Tx6sO_JPEG/20220117_193617_017_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[70년대 곡을 재해석! 숲의 정령 같은🌳 73호의 무대 〈찻잔〉♪ | JTBC 220117 방송]]></title>
+            <link>https://tv.naver.com/v/24649788</link>
+            <guid>https://tv.naver.com/v/24649788</guid>
+            <pubDate>Mon, 17 Jan 2022 13:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_140/0Fd1q_1642416689498zhnWF_JPEG/20220117_193511_551_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HEY! (빵야~♡) 긍정 에너지 넘치는 70호🍎 〈세상만사〉♬ | JTBC 220117 방송]]></title>
@@ -168,20 +168,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_121/wbI9X_16424157954931Lfpv_JPEG/20220117_192208_124_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[22호 가수의 이야기를 들려줄 무대 〈우리의 얘기를 쓰겠소〉♬ | JTBC 220117 방송]]></title>
-            <link>https://tv.naver.com/v/24649408</link>
-            <guid>https://tv.naver.com/v/24649408</guid>
-            <pubDate>Mon, 17 Jan 2022 12:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_119/0CGTc_1642415489646dshMu_JPEG/20220117_191540_843_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[심사 어게인..! 10년 만에 22호와 다시 재회한 윤종신 심사위원 | JTBC 220117 방송]]></title>
             <link>https://tv.naver.com/v/24649343</link>
             <guid>https://tv.naver.com/v/24649343</guid>
             <pubDate>Mon, 17 Jan 2022 12:36:54 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_34/phyG3_1642415251426d4XD2_JPEG/20220117_191941_871_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[22호 가수의 이야기를 들려줄 무대 〈우리의 얘기를 쓰겠소〉♬ | JTBC 220117 방송]]></title>
+            <link>https://tv.naver.com/v/24649408</link>
+            <guid>https://tv.naver.com/v/24649408</guid>
+            <pubDate>Mon, 17 Jan 2022 12:36:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_119/0CGTc_1642415489646dshMu_JPEG/20220117_191540_843_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[＂신화 창조세요..?＂ 신화만큼 카리스마 넘쳤던 55호의 눈빛💥 | JTBC 220117 방송]]></title>
