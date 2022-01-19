@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 10:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 11:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -976,6 +976,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170710_44/W7seI_1499677537300zuhxv_JPEG/VD13895327_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] HYOLYN - Layin’ Low(feat. Jooyoung) (효린 - 레인 로우) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24691764</link>
+            <guid>https://tv.naver.com/v/24691764</guid>
+            <pubDate>Wed, 19 Jan 2022 11:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_203/FlInG_1642588294616nKm4z_JPEG/CA202201190053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] CHOCOME - Super Yuppers! (쪼꼬미 - 슈퍼 그럼요) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24691706</link>
+            <guid>https://tv.naver.com/v/24691706</guid>
+            <pubDate>Wed, 19 Jan 2022 11:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_32/VteLS_1642588001876yTKrG_JPEG/CA202201190052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] MOMOLAND - Yummy Yummy Love (모모랜드 - 야미 야미 럽) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24691704</link>
+            <guid>https://tv.naver.com/v/24691704</guid>
+            <pubDate>Wed, 19 Jan 2022 11:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_199/SMYKa_1642587996883RbwPp_JPEG/CA202201190051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[최초 공개] fromis_9 - DM (프로미스나인 - 디엠) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24691643</link>
             <guid>https://tv.naver.com/v/24691643</guid>
@@ -1190,30 +1214,6 @@
             <pubDate>Mon, 27 Dec 2021 02:44:03 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_116/nfzbI_1639727817219i0Yeb_JPEG/CA202112150102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] Xdinary Heroes JUNGSU-Happy Death Day (엑스디너리 히어로즈 정수-해피 데스 데이) | Show Champion | EP.420 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24130532</link>
-            <guid>https://tv.naver.com/v/24130532</guid>
-            <pubDate>Mon, 27 Dec 2021 02:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_260/N6fe9_1639730294316QsCRj_JPEG/CA202112150100_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠 4K] Billlie HARAM - snowy night (빌리 하람 - 스노이 나이트) | Show Champion | EP.420 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24130385</link>
-            <guid>https://tv.naver.com/v/24130385</guid>
-            <pubDate>Mon, 27 Dec 2021 02:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_278/H8g17_1639727213356bGhNz_JPEG/CA202112150108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] ATEEZ WOO YOUNG - Turbulence (에이티즈 우영 - 야간비행) | Show Champion | EP.420 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24130262</link>
-            <guid>https://tv.naver.com/v/24130262</guid>
-            <pubDate>Mon, 27 Dec 2021 02:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_263/PvLQg_1639726980498U7wdf_JPEG/CA202112150098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
