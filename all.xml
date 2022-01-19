@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 13:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 14:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2504,6 +2504,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210712_155/XLq8z_1626069103384sL4GE_JPEG/85b475ba-1028-43b0-9e6e-8aa4b824fccb_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스페셜] 심사평 듣는데 왜 눈물이 나요💧? 진심이 담겨있는 김이나의 심사평 모음 | JTBC 220124 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24695052</link>
+            <guid>https://tv.naver.com/v/24695052</guid>
+            <pubDate>Wed, 19 Jan 2022 14:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[8:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_116/QWMZy_1642600302538G815K_JPEG/20220119_223324_670_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[싱어게인2 8회 예고편 - TOP 10으로 가는 마지막 관문! (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24649992</link>
             <guid>https://tv.naver.com/v/24649992</guid>
@@ -2734,14 +2742,6 @@
             <pubDate>Mon, 10 Jan 2022 14:21:17 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220111_88/e2Prn_1641860498466piilr_JPEG/20220111_091427_063_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[37호 vs 48호] 남녀 보컬 최강자의 대결, 심사위원단의 선택은? | JTBC 220110 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24530294</link>
-            <guid>https://tv.naver.com/v/24530294</guid>
-            <pubDate>Mon, 10 Jan 2022 14:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_89/QyIIh_1641812797778wV9Wu_JPEG/20220110_195031_199_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 3학년 최윤정 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
