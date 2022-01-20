@@ -4,7 +4,7 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 01:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 02:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_215/2gtcG_1642413096772GbB4I_JPEG/20220117_183654_383_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[편곡 천재✨ 눈누난나 스타일로 완.벽 재해석한 〈Dynamite〉♬ | JTBC 220117 방송]]></title>
+            <link>https://tv.naver.com/v/24648747</link>
+            <guid>https://tv.naver.com/v/24648747</guid>
+            <pubDate>Thu, 20 Jan 2022 02:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_265/8MmSd_1642413093953fAWLi_JPEG/20220117_183528_201_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다이내믹한 퍼포먼스가 돋보였던 삼남매의 무대( *˘╰╯˘*) | JTBC 220117 방송]]></title>
             <link>https://tv.naver.com/v/24648579</link>
             <guid>https://tv.naver.com/v/24648579</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Jan 2022 15:26:10 GMT</pubDate>
             <content:encoded><![CDATA[8:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220111_200/e3MCR_16419123987653kmt0_JPEG/20220111_232441_770_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 7회 예고편 - 숙명의 라이벌전.. 보컬 진검승부!]]></title>
-            <link>https://tv.naver.com/v/24530295</link>
-            <guid>https://tv.naver.com/v/24530295</guid>
-            <pubDate>Mon, 10 Jan 2022 14:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_88/e2Prn_1641860498466piilr_JPEG/20220111_091427_063_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
