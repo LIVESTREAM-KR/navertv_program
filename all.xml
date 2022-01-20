@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 07:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 08:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》💌최예나(YENA)와 함께한 스페인 콘투어는 이번주도 계속 된다💌~!! _503회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24708524</link>
+            <guid>https://tv.naver.com/v/24708524</guid>
+            <pubDate>Thu, 20 Jan 2022 08:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_128/7cLqu_1642663944816Yp6HI_PNG/1642663942360.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[👏Thank you for the memories,💕MC MoonBae💕 | SIMPLY BEHIND CAM EP.4 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24605130</link>
             <guid>https://tv.naver.com/v/24605130</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Thu, 13 Jan 2022 09:23:44 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220113_95/FM23a_1642062531654PMM2G_PNG/1642062522295.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 김요한 'DESSERT' 가로직캠 (KIM YOHAN 'DESSERT') l Simply K -Pop CON-TOUR Ep.502 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24584229</link>
-            <guid>https://tv.naver.com/v/24584229</guid>
-            <pubDate>Fri, 14 Jan 2022 06:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_299/tJg43_1642059754788Cwe4A_JPEG/1642059750060.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오무라이스(오곤&무성)_잠 못 드는 밤 비는 내리고 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
