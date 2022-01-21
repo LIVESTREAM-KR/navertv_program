@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 09:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 10:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_169/EiOkC_1640933089745QUIUP_JPEG/c50b539e-6a04-11ec-93de-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주간아이돌 546회 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24727823</link>
+            <guid>https://tv.naver.com/v/24727823</guid>
+            <pubDate>Fri, 21 Jan 2022 10:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_32/hfT3l_1642749151569pI5nL_JPEG/CA202201260002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Weekly Playlist l 세로캠] 피원하모니(P1harmony) - ＜직감＞ (원곡 : CNBLUE) ♬ l EP.545 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24705350</link>
             <guid>https://tv.naver.com/v/24705350</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Wed, 12 Jan 2022 12:36:31 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220112_136/N5X1I_1641990397987XYtgk_JPEG/CA202201120039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['너~.. 쪼꼬미 하기 싫지?' 다영이의 대답은?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24570265</link>
-            <guid>https://tv.naver.com/v/24570265</guid>
-            <pubDate>Wed, 12 Jan 2022 12:36:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_157/rR3ZS_1641990098480S6EP8_JPEG/CA202201120037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
