@@ -4,9 +4,33 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 03:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 04:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5인 5색 🍋비타민🍋 매력 우아!의 ‘별 따러 가자’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24723645</link>
+            <guid>https://tv.naver.com/v/24723645</guid>
+            <pubDate>Fri, 21 Jan 2022 04:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_202/13xav_16427385831366UBXj_PNG/1642737993310.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🌟자신감 넘치는 파워풀한 아우라 트렌드지의 ‘TNT (Truth&Trust)’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24723644</link>
+            <guid>https://tv.naver.com/v/24723644</guid>
+            <pubDate>Fri, 21 Jan 2022 04:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_263/yNefI_1642738576281M3iDr_PNG/1642737987110.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[💕에너제틱한 퍼포먼스 폭발하는 록킹돌의 ‘Rocking Doll' _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24723639</link>
+            <guid>https://tv.naver.com/v/24723639</guid>
+            <pubDate>Fri, 21 Jan 2022 04:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_279/MCVbN_1642738564619vnVUN_PNG/1642737981536.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[《예고》💌최예나(YENA)와 함께한 스페인 콘투어는 이번주도 계속 된다💌~!! _503회]]></title>
             <link>https://tv.naver.com/v/24708524</link>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 14 Jan 2022 04:29:12 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_60/zlZFI_1642134255368STXI0_PNG/1642133085816.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강렬한 퍼포먼스로 🖤데뷔🤍하는 트렌드지의 Intro + TNT (Truth&Trust) _ Ep.502]]></title>
-            <link>https://tv.naver.com/v/24598776</link>
-            <guid>https://tv.naver.com/v/24598776</guid>
-            <pubDate>Fri, 14 Jan 2022 04:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_175/qs03Y_1642133561881YsN0K_PNG/1642133080542.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이별 후 마음 속에 남은 ✒️상처 알렉사의 ‘Tattoo‘ _ Ep.502]]></title>
-            <link>https://tv.naver.com/v/24598771</link>
-            <guid>https://tv.naver.com/v/24598771</guid>
-            <pubDate>Fri, 14 Jan 2022 04:29:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_126/WhoZp_1642133551497ShyWg_PNG/1642133069112.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[《예고》이번주 콘투어는 💌김요한(KIM YOHAN)과 함께 스페인으로 떠난다💌~!! _502회]]></title>
-            <link>https://tv.naver.com/v/24585167</link>
-            <guid>https://tv.naver.com/v/24585167</guid>
-            <pubDate>Thu, 13 Jan 2022 09:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_95/FM23a_1642062531654PMM2G_PNG/1642062522295.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
