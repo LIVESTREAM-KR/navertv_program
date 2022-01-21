@@ -4,7 +4,7 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 06:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_197/VIkM0_1642740543971BDij1_PNG/1642739617346.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[사랑의 🧁달콤함에 대한 펑키한 해석 모모랜드의 ‘Yummy Yummy Love’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724202</link>
+            <guid>https://tv.naver.com/v/24724202</guid>
+            <pubDate>Fri, 21 Jan 2022 06:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_217/0zmS9_1642742348552ArrVD_PNG/1642742344319.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[😆과즙미😆 폭발하는 최예나의 ‘SMILEY’ _ Ep.503]]></title>
             <link>https://tv.naver.com/v/24724199</link>
             <guid>https://tv.naver.com/v/24724199</guid>
@@ -72,7 +80,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_199/Kvz6C_16427395959850oM2y_PNG/1642738007089.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[매력적인 ❄가성이 돋보이는 기수의 ‘Waves of you (English Ver.)’ _ Ep.503]]></title>
+            <title><![CDATA[매력적인 ❄가성이 돋보이는 기수의 ‘Waves of you’ _ Ep.503]]></title>
             <link>https://tv.naver.com/v/24723891</link>
             <guid>https://tv.naver.com/v/24723891</guid>
             <pubDate>Fri, 21 Jan 2022 05:18:27 GMT</pubDate>
@@ -112,20 +120,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_128/7cLqu_1642663944816Yp6HI_PNG/1642663942360.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[👏Thank you for the memories,💕MC MoonBae💕 | SIMPLY BEHIND CAM EP.4]]></title>
-            <link>https://tv.naver.com/v/24605130</link>
-            <guid>https://tv.naver.com/v/24605130</guid>
-            <pubDate>Fri, 14 Jan 2022 09:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_79/L1EsA_1642149872355AGI3P_PNG/1642149703756.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.502]]></title>
-            <link>https://tv.naver.com/v/24599777</link>
-            <guid>https://tv.naver.com/v/24599777</guid>
-            <pubDate>Fri, 14 Jan 2022 05:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[55:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_273/33WeA_1642136937051Ochb3_PNG/1642136933448.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[[PLYCAM 4K] 최예나 'SMILEY' 가로직캠 (YENA 'SMILEY') l Simply K-Pop CON-TOUR Ep.503]]></title>
+            <link>https://tv.naver.com/v/24707095</link>
+            <guid>https://tv.naver.com/v/24707095</guid>
+            <pubDate>Fri, 21 Jan 2022 06:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_233/0SofH_1642660803583bh16U_JPEG/1642660801674.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
