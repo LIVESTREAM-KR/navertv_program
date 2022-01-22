@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 11:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 12:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월 3주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.421]]></title>
+            <link>https://tv.naver.com/v/24727479</link>
+            <guid>https://tv.naver.com/v/24727479</guid>
+            <pubDate>Sat, 22 Jan 2022 12:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[8:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_179/zHIc9_1642748253314xD1f5_JPEG/CA202201190099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쇼챔직캠] CHOCOME - Super Yuppers! (우주소녀 쪼꼬미 - 슈퍼 그럼요) l Show Champion l EP.421]]></title>
             <link>https://tv.naver.com/v/24692894</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Jan 2022 12:31:39 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_246/gddM8_1642585891242K6sF9_JPEG/CA202201190035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] Kep1er HUENING BAHIYYIH - WA DA DA (케플러 휴닝바히에 - 와다다) | Show Champion | EP.421]]></title>
-            <link>https://tv.naver.com/v/24691154</link>
-            <guid>https://tv.naver.com/v/24691154</guid>
-            <pubDate>Wed, 19 Jan 2022 12:31:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_118/HChmf_1642585595596V066O_JPEG/CA202201190030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
