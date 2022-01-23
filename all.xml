@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 13:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 14:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2744,14 +2744,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220111_200/e3MCR_16419123987653kmt0_JPEG/20220111_232441_770_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[＂와~🧡 진짜 대박 소름 끼쳐!＂😍 2학년의 ＜Twinkle＞ & ＜Butter＞, MBC 220123 방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24756421</link>
-            <guid>https://tv.naver.com/v/24756421</guid>
-            <pubDate>Sun, 23 Jan 2022 13:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220123_138/ATWma_1642943773624c7Xm6_JPEG/1642943767194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[#방과후설렘 직캠] 3학년 최윤정 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24640256</link>
             <guid>https://tv.naver.com/v/24640256</guid>
@@ -2982,6 +2974,14 @@
             <pubDate>Mon, 10 Jan 2022 04:30:13 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_58/1quaf_1641785793851T5vSc_JPEG/clip_20220110120821_28.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 3학년X4학년 ＜보컬＞ 연합 – I #예능연구소4K직캠 #Fancam l MBC220109방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24520847</link>
+            <guid>https://tv.naver.com/v/24520847</guid>
+            <pubDate>Sun, 23 Jan 2022 14:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_109/ElmHF_16417857919124fugK_JPEG/clip_20220110120703_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
