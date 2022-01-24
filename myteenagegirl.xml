@@ -4,9 +4,33 @@
         <title>MBC 방과후 설렘 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 2학년 타케이 카리나 - Twinkle+Butter #예능연구소4K직캠 #Fancam l MBC220123방송]]></title>
+            <link>https://tv.naver.com/v/24762239</link>
+            <guid>https://tv.naver.com/v/24762239</guid>
+            <pubDate>Mon, 24 Jan 2022 03:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_123/e9Tgi_1642992153000HjWQC_JPEG/clip_20220124112452_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 2학년 이지원 - Twinkle+Butter #예능연구소4K직캠 #Fancam l MBC220123방송]]></title>
+            <link>https://tv.naver.com/v/24762215</link>
+            <guid>https://tv.naver.com/v/24762215</guid>
+            <pubDate>Mon, 24 Jan 2022 03:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_213/L9TRY_1642992095022Rlo0z_JPEG/clip_20220124112510_23.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 2학년 조수이 - Twinkle+Butter #예능연구소4K직캠 #Fancam l MBC220123방송]]></title>
+            <link>https://tv.naver.com/v/24762214</link>
+            <guid>https://tv.naver.com/v/24762214</guid>
+            <pubDate>Mon, 24 Jan 2022 03:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_226/GhmUl_1642992093690syr2O_JPEG/clip_20220124112500_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 2학년 최사랑 - Twinkle+Butter #예능연구소4K직캠 #Fancam l MBC220123방송]]></title>
             <link>https://tv.naver.com/v/24762140</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 17 Jan 2022 02:43:57 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_2/nk73v_1642386994158itVm6_JPEG/clip_20220117111640_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 3학년X4학년 ＜올라운더＞ 무대 – Next Level #예능연구소4K직캠 #Fancam l MBC220116방송]]></title>
-            <link>https://tv.naver.com/v/24639434</link>
-            <guid>https://tv.naver.com/v/24639434</guid>
-            <pubDate>Mon, 17 Jan 2022 02:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_182/MA6OU_1642386991770MOjJ1_JPEG/clip_20220117111627_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 2학년 최사랑 - MONEY #예능연구소4K직캠 #Fancam l MBC220116방송]]></title>
-            <link>https://tv.naver.com/v/24639349</link>
-            <guid>https://tv.naver.com/v/24639349</guid>
-            <pubDate>Mon, 17 Jan 2022 02:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_50/vLJ46_1642386693263CyWjE_JPEG/clip_20220117111307_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년X2학년 ＜올라운더＞ 무대 – MONEY #예능연구소4K직캠 #Fancam l MBC220116방송]]></title>
-            <link>https://tv.naver.com/v/24639268</link>
-            <guid>https://tv.naver.com/v/24639268</guid>
-            <pubDate>Mon, 17 Jan 2022 02:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_273/1IUks_1642386392542J5HhG_JPEG/clip_20220117111053_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
