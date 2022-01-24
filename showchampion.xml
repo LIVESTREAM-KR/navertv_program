@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 프롬이들과 함께하는 ♡2022년 새해 맞이♡ (feat. 쇼챔 라인업)]]></title>
+            <link>https://tv.naver.com/v/24765791</link>
+            <guid>https://tv.naver.com/v/24765791</guid>
+            <pubDate>Mon, 24 Jan 2022 06:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_252/Ozvnh_1643005298106D9bUc_JPEG/CA202201260003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1월 3주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.421]]></title>
             <link>https://tv.naver.com/v/24727479</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Jan 2022 10:21:43 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_247/nFcdJ_1642585894224tfk57_JPEG/CA202201190038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] Kep1er KIM CHAEHYUN - WA DA DA (케플러 김채현 - 와다다) | Show Champion | EP.421]]></title>
-            <link>https://tv.naver.com/v/24691226</link>
-            <guid>https://tv.naver.com/v/24691226</guid>
-            <pubDate>Wed, 19 Jan 2022 12:31:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_246/gddM8_1642585891242K6sF9_JPEG/CA202201190035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>MBC 방과후 설렘 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 1학년 최수빈 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송]]></title>
+            <link>https://tv.naver.com/v/24764729</link>
+            <guid>https://tv.naver.com/v/24764729</guid>
+            <pubDate>Mon, 24 Jan 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_184/1QPzg_1643002290730uRaRT_JPEG/clip_20220124140402_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 1학년 성민채 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송]]></title>
+            <link>https://tv.naver.com/v/24764494</link>
+            <guid>https://tv.naver.com/v/24764494</guid>
+            <pubDate>Mon, 24 Jan 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_219/ZAd2a_1643001698311rfBl1_JPEG/clip_20220124140226_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 1학년 박보은 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송]]></title>
+            <link>https://tv.naver.com/v/24764493</link>
+            <guid>https://tv.naver.com/v/24764493</guid>
+            <pubDate>Mon, 24 Jan 2022 06:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_96/afQ8U_1643001696952PvVOx_JPEG/clip_20220124135717_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 1학년 윤승주 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송]]></title>
             <link>https://tv.naver.com/v/24764326</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_100/zMXpw_1642389690532s8m0E_JPEG/clip_20220117115710_38.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 3학년 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송]]></title>
-            <link>https://tv.naver.com/v/24640180</link>
-            <guid>https://tv.naver.com/v/24640180</guid>
-            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[4:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_163/Vyk9l_1642389392978FJsGC_JPEG/clip_20220117115027_30.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 3학년 오지은 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송]]></title>
-            <link>https://tv.naver.com/v/24640082</link>
-            <guid>https://tv.naver.com/v/24640082</guid>
-            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_87/UN0Ti_164238909304551zbG_JPEG/clip_20220117115433_36.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 3학년 이태림 - Likey+Hip #예능연구소4K직캠 #Fancam l MBC220116방송]]></title>
-            <link>https://tv.naver.com/v/24640081</link>
-            <guid>https://tv.naver.com/v/24640081</guid>
-            <pubDate>Mon, 17 Jan 2022 03:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_137/kKnuQ_1642389091687IhHYM_JPEG/clip_20220117115214_32.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
