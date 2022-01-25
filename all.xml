@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_134/cnha2_1640933932211rxvxs_JPEG/05820e58-6a06-11ec-9d44-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[방송선공개] ♨핫함주의♨ 신발까지 벗고 호응하게 만드는 하냥의 프리스타일 댄스 대공개! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24768609</link>
+            <guid>https://tv.naver.com/v/24768609</guid>
+            <pubDate>Tue, 25 Jan 2022 01:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_34/matMS_1643012501070CmL19_JPEG/CA202201260005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 프나는 못 하는 게 없지! 잔잔한 발라드마저 완벽♡ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24768605</link>
+            <guid>https://tv.naver.com/v/24768605</guid>
+            <pubDate>Tue, 25 Jan 2022 01:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_57/pLfyU_1643012496855kr1NC_JPEG/CA202201260004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주간아이돌 546회 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24727823</link>
             <guid>https://tv.naver.com/v/24727823</guid>
@@ -2134,22 +2150,6 @@
             <pubDate>Wed, 12 Jan 2022 12:36:31 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220112_146/SqNy9_1641990695668zH0lV_JPEG/CA202201120041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24570333</link>
-            <guid>https://tv.naver.com/v/24570333</guid>
-            <pubDate>Wed, 12 Jan 2022 12:36:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_29/zU57P_1641990403552f6kNk_JPEG/CA202201120043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최초공개] 쪼꼬미 하다 현타오는 순간은.SSUL (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24570331</link>
-            <guid>https://tv.naver.com/v/24570331</guid>
-            <pubDate>Wed, 12 Jan 2022 12:36:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_136/N5X1I_1641990397987XYtgk_JPEG/CA202201120039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
