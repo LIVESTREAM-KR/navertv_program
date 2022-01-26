@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 15:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 16:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2504,6 +2504,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210712_155/XLq8z_1626069103384sL4GE_JPEG/85b475ba-1028-43b0-9e6e-8aa4b824fccb_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스페셜 #1] 모두의 기억속에 영원히‥🍂 싱어게인2 3라운드🔥 아쉬운 탈락 무대 모음.zip | JTBC 220124 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24818111</link>
+            <guid>https://tv.naver.com/v/24818111</guid>
+            <pubDate>Wed, 26 Jan 2022 16:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[13:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_202/HPvsm_1643214392248IPhzs_JPEG/20220127_005616_419_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[싱어게인2 9회 예고편 - 과연 TOP 10에 오를 주인공은?! (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24771952</link>
             <guid>https://tv.naver.com/v/24771952</guid>
@@ -2734,14 +2742,6 @@
             <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_134/XmjRg_1642417050201Q2oPe_JPEG/20220117_194534_395_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹콩의 뜨개질🧵 어색하지만 진심을 다한 33호 가수 | JTBC 220117 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24649810</link>
-            <guid>https://tv.naver.com/v/24649810</guid>
-            <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_33/1a6q2_1642416713816ajm1P_JPEG/20220117_194439_492_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 1학년 최수빈 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
