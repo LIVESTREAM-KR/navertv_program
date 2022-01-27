@@ -4,9 +4,17 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 13:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 14:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스페셜] 잠시만요✋ 극적인 순간에 다시 기회를 얻은 참가자들의 무대+심사평 모음 | JTBC 220124 방송]]></title>
+            <link>https://tv.naver.com/v/24836839</link>
+            <guid>https://tv.naver.com/v/24836839</guid>
+            <pubDate>Thu, 27 Jan 2022 14:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[20:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_268/7syeO_16432899946027fkJN_JPEG/20220127_214912_207_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스페셜 #1] 모두의 기억속에 영원히‥🍂 싱어게인2 3라운드🔥 아쉬운 탈락 무대 모음.zip | JTBC 220124 방송]]></title>
             <link>https://tv.naver.com/v/24818111</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_66/l7X4b_1642417052635BTVyF_JPEG/20220117_194716_023_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[33호 VS 30호] 최초 All 어게인의 탄생🙌 진심과 초심의 대결! | JTBC 220117 방송]]></title>
-            <link>https://tv.naver.com/v/24649914</link>
-            <guid>https://tv.naver.com/v/24649914</guid>
-            <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_134/XmjRg_1642417050201Q2oPe_JPEG/20220117_194534_395_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
