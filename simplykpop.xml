@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/kpop</id>
-    <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
-    <updated>2022-01-27T10:23:08.265Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Jan 2022 11:17:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》이번주 심플리 콘투어는!? 2022 플라이하이 케이팝 콘서트 Part.1~!!🎉 _ 504회]]></title>
+            <link>https://tv.naver.com/v/24832477</link>
+            <guid>https://tv.naver.com/v/24832477</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_236/69y1S_1643276541959kVYRc_PNG/1643276454949.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724314</link>
+            <guid>https://tv.naver.com/v/24724314</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[53:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_35/29Rh9_16427410604085K7JU_PNG/1642741030534.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[감성적인 이별 🔖스토리 업텐션의 ‘너에게 미쳤었다’  _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724190</link>
+            <guid>https://tv.naver.com/v/24724190</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_166/pOLMU_1642740570509QtKyo_PNG/1642740554438.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🖤치명🖤적인 매력으로 무대 채우는 온리원오브의 ‘skinz’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724187</link>
+            <guid>https://tv.naver.com/v/24724187</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_39/m4od7_1642740564248feB48_PNG/1642740559564.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웅장하고 다채로운 🎹사운드 원위의 ‘너의 우주는’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724180</link>
+            <guid>https://tv.naver.com/v/24724180</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_197/VIkM0_1642740543971BDij1_PNG/1642739617346.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑의 🧁달콤함에 대한 펑키한 해석 모모랜드의 ‘Yummy Yummy Love’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724202</link>
+            <guid>https://tv.naver.com/v/24724202</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_217/0zmS9_1642742348552ArrVD_PNG/1642742344319.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[😆과즙미😆 폭발하는 최예나의 ‘SMILEY’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724199</link>
+            <guid>https://tv.naver.com/v/24724199</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_99/tN9a9_1642741715468vOl7j_PNG/1642741711174.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[너무 🍫달콤해서 치명적인 김요한의 ‘DESSERT’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724196</link>
+            <guid>https://tv.naver.com/v/24724196</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_163/8xj1A_1642741158270wKKlS_PNG/1642741155015.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신비로운 ✨미래에 대한 포부 미래소년의 ‘Marvelous’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24723899</link>
+            <guid>https://tv.naver.com/v/24723899</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_53/FilvL_1642739608206SIdlR_PNG/1642739605367.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[섬세한 감성과 🌹감각적인 퍼포먼스 알렉사의 ‘Tattoo’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24723893</link>
+            <guid>https://tv.naver.com/v/24723893</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_199/Kvz6C_16427395959850oM2y_PNG/1642738007089.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[매력적인 ❄가성이 돋보이는 기수의 ‘Waves of you’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24723891</link>
+            <guid>https://tv.naver.com/v/24723891</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_96/mdJyG_1642983165054k8OvN_PNG/1642983161297.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[5인 5색 🍋비타민🍋 매력 우아!의 ‘별 따러 가자’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24723645</link>
+            <guid>https://tv.naver.com/v/24723645</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_202/13xav_16427385831366UBXj_PNG/1642737993310.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🌟자신감 넘치는 파워풀한 아우라 트렌드지의 ‘TNT (Truth&Trust)’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24723644</link>
+            <guid>https://tv.naver.com/v/24723644</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_263/yNefI_1642738576281M3iDr_PNG/1642737987110.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[💕에너제틱한 퍼포먼스 폭발하는 록킹돌의 ‘Rocking Doll' _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24723639</link>
+            <guid>https://tv.naver.com/v/24723639</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_279/MCVbN_1642738564619vnVUN_PNG/1642737981536.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[《예고》💌최예나(YENA)와 함께한 스페인 콘투어는 이번주도 계속 된다💌~!! _503회]]></title>
+            <link>https://tv.naver.com/v/24708524</link>
+            <guid>https://tv.naver.com/v/24708524</guid>
+            <pubDate>Thu, 27 Jan 2022 11:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_128/7cLqu_1642663944816Yp6HI_PNG/1642663942360.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
