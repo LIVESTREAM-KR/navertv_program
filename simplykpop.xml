@@ -1,8 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/kpop</id>
-    <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
-    <updated>2022-01-28T06:25:35.272Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 28 Jan 2022 07:20:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌리만의 매력💗 강렬한 퍼포먼스가 돋보이는 빌리의 ‘링 바이 링 (RING X RING)’ _ Ep.504]]></title>
+            <link>https://tv.naver.com/v/24847600</link>
+            <guid>https://tv.naver.com/v/24847600</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_18/w7yC6_1643352853053scx5k_PNG/1643352732563.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KINGDOM (킹덤) - KARMA (카르마) + Black Crown (블랙 크라운) ★Simply's Spotlight★ _ Ep.504]]></title>
+            <link>https://tv.naver.com/v/24841119</link>
+            <guid>https://tv.naver.com/v/24841119</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[8:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_66/c2tQz_1643345640027iGVae_PNG/1643345593692.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[빌리의 첫 겨울 시즌송❄ 빌리의 ‘snowy night’ _ Ep.504]]></title>
+            <link>https://tv.naver.com/v/24841115</link>
+            <guid>https://tv.naver.com/v/24841115</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_279/SKflE_1643345643507pcHyW_PNG/1643345604399.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DKB (다크비) - ALL IN (줄꺼야) + Rollercoaster (왜 만나) ★Simply's Spotlight★ _ Ep.504]]></title>
+            <link>https://tv.naver.com/v/24841114</link>
+            <guid>https://tv.naver.com/v/24841114</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[7:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_275/3XKWJ_16433456447300vphk_PNG/1643345610370.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TRI.BE (트라이비) - The Bha Bha Song (바바송) + Would You Run (우주로) ★Simply's Spotlight★ _ Ep.504]]></title>
+            <link>https://tv.naver.com/v/24841113</link>
+            <guid>https://tv.naver.com/v/24841113</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[6:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_272/QOUPX_164334564653111jnN_PNG/1643345616507.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[강렬한 다크 히어로로 변신🦸 드리핀의 ‘Switch’ _ Ep.504]]></title>
+            <link>https://tv.naver.com/v/24841110</link>
+            <guid>https://tv.naver.com/v/24841110</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_173/oPtwa_1643345648190qAgQf_PNG/1643345622909.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[목표를 위해 질주하는 열정🔥 드리핀의 ‘빌런(Villain)’ _ Ep.504]]></title>
+            <link>https://tv.naver.com/v/24841109</link>
+            <guid>https://tv.naver.com/v/24841109</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_197/YtGrW_1643345649441qgFNn_PNG/1643345629601.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[LIGHTSUM (라잇썸) - Vanilla (바닐라) + VIVACE (비바체) ★Simply's Spotlight★ _ Ep.504]]></title>
+            <link>https://tv.naver.com/v/24841108</link>
+            <guid>https://tv.naver.com/v/24841108</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[7:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_25/kUBn4_1643345651142lxHc6_PNG/1643345636289.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[《예고》이번주 심플리 콘투어는!? 2022 플라이하이 케이팝 콘서트 Part.1~!!🎉 _ 504회]]></title>
+            <link>https://tv.naver.com/v/24832477</link>
+            <guid>https://tv.naver.com/v/24832477</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_236/69y1S_1643276541959kVYRc_PNG/1643276454949.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724314</link>
+            <guid>https://tv.naver.com/v/24724314</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[53:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_35/29Rh9_16427410604085K7JU_PNG/1642741030534.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[감성적인 이별 🔖스토리 업텐션의 ‘너에게 미쳤었다’  _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724190</link>
+            <guid>https://tv.naver.com/v/24724190</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_166/pOLMU_1642740570509QtKyo_PNG/1642740554438.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🖤치명🖤적인 매력으로 무대 채우는 온리원오브의 ‘skinz’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724187</link>
+            <guid>https://tv.naver.com/v/24724187</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_39/m4od7_1642740564248feB48_PNG/1642740559564.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[웅장하고 다채로운 🎹사운드 원위의 ‘너의 우주는’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724180</link>
+            <guid>https://tv.naver.com/v/24724180</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_197/VIkM0_1642740543971BDij1_PNG/1642739617346.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑의 🧁달콤함에 대한 펑키한 해석 모모랜드의 ‘Yummy Yummy Love’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724202</link>
+            <guid>https://tv.naver.com/v/24724202</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_217/0zmS9_1642742348552ArrVD_PNG/1642742344319.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[😆과즙미😆 폭발하는 최예나의 ‘SMILEY’ _ Ep.503]]></title>
+            <link>https://tv.naver.com/v/24724199</link>
+            <guid>https://tv.naver.com/v/24724199</guid>
+            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_99/tN9a9_1642741715468vOl7j_PNG/1642741711174.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
