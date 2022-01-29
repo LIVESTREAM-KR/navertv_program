@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 01:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 02:31:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.504 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24856777</link>
+            <guid>https://tv.naver.com/v/24856777</guid>
+            <pubDate>Sat, 29 Jan 2022 02:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[57:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220129_259/f4MAa_1643421979651O2nle_PNG/1643421263574.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[빌리만의 매력💗 강렬한 퍼포먼스가 돋보이는 빌리의 ‘링 바이 링 (RING X RING)’ _ Ep.504 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24847600</link>
             <guid>https://tv.naver.com/v/24847600</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_217/0zmS9_1642742348552ArrVD_PNG/1642742344319.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[😆과즙미😆 폭발하는 최예나의 ‘SMILEY’ _ Ep.503 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24724199</link>
-            <guid>https://tv.naver.com/v/24724199</guid>
-            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_99/tN9a9_1642741715468vOl7j_PNG/1642741711174.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에이프릴 세컨드_ Bring it up (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
