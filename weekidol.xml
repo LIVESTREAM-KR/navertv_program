@@ -4,9 +4,25 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 23:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 01:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미방선공개] 못 하는 게 없는 완벽한 짱플러의 2배속 댄스 첫 도전!!]]></title>
+            <link>https://tv.naver.com/v/24883085</link>
+            <guid>https://tv.naver.com/v/24883085</guid>
+            <pubDate>Tue, 01 Feb 2022 01:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220131_216/5RNVY_1643626293884cAh8z_JPEG/CA202202020003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 험난한 이 세상 불공평하게 만드는 히에의 커버 무대! 휴닝바히에가 커버하는 전소미의 ＜XOXO＞♬]]></title>
+            <link>https://tv.naver.com/v/24883048</link>
+            <guid>https://tv.naver.com/v/24883048</guid>
+            <pubDate>Tue, 01 Feb 2022 01:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220131_283/gBBVq_1643625997676w1xnv_JPEG/CA202202020002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 547회 예고]]></title>
             <link>https://tv.naver.com/v/24848098</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 26 Jan 2022 12:31:30 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220126_120/BbrTW_16431810982477SVeE_JPEG/CA202201260019_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 신곡] 요정같은 프미나들의 컴백소식! 프로미스나인(fromis_9)의 ‘DM’♬ l EP.546]]></title>
-            <link>https://tv.naver.com/v/24806893</link>
-            <guid>https://tv.naver.com/v/24806893</guid>
-            <pubDate>Wed, 26 Jan 2022 12:31:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_259/KhbJY_1643181096657qxDTv_JPEG/CA202201260016_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] ♨핫함주의♨ 신발까지 벗고 호응하게 만드는 하냥의 프리스타일 댄스 대공개!]]></title>
-            <link>https://tv.naver.com/v/24768609</link>
-            <guid>https://tv.naver.com/v/24768609</guid>
-            <pubDate>Tue, 25 Jan 2022 01:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_34/matMS_1643012501070CmL19_JPEG/CA202201260005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
