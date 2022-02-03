@@ -4,9 +4,17 @@
         <title>MBC 방과후 설렘 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 14:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 15:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이것이 경험에서 나온 바이브다' 😎 재치있는 영통 팬싸인회! , MBC 220203 방송]]></title>
+            <link>https://tv.naver.com/v/24926530</link>
+            <guid>https://tv.naver.com/v/24926530</guid>
+            <pubDate>Thu, 03 Feb 2022 15:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_298/J1vue_1643901101257zAcQn_JPEG/1643901098676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 도전조 A 김수빈 - DUN DUN #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송]]></title>
             <link>https://tv.naver.com/v/24920008</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 24 Jan 2022 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220124_96/afQ8U_1643001696952PvVOx_JPEG/clip_20220124135717_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 윤승주 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송]]></title>
-            <link>https://tv.naver.com/v/24764326</link>
-            <guid>https://tv.naver.com/v/24764326</guid>
-            <pubDate>Mon, 24 Jan 2022 05:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_203/jSpiU_1643001153154KOpqB_JPEG/clip_20220124135242_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
