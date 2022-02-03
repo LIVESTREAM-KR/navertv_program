@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》이번주 심플리콘투어는!? 2022 플라이하이 케이팝 콘서트 Part.2~!!🎉 _ 505회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24909778</link>
+            <guid>https://tv.naver.com/v/24909778</guid>
+            <pubDate>Thu, 03 Feb 2022 08:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_138/ZkSCD_1643874296279kgp0b_PNG/1643874291196.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.504 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24856777</link>
             <guid>https://tv.naver.com/v/24856777</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_197/VIkM0_1642740543971BDij1_PNG/1642739617346.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 🧁달콤함에 대한 펑키한 해석 모모랜드의 ‘Yummy Yummy Love’ _ Ep.503 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24724202</link>
-            <guid>https://tv.naver.com/v/24724202</guid>
-            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_217/0zmS9_1642742348552ArrVD_PNG/1642742344319.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[에이프릴 세컨드_ Bring it up (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
