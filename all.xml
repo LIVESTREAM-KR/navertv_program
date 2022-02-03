@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 10:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 11:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2744,20 +2744,68 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_66/l7X4b_1642417052635BTVyF_JPEG/20220117_194716_023_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[#방과후설렘 직캠] 도전조 A 김수빈 - DUN DUN #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24920008</link>
+            <guid>https://tv.naver.com/v/24920008</guid>
+            <pubDate>Thu, 03 Feb 2022 11:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_3/fmsEo_1643886999480wOI6A_JPEG/clip_20220203200304_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 도전조 A 이영채 - DUN DUN #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24920005</link>
+            <guid>https://tv.naver.com/v/24920005</guid>
+            <pubDate>Thu, 03 Feb 2022 11:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_158/xd3BH_1643886996151cfa6f_JPEG/clip_20220203195759_49.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 도전조 A 김인혜 - DUN DUN #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24920004</link>
+            <guid>https://tv.naver.com/v/24920004</guid>
+            <pubDate>Thu, 03 Feb 2022 11:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_58/V2fuz_1643886995072ihOSb_JPEG/clip_20220203195749_47.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 도전조 A 김하리 - DUN DUN #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24920001</link>
+            <guid>https://tv.naver.com/v/24920001</guid>
+            <pubDate>Thu, 03 Feb 2022 11:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_61/okkv6_1643886993909jszbd_JPEG/clip_20220203195657_43.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 도전조 A 원지민 - DUN DUN #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24919859</link>
+            <guid>https://tv.naver.com/v/24919859</guid>
+            <pubDate>Thu, 03 Feb 2022 11:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_38/JBBow_1643886752842Xkihf_JPEG/clip_20220203195716_45.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 도전조 A 이미희 - DUN DUN #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24919857</link>
+            <guid>https://tv.naver.com/v/24919857</guid>
+            <pubDate>Thu, 03 Feb 2022 11:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_184/wRlGC_1643886751572azWnM_JPEG/clip_20220203195634_41.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 데뷔조 김선유 - LION #세미파이널 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24919029</link>
+            <guid>https://tv.naver.com/v/24919029</guid>
+            <pubDate>Thu, 03 Feb 2022 11:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_222/1TUwm_1643885494356Kgbbd_JPEG/clip_20220203193008_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[#방과후설렘 직캠] 도전조 A 오지은 - DUN DUN #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24918032</link>
             <guid>https://tv.naver.com/v/24918032</guid>
             <pubDate>Thu, 03 Feb 2022 10:22:44 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_3/WgUKO_1643883692049wrDMa_JPEG/clip_20220203190452_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 데뷔조 김선유 - LION #세미파이널 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24917514</link>
-            <guid>https://tv.naver.com/v/24917514</guid>
-            <pubDate>Thu, 03 Feb 2022 10:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_145/wNzA2_1643882794399b6vSh_JPEG/clip_20220203184601_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 데뷔조 김선유 VS 도전조 B 최윤정 - LION #세미파이널 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
@@ -2934,54 +2982,6 @@
             <pubDate>Mon, 24 Jan 2022 05:19:30 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220124_203/jSpiU_1643001153154KOpqB_JPEG/clip_20220124135242_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 오유진 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24764324</link>
-            <guid>https://tv.naver.com/v/24764324</guid>
-            <pubDate>Mon, 24 Jan 2022 05:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_35/MPoXM_1643001151742NnXeE_JPEG/clip_20220124135132_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 김선유 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24764311</link>
-            <guid>https://tv.naver.com/v/24764311</guid>
-            <pubDate>Mon, 24 Jan 2022 05:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_242/XM6wR_1643001100856uVyJo_JPEG/clip_20220124135450_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 보미세라 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24764224</link>
-            <guid>https://tv.naver.com/v/24764224</guid>
-            <pubDate>Mon, 24 Jan 2022 05:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_296/q5IWx_1643000792693URfAY_JPEG/clip_20220124134642_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 김수빈 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24764070</link>
-            <guid>https://tv.naver.com/v/24764070</guid>
-            <pubDate>Mon, 24 Jan 2022 05:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_215/ZFQeO_1643000195576iuKsC_JPEG/clip_20220124134047_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 1학년 - Why Not?+How You Like That #예능연구소4K직캠 #Fancam l MBC220123방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24764069</link>
-            <guid>https://tv.naver.com/v/24764069</guid>
-            <pubDate>Mon, 24 Jan 2022 05:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_244/lVgFX_16430001930530Ojxb_JPEG/clip_20220124133123_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 2학년 타케이 카리나 - Twinkle+Butter #예능연구소4K직캠 #Fancam l MBC220123방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24762239</link>
-            <guid>https://tv.naver.com/v/24762239</guid>
-            <pubDate>Mon, 24 Jan 2022 03:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_123/e9Tgi_1642992153000HjWQC_JPEG/clip_20220124112452_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
