@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 02:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 03:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2032,7 +2032,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220202_251/0cPFE_1643799095817n8ryM_JPEG/CA202202020022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Weekly Playlist l 4K캠] kep1er - The Boys (케플러 - 더 보이즈 (원곡 : 소녀시대) ) l EP.540 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <title><![CDATA[[Weekly Playlist l 4K캠] kep1er - The Boys (케플러 - 더 보이즈 (원곡 : 소녀시대) ) l EP.547 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24898223</link>
             <guid>https://tv.naver.com/v/24898223</guid>
             <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
@@ -2048,7 +2048,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220202_276/bD1Py_1643798492517mCs3p_JPEG/CA202202020021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Weekly Playlist l 짐벌캠] kep1er - The Boys (케플러 - 더 보이즈 (원곡 : 소녀시대) ) l EP.540 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <title><![CDATA[[Weekly Playlist l 짐벌캠] kep1er - The Boys (케플러 - 더 보이즈 (원곡 : 소녀시대) ) l EP.547 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24898160</link>
             <guid>https://tv.naver.com/v/24898160</guid>
             <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
@@ -2784,14 +2784,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_262/b0CkM_1643367391835p1Bkh_JPEG/clip_20220128192807_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[#방과후설렘 직캠] 도전조 B 명형서 - 마.피.아. In the morning #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24851779</link>
-            <guid>https://tv.naver.com/v/24851779</guid>
-            <pubDate>Mon, 31 Jan 2022 02:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_202/u1ohO_1643367101605MI1p6_JPEG/clip_20220128192754_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[#방과후설렘 직캠] 도전조 B 미나미 - 마.피.아. In the morning #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24851776</link>
             <guid>https://tv.naver.com/v/24851776</guid>
@@ -2854,6 +2846,14 @@
             <pubDate>Mon, 31 Jan 2022 01:06:25 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_262/HLeKo_1643367091988nWxpz_JPEG/clip_20220128192615_58.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 도전조 B 명형서 - 마.피.아. In the morning #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24851779</link>
+            <guid>https://tv.naver.com/v/24851779</guid>
+            <pubDate>Mon, 31 Jan 2022 02:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_202/u1ohO_1643367101605MI1p6_JPEG/clip_20220128192754_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 데뷔조 박보은 - SURPRISE #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
