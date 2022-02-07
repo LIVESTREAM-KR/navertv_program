@@ -4,9 +4,33 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 12:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 13:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[※섹시美 폭발※ 규현을 심쿵 하게 만든 11호 가수의 무대🙈 | JTBC 220207 방송]]></title>
+            <link>https://tv.naver.com/v/24988443</link>
+            <guid>https://tv.naver.com/v/24988443</guid>
+            <pubDate>Mon, 07 Feb 2022 13:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_211/9j4Nr_1644240103354pk2e1_JPEG/20220207_221518_086_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일렉과 발라드의 만남🍂 11호의 〈가로수 그늘 아래 서면〉♬ | JTBC 220207 방송]]></title>
+            <link>https://tv.naver.com/v/24988361</link>
+            <guid>https://tv.naver.com/v/24988361</guid>
+            <pubDate>Mon, 07 Feb 2022 13:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_145/fbREF_1644231093501rtAMU_JPEG/20220207_193720_238_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(두구두구🥁) 음악을 처음 접하게 해준 11호 가수의 필살템 등장?! | JTBC 220207 방송]]></title>
+            <link>https://tv.naver.com/v/24988265</link>
+            <guid>https://tv.naver.com/v/24988265</guid>
+            <pubDate>Mon, 07 Feb 2022 13:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_196/caqLJ_16442332519309H11p_JPEG/20220207_202317_887_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 유독 긴장한 '37호' & 편안하고 즐거운 무대를 준비한 '31호'🎤]]></title>
             <link>https://tv.naver.com/v/24974680</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 24 Jan 2022 12:33:42 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220124_19/Yvgg8_1643016091616jDYT7_JPEG/20220124_181240_080_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] '이름'으로 불릴 꿈 같은 TOP 10의 자리.. 17호vs33호의 무대🎤]]></title>
-            <link>https://tv.naver.com/v/24760290</link>
-            <guid>https://tv.naver.com/v/24760290</guid>
-            <pubDate>Mon, 24 Jan 2022 01:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_180/P7XD3_1642983997666zQcwz_JPEG/20220124_091600_714_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스페셜] 심사평 듣는데 왜 눈물이 나요💧? 진심이 담겨있는 김이나의 심사평 모음 | JTBC 220124 방송]]></title>
-            <link>https://tv.naver.com/v/24695052</link>
-            <guid>https://tv.naver.com/v/24695052</guid>
-            <pubDate>Wed, 19 Jan 2022 14:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[8:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_116/QWMZy_1642600302538G815K_JPEG/20220119_223324_670_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 8회 예고편 - TOP 10으로 가는 마지막 관문!]]></title>
-            <link>https://tv.naver.com/v/24649992</link>
-            <guid>https://tv.naver.com/v/24649992</guid>
-            <pubDate>Mon, 17 Jan 2022 14:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_107/wNk6K_1642417294294dxz3N_JPEG/20220117_195229_241_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
