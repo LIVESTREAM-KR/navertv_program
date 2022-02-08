@@ -4,9 +4,25 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 23:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] 요즘 햄스터는 노래도 하네... 비비지 은하가 부르는 윤하의 ＜우리 헤어졌어요＞♬]]></title>
+            <link>https://tv.naver.com/v/24985735</link>
+            <guid>https://tv.naver.com/v/24985735</guid>
+            <pubDate>Tue, 08 Feb 2022 01:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_293/adFk0_1644222996618fX03O_JPEG/CA202202090004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 신인그룹 비비지의 팀명 비하인드!]]></title>
+            <link>https://tv.naver.com/v/24985733</link>
+            <guid>https://tv.naver.com/v/24985733</guid>
+            <pubDate>Tue, 08 Feb 2022 01:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_1/uvnc4_1644222994211b1PnV_JPEG/CA202202090003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블핑은 못 참지,, 광란의 파티장 된 케망진창 주간아 x_x]]></title>
             <link>https://tv.naver.com/v/24899365</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220202_11/EavFV_1643795852182kyQzE_JPEG/CA202202020017_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] kep1er YUJIN  - WA DA DA (케플러 최유진 - 와다다) l EP.547]]></title>
-            <link>https://tv.naver.com/v/24897629</link>
-            <guid>https://tv.naver.com/v/24897629</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_197/dOeiQ_16437951928751L742_JPEG/CA202202020015_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist] 케플러가 추는 소녀시대의 ＜The Boys＞♬ Full ver. l EP.547]]></title>
-            <link>https://tv.naver.com/v/24897571</link>
-            <guid>https://tv.naver.com/v/24897571</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_216/Z09FY_1643794893262DKcrD_JPEG/CA202202020004_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
