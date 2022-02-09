@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 11:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 12:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_270/khWt0_16421208592882yMFH_JPEG/5cb199b8-74d2-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25032099</link>
+            <guid>https://tv.naver.com/v/25032099</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_64/vvwEW_16444066018336xRmm_JPEG/CA202202090025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엄지의 자이언티 ＜뻔한 멜로디＞ 커버♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25032094</link>
+            <guid>https://tv.naver.com/v/25032094</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_73/VJ5pW_1644406598328D8khy_JPEG/CA202202090024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오또케송] 공기 반 소리 반 7살 신비 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25031787</link>
+            <guid>https://tv.naver.com/v/25031787</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_154/umyY0_16444056976366lzKN_JPEG/CA202202090023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오또케송] 본투비 귀요미 엄지♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25031784</link>
+            <guid>https://tv.naver.com/v/25031784</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_186/ZLS2g_1644405694739jhXEG_JPEG/CA202202090022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오또케송] 애교의 대명사 은하 2022년 ver. (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25031694</link>
             <guid>https://tv.naver.com/v/25031694</guid>
@@ -1926,14 +1958,6 @@
             <pubDate>Wed, 09 Feb 2022 11:18:03 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220209_247/B65MG_16444053920968kdOk_JPEG/CA202202090020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[※킹 주의※ 가짜 웃음으로 도배 된 VIVIZ표 모닝콜 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25031605</link>
-            <guid>https://tv.naver.com/v/25031605</guid>
-            <pubDate>Wed, 09 Feb 2022 11:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_47/OvGqS_1644405092694vdcDt_JPEG/CA202202090019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비비지의 꿈 : 치아 튼튼 머리숱 많은 백발 할머니(?) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -1966,6 +1990,62 @@
             <pubDate>Wed, 09 Feb 2022 11:18:03 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220209_218/ZrTWr_1644403897326AEsEK_JPEG/CA202202090015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 신곡] 경력직 신인그룹 데뷔! 비비지(VIVIZ)의 ‘BOP BOP!’♬ l EP.548 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25031292</link>
+            <guid>https://tv.naver.com/v/25031292</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_114/kUnUo_1644403892892c6edf_JPEG/CA202202090013_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist] VIVIZ가 부르는 10CM의 ＜폰서트＞ ♬ Full ver. l EP.548 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25030913</link>
+            <guid>https://tv.naver.com/v/25030913</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_55/wpHNi_1644402451552d8Eff_JPEG/CA202202090012_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] VIVIZ SINB - BOP BOP! (비비지 신비 - 밥 밥!) l EP.548 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25029692</link>
+            <guid>https://tv.naver.com/v/25029692</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_182/1P2rW_16443984964638v1id_JPEG/CA202202090008_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] VIVIZ EUNHA - BOP BOP! (비비지 은하 - 밥 밥!) l EP.548 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25029690</link>
+            <guid>https://tv.naver.com/v/25029690</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_123/ugoAd_1644398495292HMxRb_JPEG/CA202202090009_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] VIVIZ UMJI - BOP BOP! (비비지 엄지 - 밥 밥!) l EP.548 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25029475</link>
+            <guid>https://tv.naver.com/v/25029475</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_38/OWOav_1644397954965UTsKd_JPEG/CA202202090010_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 4K캠] VIVIZ - BOP BOP! (비비지 - 밥 밥!) l EP.548 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25024374</link>
+            <guid>https://tv.naver.com/v/25024374</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_110/tf6BM_164438679350234Jyg_JPEG/CA202202090007_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] VIVIZ - BOP BOP! (비비지 - 밥 밥!) l EP.548 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25024259</link>
+            <guid>https://tv.naver.com/v/25024259</guid>
+            <pubDate>Wed, 09 Feb 2022 12:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_77/8mWle_16443864982645vw9I_JPEG/CA202202090006_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[방송선공개] 요즘 햄스터는 노래도 하네... 비비지 은하가 부르는 윤하의 ＜오늘 헤어졌어요＞♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -2070,86 +2150,6 @@
             <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220202_138/zDfLs_1643801497121sIteN_JPEG/CA202202020027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 리더 유진이는요♥ 멋짐 10스푼에 애교 10000스푼 ㅇ3ㅇ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24898853</link>
-            <guid>https://tv.naver.com/v/24898853</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_267/Wjfmz_1643801198660zQ6e1_JPEG/CA202202020026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴만 봐도 웃음이 나는 케플러의 숙소 생활 (ft.히히즈) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24898852</link>
-            <guid>https://tv.naver.com/v/24898852</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_244/wkAKW_1643801196859Jyj9F_JPEG/CA202202020025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짱플러 예능 에이스들의 only '목소리'로 하는 개인기 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24898849</link>
-            <guid>https://tv.naver.com/v/24898849</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_16/hDIlQ_1643801192960AMctC_JPEG/CA202202020024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] 케플러(kep1er)의 '케이팝 커버 퀴즈' 직캠Ver. l EP.547 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24898365</link>
-            <guid>https://tv.naver.com/v/24898365</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_251/0cPFE_1643799095817n8ryM_JPEG/CA202202020022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 4K캠] kep1er - The Boys (케플러 - 더 보이즈 (원곡 : 소녀시대) ) l EP.547 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24898223</link>
-            <guid>https://tv.naver.com/v/24898223</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_278/tujOx_1643799698733QtI8y_JPEG/CA202202020008_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] 케플러(kep1er) 휴닝바히에의 'XOXO' (원곡 : 전소미) 직캠 Ver. l EP.547 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24898212</link>
-            <guid>https://tv.naver.com/v/24898212</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_276/bD1Py_1643798492517mCs3p_JPEG/CA202202020021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 짐벌캠] kep1er - The Boys (케플러 - 더 보이즈 (원곡 : 소녀시대) ) l EP.547 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24898160</link>
-            <guid>https://tv.naver.com/v/24898160</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_250/zlQHb_1643798195406RWhqr_JPEG/CA202202020019_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 4K캠] kep1er - WA DA DA (케플러 - 와다다) l EP.547 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24898159</link>
-            <guid>https://tv.naver.com/v/24898159</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_29/f7pha_1643798194116qY0KU_JPEG/CA202202020007_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 짐벌캠] kep1er - WA DA DA (케플러 - 와다다) l EP.547 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24898057</link>
-            <guid>https://tv.naver.com/v/24898057</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_45/ph1Oe_1643797591088huR3G_JPEG/CA202202020018_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] kep1er DAYEON - WA DA DA (케플러 김다연 - 와다다) l EP.547 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24898056</link>
-            <guid>https://tv.naver.com/v/24898056</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_150/Mfd44_1643797590077Ntd5h_JPEG/CA202202020010_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
