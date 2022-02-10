@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 08:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 09:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_270/khWt0_16421208592882yMFH_JPEG/5cb199b8-74d2-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[귀엽고 거친 비비지의 육탄전.. 아니 ＜빨래 비비지! 말리지!＞ 게임 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25052632</link>
+            <guid>https://tv.naver.com/v/25052632</guid>
+            <pubDate>Thu, 10 Feb 2022 09:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[6:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_213/Au0Sz_1644483452235ssWYR_JPEG/CA202202090044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Weekly Playlist l 세로캠] 비비지 (VIVIZ) - ＜폰서트＞ (원곡 : 10cm) ♬ l EP.548 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25045273</link>
             <guid>https://tv.naver.com/v/25045273</guid>
@@ -1966,6 +1974,14 @@
             <pubDate>Wed, 09 Feb 2022 11:18:03 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220209_247/B65MG_16444053920968kdOk_JPEG/CA202202090020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[※킹 주의※ 가짜 웃음으로 도배 된 VIVIZ표 모닝콜 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25031605</link>
+            <guid>https://tv.naver.com/v/25031605</guid>
+            <pubDate>Thu, 10 Feb 2022 09:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_47/OvGqS_1644405092694vdcDt_JPEG/CA202202090019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비비지의 꿈 : 치아 튼튼 머리숱 많은 백발 할머니(?) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -2134,22 +2150,6 @@
             <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220202_244/3IOfJ_1643801818665hzSMz_JPEG/CA202202020030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오또케송] 애교 인간 최유진 X 애교 최초 공개 마시로 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24899023</link>
-            <guid>https://tv.naver.com/v/24899023</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_211/2bBvd_1643801813619vWDYG_JPEG/CA202202020029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤오팅의 댄스 스포츠 교실 그리고 이상 증상 보이는 수강생들 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24899010</link>
-            <guid>https://tv.naver.com/v/24899010</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_143/4jOp4_1643801796273cYyqu_JPEG/CA202202020028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
