@@ -4,9 +4,17 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 06:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 07:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[《예고》펜타곤(PENTAGON)과 함께한 이번주 심플리 콘투어💌~!! _506회]]></title>
+            <link>https://tv.naver.com/v/25049315</link>
+            <guid>https://tv.naver.com/v/25049315</guid>
+            <pubDate>Thu, 10 Feb 2022 07:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_89/DAcEe_1644475932375fxabv_PNG/1644475886913.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.505]]></title>
             <link>https://tv.naver.com/v/24935296</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 29 Jan 2022 02:30:35 GMT</pubDate>
             <content:encoded><![CDATA[57:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220129_259/f4MAa_1643421979651O2nle_PNG/1643421263574.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리만의 매력💗 강렬한 퍼포먼스가 돋보이는 빌리의 ‘링 바이 링 (RING X RING)’ _ Ep.504]]></title>
-            <link>https://tv.naver.com/v/24847600</link>
-            <guid>https://tv.naver.com/v/24847600</guid>
-            <pubDate>Fri, 28 Jan 2022 07:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_18/w7yC6_1643352853053scx5k_PNG/1643352732563.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
