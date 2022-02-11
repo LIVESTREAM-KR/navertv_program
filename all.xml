@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 03:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 04:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트렌드지 - Trauma (트라우마) + TNT (Truth&Trust) ★Simply's Spotlight★ _ Ep.506 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25068053</link>
+            <guid>https://tv.naver.com/v/25068053</guid>
+            <pubDate>Fri, 11 Feb 2022 04:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[8:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_93/Jcr3W_1644553042259BEk6r_PNG/1644546472893.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[옛 연인에 대한 🌼향수를 불러일으키는 청공소년의 ‘널 찾으러 갈게’ _ Ep.506 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25068050</link>
+            <guid>https://tv.naver.com/v/25068050</guid>
+            <pubDate>Fri, 11 Feb 2022 04:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_60/4gX93_1644553031194Wa6Tr_PNG/1644546465052.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[《예고》펜타곤(PENTAGON)과 함께한 이번주 심플리 콘투어💌~!! _506회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25049315</link>
             <guid>https://tv.naver.com/v/25049315</guid>
@@ -1654,22 +1670,6 @@
             <pubDate>Fri, 04 Feb 2022 04:22:00 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_290/iRHK1_1643947792333infl4_PNG/1643941593716.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[《예고》이번주 심플리콘투어는!? 2022 플라이하이 케이팝 콘서트 Part.2~!!🎉 _ 505회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24909778</link>
-            <guid>https://tv.naver.com/v/24909778</guid>
-            <pubDate>Thu, 03 Feb 2022 08:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_86/LCSRL_16439637430315iQ57_PNG/1643963739840.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.504 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24856777</link>
-            <guid>https://tv.naver.com/v/24856777</guid>
-            <pubDate>Sat, 29 Jan 2022 02:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[57:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220129_259/f4MAa_1643421979651O2nle_PNG/1643421263574.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[더원_사랑아 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
