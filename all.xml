@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 23:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 01:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2504,6 +2504,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210712_155/XLq8z_1626069103384sL4GE_JPEG/85b475ba-1028-43b0-9e6e-8aa4b824fccb_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[선공개] TOP6 결정전! 각자의 개성이 넘치는 37호 & 17호의 무대🎙 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25108923</link>
+            <guid>https://tv.naver.com/v/25108923</guid>
+            <pubDate>Mon, 14 Feb 2022 01:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_116/DTq2r_1644799292789Ks9DA_JPEG/20220214_092634_905_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스페셜] 노래로 전하는 위로..♥ 힘!이 되는 참가자들의 무대 모음💪 | JTBC 220207 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25035142</link>
             <guid>https://tv.naver.com/v/25035142</guid>
@@ -2734,14 +2742,6 @@
             <pubDate>Mon, 24 Jan 2022 14:21:44 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220124_9/6rzFj_16430260016200NEMi_JPEG/20220124_200401_785_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아쉬운 이별..💧 3라운드 탈락자 10명의 무명가수 '이름' 공개 | JTBC 220124 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24771956</link>
-            <guid>https://tv.naver.com/v/24771956</guid>
-            <pubDate>Mon, 24 Jan 2022 14:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_129/YlN9y_16430260071960T7sp_JPEG/20220124_202102_771_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['이것이 경험에서 나온 바이브다' 😎 재치있는 영통 팬싸인회! , MBC 220203 방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
