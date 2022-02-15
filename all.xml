@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 23:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 01:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_24/aVpgj_1642657973231N47yw_JPEG/8a30065a-79b4-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[방송선공개] 하나에 크래비티, 둘에 사랑해를 외칩니다! 자 하나~! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25123016</link>
+            <guid>https://tv.naver.com/v/25123016</guid>
+            <pubDate>Tue, 15 Feb 2022 01:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_158/dXCFY_16448349976170hn23_JPEG/CA202202160004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 얘들아(0명) 왕사탕 들고 춤추는 울 미니미니 보고 가라! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25122924</link>
+            <guid>https://tv.naver.com/v/25122924</guid>
+            <pubDate>Tue, 15 Feb 2022 01:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_41/IhY0j_1644834692795sYgWT_JPEG/CA202202160005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주간아이돌 549회 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25075497</link>
             <guid>https://tv.naver.com/v/25075497</guid>
@@ -2134,22 +2150,6 @@
             <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220202_271/J9v5p_1643802994873Lerxy_JPEG/CA202202020036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짱플러의 완벽 퍼포 ITZY ＜LOCO＞ 커버 댄스 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24899104</link>
-            <guid>https://tv.naver.com/v/24899104</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_7/jfGRc_1643802153134UPzwz_JPEG/CA202202020032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음색요정 채현x영은이 부르는 다비치의 ＜8282＞♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24899026</link>
-            <guid>https://tv.naver.com/v/24899026</guid>
-            <pubDate>Wed, 02 Feb 2022 12:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220202_184/6Ljvg_1643801819790Q2zlL_JPEG/CA202202020031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
