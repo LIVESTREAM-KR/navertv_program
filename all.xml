@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 07:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 08:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》💌네이처(NATURE)와 함께한 이번주 심플리 콘투어 독일편~!! _507회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25186336</link>
+            <guid>https://tv.naver.com/v/25186336</guid>
+            <pubDate>Thu, 17 Feb 2022 08:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_185/UbiYt_1645082765221fcJ6t_PNG/1645082760749.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.506 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25069122</link>
             <guid>https://tv.naver.com/v/25069122</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Fri, 11 Feb 2022 06:25:45 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220210_35/j8OSY_1644475266708kkpIl_JPEG/1644474771070.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 펜타곤 여원 'Feelin' Like' 직캠 (PENTAGON YEOONE 'Feelin' Like') l Simply K-Pop CON-TOUR Ep.506 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25048969</link>
-            <guid>https://tv.naver.com/v/25048969</guid>
-            <pubDate>Fri, 11 Feb 2022 06:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_76/iToUG_1644475255424Qw6An_JPEG/1644474319857.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위아영_다만 널 사랑하고 있어 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
