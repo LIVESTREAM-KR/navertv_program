@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 05:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.507 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25210862</link>
+            <guid>https://tv.naver.com/v/25210862</guid>
+            <pubDate>Fri, 18 Feb 2022 05:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[51:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_139/KUMsN_16451603770943m3k5_PNG/1645160371684.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🌹세련되고 시크한 펜타곤의 ‘Feelin’ Like‘ _ Ep.507 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25210735</link>
+            <guid>https://tv.naver.com/v/25210735</guid>
+            <pubDate>Fri, 18 Feb 2022 05:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_287/lf2VT_1645160660049ifr7P_PNG/1645160655948.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[독보적인 ✨카리스마✨ 미래소년의 ’Marvelous’ _ Ep.507 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25210659</link>
+            <guid>https://tv.naver.com/v/25210659</guid>
+            <pubDate>Fri, 18 Feb 2022 05:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_256/Y1Iiv_1645160279859RT72h_PNG/1645160276456.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[귀엽게 표현한 🍹다채로운 매력 미래소년의 ’JUICE‘ _ Ep.507 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25210560</link>
+            <guid>https://tv.naver.com/v/25210560</guid>
+            <pubDate>Fri, 18 Feb 2022 05:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_273/CAzZk_1645159577336adwcC_PNG/1645159570053.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[데뷔 32년 만에 도전한 🎸헤비메탈 김장훈 x 롤링쿼츠의 ’Ice On Fire‘ _ Ep.507 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25210490</link>
+            <guid>https://tv.naver.com/v/25210490</guid>
+            <pubDate>Fri, 18 Feb 2022 05:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_155/zj6Q9_1645159437372v13hv_PNG/1645158891423.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[힘든 마음을 🌼위로🌼하는 박현서의 ’어깨‘ _ Ep.507 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25210488</link>
+            <guid>https://tv.naver.com/v/25210488</guid>
+            <pubDate>Fri, 18 Feb 2022 05:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_139/a6Dt5_16451594306636uoQV_PNG/1645158887074.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[🖤악당🖤으로 변신한 트렌드지의 ’Villain‘ _ Ep.507 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25210038</link>
             <guid>https://tv.naver.com/v/25210038</guid>
@@ -1622,54 +1670,6 @@
             <pubDate>Fri, 11 Feb 2022 05:19:22 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_18/Yhn5G_1644555866013wKUFM_PNG/1644555863369.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[감성적인 보컬로 🧣위로하는 박현서의 ‘어깨‘ _ Ep.506 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25068865</link>
-            <guid>https://tv.naver.com/v/25068865</guid>
-            <pubDate>Fri, 11 Feb 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_118/vg8QX_16445555502372yvT3_PNG/1644555547591.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[중독적인 퍼포먼스가 🎀매력적인 네이처의 ‘RICA RICA’ _ Ep.506 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25068837</link>
-            <guid>https://tv.naver.com/v/25068837</guid>
-            <pubDate>Fri, 11 Feb 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_254/JWJ7T_1644555106231FGkkT_PNG/1644555100851.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어깨가 저절로 ⏰들썩거리는 신미래의 ‘째깍째깍 (EDM ver.)’ _ Ep.506 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25068678</link>
-            <guid>https://tv.naver.com/v/25068678</guid>
-            <pubDate>Fri, 11 Feb 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_173/1EL0W_1644554676678gf1lH_PNG/1644554368319.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[섹시한 매력으로 ✨남성미 자랑하는 온리원오브의 ‘skinz’ _ Ep.506 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25068570</link>
-            <guid>https://tv.naver.com/v/25068570</guid>
-            <pubDate>Fri, 11 Feb 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_11/4jaEX_1644554409559ll3lg_PNG/1644554096915.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[청춘에게 전하는 강렬한 🕊위로 루미너스의 '비상' _ Ep.506 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25068566</link>
-            <guid>https://tv.naver.com/v/25068566</guid>
-            <pubDate>Fri, 11 Feb 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_133/FR3hL_1644554402880NNn7A_PNG/1644553401311.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미래소년 - JUICE (주스) + Marvelous (마블러스) ★Simply's Spotlight★ _ Ep.506 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25068330</link>
-            <guid>https://tv.naver.com/v/25068330</guid>
-            <pubDate>Fri, 11 Feb 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[7:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_289/CRwbW_1644553850747x4KJC_PNG/1644546477624.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[위아영_다만 널 사랑하고 있어 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
