@@ -4,9 +4,17 @@
         <title>tvN 놀라운 토요일 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 11:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 12:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[★200★ 이게 美친 케미지~ 서로 씹고 뜯고 즐기는 맛에 사는 멤버들ㅋㅋ #highlight]]></title>
+            <link>https://tv.naver.com/v/25238653</link>
+            <guid>https://tv.naver.com/v/25238653</guid>
+            <pubDate>Sat, 19 Feb 2022 12:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[18:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220219_109/Z7cXm_1645272701946Y1uWW_JPEG/7e053147-fe6a-4e98-89ef-ff9ba5191e4c_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송]]></title>
             <link>https://tv.naver.com/v/23255090</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Dec 2021 07:22:52 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210224_154/lcKFP_1614178316320x9xe2_JPEG/B120188696_EPI0126_24_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 받쓰 도플갱어 81년생 동현과 99년생 도연 | tvN 200919 방송]]></title>
-            <link>https://tv.naver.com/v/15843090</link>
-            <guid>https://tv.naver.com/v/15843090</guid>
-            <pubDate>Mon, 27 Dec 2021 11:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210224_177/o8xvW_1614178314713om6Lw_JPEG/B120188696_EPI0126_23_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
