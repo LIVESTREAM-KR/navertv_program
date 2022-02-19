@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 16:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 17:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1672,6 +1672,70 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_273/ADW4O_1645084897585cbvdg_JPEG/1645084894189.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메스그램_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25188456</link>
+            <guid>https://tv.naver.com/v/25188456</guid>
+            <pubDate>Sat, 19 Feb 2022 17:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[6:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_208/lHZCp_1645084583674ws6pV_JPEG/bf5221d2-8fc6-11ec-94f6-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메스그램_Lightfall (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25188378</link>
+            <guid>https://tv.naver.com/v/25188378</guid>
+            <pubDate>Sat, 19 Feb 2022 17:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_32/xUMXS_1645084457066DcJPK_JPEG/97f67278-8fc6-11ec-8caf-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메스그램_Twilight (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25188343</link>
+            <guid>https://tv.naver.com/v/25188343</guid>
+            <pubDate>Sat, 19 Feb 2022 17:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_284/hBd6m_1645084377370hB9xf_JPEG/76ecf511-8fc6-11ec-a412-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메스그램_Omen (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25188321</link>
+            <guid>https://tv.naver.com/v/25188321</guid>
+            <pubDate>Sat, 19 Feb 2022 17:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_4/G3Hm4_16450843264115nwks_JPEG/5230f762-8fc6-11ec-94fc-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알리_기다려줘(원곡 김광석) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25188274</link>
+            <guid>https://tv.naver.com/v/25188274</guid>
+            <pubDate>Sat, 19 Feb 2022 17:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_41/O35eR_1645084265637IXS5W_JPEG/2318ff1a-8fc6-11ec-94fc-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알리_주저하는 연인들을 위해(원곡 잔나비) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25188229</link>
+            <guid>https://tv.naver.com/v/25188229</guid>
+            <pubDate>Sat, 19 Feb 2022 17:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_144/dBzdw_1645084184541E71mS_JPEG/fa88c807-8fc5-11ec-ba4e-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알리_지우개 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25188204</link>
+            <guid>https://tv.naver.com/v/25188204</guid>
+            <pubDate>Sat, 19 Feb 2022 17:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_274/PBrp6_1645084150479nSv26_JPEG/d0fa33d1-8fc5-11ec-94fc-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알리_내가 나에게 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25188188</link>
+            <guid>https://tv.naver.com/v/25188188</guid>
+            <pubDate>Sat, 19 Feb 2022 17:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_143/A9Sl0_1645084124796nS41Q_JPEG/b05cbe9d-8fc5-11ec-8a3e-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[위아영_다만 널 사랑하고 있어 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25047143</link>
             <guid>https://tv.naver.com/v/25047143</guid>
@@ -1846,70 +1910,6 @@
             <pubDate>Fri, 28 Jan 2022 11:19:04 GMT</pubDate>
             <content:encoded><![CDATA[7:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_221/e95x3_1643357589846NL6fN_JPEG/bdcb9d53-8011-11ec-9f69-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥켈리_이별이라는 밤 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24849473</link>
-            <guid>https://tv.naver.com/v/24849473</guid>
-            <pubDate>Fri, 28 Jan 2022 11:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_44/4qVup_1643357515740yWYWL_JPEG/8f92462b-8011-11ec-99fd-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥켈리_세레나데 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24849431</link>
-            <guid>https://tv.naver.com/v/24849431</guid>
-            <pubDate>Fri, 28 Jan 2022 11:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_162/8ngJZ_1643357374979mDTOX_JPEG/5c198bcb-8011-11ec-abae-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리누_사랑아(원곡 더원) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24709441</link>
-            <guid>https://tv.naver.com/v/24709441</guid>
-            <pubDate>Fri, 21 Jan 2022 11:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_125/2tZLW_1642666180967B3UBa_JPEG/05bee76d-79c8-11ec-89ca-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서문탁_Deer Queen (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24705980</link>
-            <guid>https://tv.naver.com/v/24705980</guid>
-            <pubDate>Fri, 21 Jan 2022 11:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_221/eGtBy_1642658571585VDz0K_JPEG/21d1f776-79b6-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서문탁_Butterfly(영화 "국가대표" OST) (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24705872</link>
-            <guid>https://tv.naver.com/v/24705872</guid>
-            <pubDate>Fri, 21 Jan 2022 11:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_300/HSJxP_16426583946704cyB9_JPEG/d0500876-79b5-11ec-89ca-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서문탁_사슬 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24705804</link>
-            <guid>https://tv.naver.com/v/24705804</guid>
-            <pubDate>Fri, 21 Jan 2022 11:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_84/4gJ7o_1642658251043DkRrq_JPEG/8a892dcd-79b5-11ec-b3f1-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서문탁_사랑, 결코 시들지 않는 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24705743</link>
-            <guid>https://tv.naver.com/v/24705743</guid>
-            <pubDate>Fri, 21 Jan 2022 11:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[4:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_87/dthe7_1642658149749IavtU_JPEG/256e9bf2-79b5-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리누_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24705676</link>
-            <guid>https://tv.naver.com/v/24705676</guid>
-            <pubDate>Fri, 21 Jan 2022 11:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[6:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_24/aVpgj_1642657973231N47yw_JPEG/8a30065a-79b4-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퍼포비티 랜덤 플레이 댄스 대성공★ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
