@@ -4,9 +4,17 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 15:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 16:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱어게인2 12회 예고편 - 당신의 싱어게인2 TOP3를 뽑아주세요👉]]></title>
+            <link>https://tv.naver.com/v/25267417</link>
+            <guid>https://tv.naver.com/v/25267417</guid>
+            <pubDate>Mon, 21 Feb 2022 16:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_175/CXTOe_1645444651286iSxW9_JPEG/20220221_204809_187_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🚨 (안 보면 후회) god기의 〈으르렁〉♬ 즉흥 댄스 🚨 | JTBC 220221 방송]]></title>
             <link>https://tv.naver.com/v/25267205</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Feb 2022 14:19:52 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220214_44/ZVzCc_1644837155714BwD1v_JPEG/20220214_195932_176_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박현규vs울랄라세션] 몰표 탄생😲 심사위원의 픽 ⇨ Top 6 진출자는? | JTBC 220214 방송]]></title>
-            <link>https://tv.naver.com/v/25123555</link>
-            <guid>https://tv.naver.com/v/25123555</guid>
-            <pubDate>Mon, 14 Feb 2022 14:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_175/2V2F5_1644836813332tXTRs_JPEG/20220214_195716_548_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
