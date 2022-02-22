@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2744,6 +2744,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220214_44/ZVzCc_1644837155714BwD1v_JPEG/20220214_195932_176_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[#방과후설렘 직캠] 도전조 A 오지은 - Havana #세미파이널 #리허설 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220220방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25276181</link>
+            <guid>https://tv.naver.com/v/25276181</guid>
+            <pubDate>Tue, 22 Feb 2022 03:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220222_42/Fd8gn_1645499554696Gnbko_JPEG/clip_20220222115144_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 데뷔조 김현희 - Havana #세미파이널 #리허설 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220220방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25276180</link>
+            <guid>https://tv.naver.com/v/25276180</guid>
+            <pubDate>Tue, 22 Feb 2022 03:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220222_195/L4hvz_1645499553245hSY6W_JPEG/clip_20220222115121_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[#방과후설렘 직캠] 도전조 A 김수빈 - DUMB DUMB #세미파이널 #리허설 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220220방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25273355</link>
             <guid>https://tv.naver.com/v/25273355</guid>
@@ -2830,14 +2846,6 @@
             <pubDate>Mon, 21 Feb 2022 07:20:30 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_202/3TkNl_1645427553419KWjSg_JPEG/clip_20220221154358_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 데뷔조 김현희 - Havana #세미파이널 #리허설 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220220방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25261817</link>
-            <guid>https://tv.naver.com/v/25261817</guid>
-            <pubDate>Mon, 21 Feb 2022 07:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_212/6lgEK_1645427193914zMaQY_JPEG/clip_20220221153456_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 데뷔조 김선유 - LION #세미파이널 #리허설 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
@@ -2974,14 +2982,6 @@
             <pubDate>Thu, 03 Feb 2022 15:22:26 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_298/J1vue_1643901101257zAcQn_JPEG/1643901098676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 도전조 A 김수빈 - DUN DUN #세미파이널 #예능연구소4K직캠 #Fancam l MBC220130방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24920008</link>
-            <guid>https://tv.naver.com/v/24920008</guid>
-            <pubDate>Tue, 22 Feb 2022 02:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_3/fmsEo_1643886999480wOI6A_JPEG/clip_20220203200304_57.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
