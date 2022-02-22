@@ -4,9 +4,25 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 23:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 01:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미방선공개] 그대여 보름달이 뜨는 날 설윤이 보러 와요♡]]></title>
+            <link>https://tv.naver.com/v/25264078</link>
+            <guid>https://tv.naver.com/v/25264078</guid>
+            <pubDate>Tue, 22 Feb 2022 01:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_63/xjyKN_1645432599984E1xTy_JPEG/CA202202230005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 릴리&해원의 완벽 하모니! 연습생 시절 추억이 담긴 ＜Speechless＞]]></title>
+            <link>https://tv.naver.com/v/25264077</link>
+            <guid>https://tv.naver.com/v/25264077</guid>
+            <pubDate>Tue, 22 Feb 2022 01:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_280/28V7F_1645432598785X7C3P_JPEG/CA202202230004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼포비티 랜덤 플레이 댄스 대성공★]]></title>
             <link>https://tv.naver.com/v/25171171</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 09 Feb 2022 11:18:03 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220209_247/B65MG_16444053920968kdOk_JPEG/CA202202090020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[※킹 주의※ 가짜 웃음으로 도배 된 VIVIZ표 모닝콜]]></title>
-            <link>https://tv.naver.com/v/25031605</link>
-            <guid>https://tv.naver.com/v/25031605</guid>
-            <pubDate>Thu, 10 Feb 2022 09:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_47/OvGqS_1644405092694vdcDt_JPEG/CA202202090019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비비지의 꿈 : 치아 튼튼 머리숱 많은 백발 할머니(?)]]></title>
-            <link>https://tv.naver.com/v/25031520</link>
-            <guid>https://tv.naver.com/v/25031520</guid>
-            <pubDate>Wed, 09 Feb 2022 11:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_42/3ldXA_1644404797181srQ0B_JPEG/CA202202090018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
