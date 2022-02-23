@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -976,6 +976,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170710_44/W7seI_1499677537300zuhxv_JPEG/VD13895327_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스포 권장] 미리 보는 비비지(VIVIZ) 엔딩요정_ 은하ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25295827</link>
+            <guid>https://tv.naver.com/v/25295827</guid>
+            <pubDate>Wed, 23 Feb 2022 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_218/QLXiI_16455850533156fqwg_JPEG/CA202202230022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 비비지(VIVIZ) 엔딩요정_ 엄지ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25295826</link>
+            <guid>https://tv.naver.com/v/25295826</guid>
+            <pubDate>Wed, 23 Feb 2022 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_262/9U4fn_1645585052235C7Ngx_JPEG/CA202202230021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 비비지(VIVIZ) 엔딩요정_ 신비ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25295698</link>
+            <guid>https://tv.naver.com/v/25295698</guid>
+            <pubDate>Wed, 23 Feb 2022 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_182/U5ogn_1645584697252y81PD_JPEG/CA202202230020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] ⧛살 떨리는⧚ 비비지의 쇼챔 컴퍼니 신입 사원 면접기! (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25257543</link>
             <guid>https://tv.naver.com/v/25257543</guid>
@@ -1190,30 +1214,6 @@
             <pubDate>Wed, 26 Jan 2022 13:22:18 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220126_205/N9ME6_16432011924770B5yz_JPEG/CA202201260083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] DRIPPIN Kim Dong Yun - Villain (드리핀 김동윤 - 빌런) | Show Champion | EP.422 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24814479</link>
-            <guid>https://tv.naver.com/v/24814479</guid>
-            <pubDate>Wed, 26 Jan 2022 13:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_235/U3y9A_1643200895264wRofH_JPEG/CA202201260079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] fromis_9 LEE CHAE YOUNG - DM (프로미스나인 이채영 - 디엠) | Show Champion l EP.422 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24814374</link>
-            <guid>https://tv.naver.com/v/24814374</guid>
-            <pubDate>Wed, 26 Jan 2022 13:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_217/EZdRj_16432005952158stjW_JPEG/CA202201260065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] DRIPPIN Cha Jun Ho - Villain (드리핀 차준호 - 빌런) | Show Champion | EP.422 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24814133</link>
-            <guid>https://tv.naver.com/v/24814133</guid>
-            <pubDate>Wed, 26 Jan 2022 13:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_114/WfX5A_1643200053737dquNe_JPEG/CA202201260081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
