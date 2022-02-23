@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 11:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 12:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -976,6 +976,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170710_44/W7seI_1499677537300zuhxv_JPEG/VD13895327_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HYOLYN - Layin’ Low(feat. Jooyoung) (효린 - 레인 로우) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25306352</link>
+            <guid>https://tv.naver.com/v/25306352</guid>
+            <pubDate>Wed, 23 Feb 2022 12:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_235/GTcvp_16456152920368uVlG_JPEG/CA202202230047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] IM CHANG JUNG - I hate trot (임창정 - 나는 트로트가 싫어요) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25305413</link>
             <guid>https://tv.naver.com/v/25305413</guid>
@@ -1206,14 +1214,6 @@
             <pubDate>Wed, 16 Feb 2022 10:23:25 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220216_240/FJ8eo_1645005452896l3wSU_JPEG/CA202202160022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제1회 쇼 챔피언 졸업식] MONSTA X - Rush Hour (몬스타엑스 - 러시 아워) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25169673</link>
-            <guid>https://tv.naver.com/v/25169673</guid>
-            <pubDate>Wed, 16 Feb 2022 10:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_234/yFVfC_1645005392714GBcMA_JPEG/CA202202160020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
@@ -1912,6 +1912,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_221/e95x3_1643357589846NL6fN_JPEG/bdcb9d53-8011-11ec-9f69-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[음식에 진심인 엔믹스! ＜먹어보자 냠냠＞ 게임★ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25306690</link>
+            <guid>https://tv.naver.com/v/25306690</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[7:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_221/Evvic_1645616492307h6miw_JPEG/CA202202230064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25306468</link>
+            <guid>https://tv.naver.com/v/25306468</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_272/TNhWO_1645615653685ekFMr_JPEG/CA202202230065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오또케송] 엔믹스의 애교 장인&최약체즈 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25306272</link>
             <guid>https://tv.naver.com/v/25306272</guid>
@@ -1984,6 +2000,110 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_107/HiYuj_1645613496849Q8HyN_JPEG/CA202202230053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간아 직캠] NMIXX KYUJIN - O.O (엔믹스 규진 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299632</link>
+            <guid>https://tv.naver.com/v/25299632</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_53/vkEz8_16455972943686OkSh_JPEG/CA202202230007_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] NMIXX JIWOO - O.O (엔믹스 지우 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299631</link>
+            <guid>https://tv.naver.com/v/25299631</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_299/aTvDs_1645597293539P0CqG_JPEG/CA202202230012_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] NMIXX BAE - O.O (엔믹스 배이 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299630</link>
+            <guid>https://tv.naver.com/v/25299630</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_196/QY7JR_1645597292643wgz7u_JPEG/CA202202230009_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] NMIXX JINNI - O.O (엔믹스 지니 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299412</link>
+            <guid>https://tv.naver.com/v/25299412</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_267/ot8z3_1645596753867BFl8b_JPEG/CA202202230011_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] NMIXX SULLYOON - O.O (엔믹스 설윤 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299411</link>
+            <guid>https://tv.naver.com/v/25299411</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_34/bfB8W_1645596752945Gyb6W_JPEG/CA202202230010_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] NMIXX HAEWON - O.O (엔믹스 해원 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299409</link>
+            <guid>https://tv.naver.com/v/25299409</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_72/PgayB_1645596752014DGTy5_JPEG/CA202202230013_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 4K캠] NMIXX - JYP dance medley (엔믹스 - 제이와이피 댄스 메들리 ) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299283</link>
+            <guid>https://tv.naver.com/v/25299283</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_80/ILEtM_1645596455735k5Xog_JPEG/CA202202230015_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] NMIXX LILY  - O.O (엔믹스 릴리 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299257</link>
+            <guid>https://tv.naver.com/v/25299257</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_49/JXvQP_1645596396739bLAyL_JPEG/CA202202230008_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 짐벌캠] NMIXX - JYP dance medley (엔믹스 - 제이와이피 댄스 메들리 ) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299163</link>
+            <guid>https://tv.naver.com/v/25299163</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_187/pCkZV_1645596128975CKBgU_JPEG/CA202202230019_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] NMIXX - O.O (엔믹스 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299132</link>
+            <guid>https://tv.naver.com/v/25299132</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_216/lCpW3_1645596100323M877q_JPEG/CA202202230018_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 4K캠] NMIXX - O.O (엔믹스 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25299131</link>
+            <guid>https://tv.naver.com/v/25299131</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_191/GkmfW_1645596099062cWE3s_JPEG/CA202202230014_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 신곡] 걸그룹 명가 JYP의 막내그룹 두두등장‼ 엔믹스(NMIXX)의 ‘O.O’♬ l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25298783</link>
+            <guid>https://tv.naver.com/v/25298783</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_63/orpoN_1645595199099qSfYD_JPEG/CA202202230016_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist] NMIXX의 ‘JYP 댄스 메들리’♬ Full ver. l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25298781</link>
+            <guid>https://tv.naver.com/v/25298781</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_143/p0R99_1645595197882Kmv2a_JPEG/CA202202230017_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[미방선공개] 그대여 보름달이 뜨는 날 설윤이 보러 와요♡ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25264078</link>
             <guid>https://tv.naver.com/v/25264078</guid>
@@ -2030,126 +2150,6 @@
             <pubDate>Wed, 16 Feb 2022 12:32:24 GMT</pubDate>
             <content:encoded><![CDATA[5:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220216_295/mwSl4_1645010492757R0XP2_JPEG/CA202202160037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래비티의 NEW 숙소 룸메썰☆ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25171023</link>
-            <guid>https://tv.naver.com/v/25171023</guid>
-            <pubDate>Wed, 16 Feb 2022 12:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_44/FL2Ic_1645010491319omBzr_JPEG/CA202202160034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깜찍비티 소녀시대-키싱유(feat.왕사탕)♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25170930</link>
-            <guid>https://tv.naver.com/v/25170930</guid>
-            <pubDate>Wed, 16 Feb 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_15/czGU8_1645010200438vcPxL_JPEG/CA202202160040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형준이의 '조금만 자르랬잖아 누가 여기까지 자르래?' (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25170928</link>
-            <guid>https://tv.naver.com/v/25170928</guid>
-            <pubDate>Wed, 16 Feb 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_253/2ZNYR_1645010198603QfbCw_JPEG/CA202202160039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓기 스무 살 성민X태영의 로망♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25170927</link>
-            <guid>https://tv.naver.com/v/25170927</guid>
-            <pubDate>Wed, 16 Feb 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_96/5hNet_16450101972389XNTd_JPEG/CA202202160038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좀비 세상의 최후 생존자는?! 지금 우리 크래비티는..＠_@ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25170926</link>
-            <guid>https://tv.naver.com/v/25170926</guid>
-            <pubDate>Wed, 16 Feb 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_201/eAAy8_16450101959135aSNC_JPEG/CA202202160036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ 좀비가 된 정모! 뭐야 왜 잘해?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25170860</link>
-            <guid>https://tv.naver.com/v/25170860</guid>
-            <pubDate>Wed, 16 Feb 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_272/qMDMz_164500989186412Wru_JPEG/CA202202160035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러비티를 위한 신곡+서브곡 ※특급 스포※ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25170576</link>
-            <guid>https://tv.naver.com/v/25170576</guid>
-            <pubDate>Wed, 16 Feb 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_294/106pf_16450086957134gCEK_JPEG/CA202202160033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크래비티에게 쪼꼬미는후배일까? 선배일까?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25170575</link>
-            <guid>https://tv.naver.com/v/25170575</guid>
-            <pubDate>Wed, 16 Feb 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_232/Eg3iM_1645008693849pjuMh_JPEG/CA202202160032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MSG 과다 투입♨ 놀라운(?) 00년생의 체력 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25170574</link>
-            <guid>https://tv.naver.com/v/25170574</guid>
-            <pubDate>Wed, 16 Feb 2022 11:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_163/vXP08_1645008692125Y8z1F_JPEG/CA202202160031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 짐벌캠] CRAVITY - THRILL RIDE (크래비티 - 스릴라이드 (원곡 : 더보이즈) ) l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25167405</link>
-            <guid>https://tv.naver.com/v/25167405</guid>
-            <pubDate>Wed, 16 Feb 2022 12:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_245/fiwUz_1644999695556X9y0v_JPEG/CA202202160009_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 4K캠] CRAVITY - THRILL RIDE (크래비티 - 스릴라이드 (원곡 : 더보이즈) ) l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25164416</link>
-            <guid>https://tv.naver.com/v/25164416</guid>
-            <pubDate>Wed, 16 Feb 2022 12:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_86/qZjcY_1644993752561OKD6c_JPEG/CA202202160008_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist] CRAVITY가 선보이는 더보이즈의 ＜THRILL RIDE＞ ♬ Full ver. l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25158911</link>
-            <guid>https://tv.naver.com/v/25158911</guid>
-            <pubDate>Wed, 16 Feb 2022 12:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_246/qx9eN_1644979893855Gh1oP_JPEG/CA202202160007_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 하나에 크래비티, 둘에 사랑해를 외칩니다! 자 하나~! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25123016</link>
-            <guid>https://tv.naver.com/v/25123016</guid>
-            <pubDate>Tue, 15 Feb 2022 01:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_158/dXCFY_16448349976170hn23_JPEG/CA202202160004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 얘들아(0명) 왕사탕 들고 춤추는 울 미니미니 보고 가라! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25122924</link>
-            <guid>https://tv.naver.com/v/25122924</guid>
-            <pubDate>Tue, 15 Feb 2022 01:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_41/IhY0j_1644834692795sYgWT_JPEG/CA202202160005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 550회 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25112390</link>
-            <guid>https://tv.naver.com/v/25112390</guid>
-            <pubDate>Wed, 16 Feb 2022 12:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_197/1BPF0_1644808894979dLAze_JPEG/CA202202230001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
@@ -2504,6 +2504,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210712_155/XLq8z_1626069103384sL4GE_JPEG/85b475ba-1028-43b0-9e6e-8aa4b824fccb_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스페셜] 싱어게인2 플레이 리스트▷▶▷ 출근길 텐션 실화? 기분 좋아지는 무대 모음집 | JTBC 220221 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25306917</link>
+            <guid>https://tv.naver.com/v/25306917</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[17:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_239/TOJBs_1645617405510hpxsf_JPEG/20220223_201516_427_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스페셜] 싱어게인2 플레이 리스트▷▶▷ 잠들기 전 감성 충전🌙 마음 촉촉히 적시는 무대 모음집 | JTBC 220221 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25306718</link>
+            <guid>https://tv.naver.com/v/25306718</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[17:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_4/AFVQ2_1645616562807EPQry_JPEG/20220223_201103_314_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당신의 주인공에게 온라인 사전 투표하세요! 《싱어게인 2(singagain2)》 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25301391</link>
             <guid>https://tv.naver.com/v/25301391</guid>
@@ -2726,22 +2742,6 @@
             <pubDate>Mon, 21 Feb 2022 14:21:07 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_145/et9E4_1645436556436K1q7y_JPEG/20220221_183038_171_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 아찔한 운명의 장난♨ 부정하고 싶은 김기태 vs 서기 대결 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25254377</link>
-            <guid>https://tv.naver.com/v/25254377</guid>
-            <pubDate>Mon, 21 Feb 2022 01:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_126/Ii3kL_1645403256442lJ8Gr_JPEG/20220221_091455_222_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 11회 예고편 - 파이널에 진출할 Top 6는 누구? (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25123649</link>
-            <guid>https://tv.naver.com/v/25123649</guid>
-            <pubDate>Mon, 14 Feb 2022 14:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_56/rfO5d_1644837157467wxf1p_JPEG/20220214_200237_163_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 도전조 A 오지은 - Havana #세미파이널 #리허설 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220220방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>

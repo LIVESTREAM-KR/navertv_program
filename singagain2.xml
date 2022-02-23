@@ -4,9 +4,25 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 11:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 12:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스페셜] 싱어게인2 플레이 리스트▷▶▷ 출근길 텐션 실화? 기분 좋아지는 무대 모음집 | JTBC 220221 방송]]></title>
+            <link>https://tv.naver.com/v/25306917</link>
+            <guid>https://tv.naver.com/v/25306917</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[17:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_239/TOJBs_1645617405510hpxsf_JPEG/20220223_201516_427_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스페셜] 싱어게인2 플레이 리스트▷▶▷ 잠들기 전 감성 충전🌙 마음 촉촉히 적시는 무대 모음집 | JTBC 220221 방송]]></title>
+            <link>https://tv.naver.com/v/25306718</link>
+            <guid>https://tv.naver.com/v/25306718</guid>
+            <pubDate>Wed, 23 Feb 2022 12:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[17:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_4/AFVQ2_1645616562807EPQry_JPEG/20220223_201103_314_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신의 주인공에게 온라인 사전 투표하세요! 《싱어게인 2(singagain2)》]]></title>
             <link>https://tv.naver.com/v/25301391</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 21 Feb 2022 14:21:07 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_145/et9E4_1645436556436K1q7y_JPEG/20220221_183038_171_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 아찔한 운명의 장난♨ 부정하고 싶은 김기태 vs 서기 대결]]></title>
-            <link>https://tv.naver.com/v/25254377</link>
-            <guid>https://tv.naver.com/v/25254377</guid>
-            <pubDate>Mon, 21 Feb 2022 01:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_126/Ii3kL_1645403256442lJ8Gr_JPEG/20220221_091455_222_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 11회 예고편 - 파이널에 진출할 Top 6는 누구?]]></title>
-            <link>https://tv.naver.com/v/25123649</link>
-            <guid>https://tv.naver.com/v/25123649</guid>
-            <pubDate>Mon, 14 Feb 2022 14:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_56/rfO5d_1644837157467wxf1p_JPEG/20220214_200237_163_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
