@@ -4,9 +4,17 @@
         <title>JTBC 싱어게인2 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 07:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 08:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신의 주인공에게 온라인 사전 투표하세요! 《싱어게인 2(singagain2)》]]></title>
+            <link>https://tv.naver.com/v/25301391</link>
+            <guid>https://tv.naver.com/v/25301391</guid>
+            <pubDate>Wed, 23 Feb 2022 08:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_32/pMNV6_16456014986901AJc2_JPEG/20220223_162030_240_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싱어게인2 12회 예고편 - 당신의 싱어게인2 TOP3를 뽑아주세요👉]]></title>
             <link>https://tv.naver.com/v/25267417</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Feb 2022 14:19:52 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220214_56/rfO5d_1644837157467wxf1p_JPEG/20220214_200237_163_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아쉬운 헤어짐·· 앞으로의 활동이 더! 기대되는 4R 탈락자 이름 공개 | JTBC 220214 방송]]></title>
-            <link>https://tv.naver.com/v/25123648</link>
-            <guid>https://tv.naver.com/v/25123648</guid>
-            <pubDate>Mon, 14 Feb 2022 14:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_44/ZVzCc_1644837155714BwD1v_JPEG/20220214_195932_176_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
