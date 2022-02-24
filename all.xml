@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 07:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 08:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》빌리(Billlie)와 함께한 이번주 심플리 콘투어💌~!! _508회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25323551</link>
+            <guid>https://tv.naver.com/v/25323551</guid>
+            <pubDate>Thu, 24 Feb 2022 08:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_14/ldcIy_1645690353049syuyA_PNG/1645690351033.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.507 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25210862</link>
             <guid>https://tv.naver.com/v/25210862</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Fri, 18 Feb 2022 06:26:03 GMT</pubDate>
             <content:encoded><![CDATA[2:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_250/cEkhn_1645084912606qtWLi_JPEG/1645084909923.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K 가로] 미래소년 손동표 ’JUICE' 가로직캠 (MIRAE Son Dong Pyo 'JUICE') l Simply K-Pop CON-TOUR (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25188713</link>
-            <guid>https://tv.naver.com/v/25188713</guid>
-            <pubDate>Fri, 18 Feb 2022 06:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_273/ADW4O_1645084897585cbvdg_JPEG/1645084894189.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메스그램_인터뷰 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
