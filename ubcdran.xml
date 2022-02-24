@@ -4,9 +4,17 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 14:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 15:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빨간의자_인터뷰]]></title>
+            <link>https://tv.naver.com/v/25317897</link>
+            <guid>https://tv.naver.com/v/25317897</guid>
+            <pubDate>Thu, 24 Feb 2022 15:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_104/SZpHv_1645677547108vOvHG_JPEG/85533d43-952b-11ec-ba4e-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메스그램_인터뷰]]></title>
             <link>https://tv.naver.com/v/25188456</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jan 2022 11:19:04 GMT</pubDate>
             <content:encoded><![CDATA[6:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_122/rPGjN_1643357728163G5z3o_JPEG/14a050b2-8012-11ec-b3f1-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥켈리_인터뷰]]></title>
-            <link>https://tv.naver.com/v/24849491</link>
-            <guid>https://tv.naver.com/v/24849491</guid>
-            <pubDate>Fri, 28 Jan 2022 11:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[7:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_221/e95x3_1643357589846NL6fN_JPEG/bdcb9d53-8011-11ec-9f69-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
