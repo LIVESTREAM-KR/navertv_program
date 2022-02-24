@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 09:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 10:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1912,6 +1912,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_221/e95x3_1643357589846NL6fN_JPEG/bdcb9d53-8011-11ec-9f69-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간아 직캠] 엔믹스(NMIXX)의 '소원수리센터' 직캠 Ver. l 보름달, Gee, Speechless l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25322264</link>
+            <guid>https://tv.naver.com/v/25322264</guid>
+            <pubDate>Thu, 24 Feb 2022 10:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_195/krLYI_1645687595164zF7lc_JPEG/CA202202230084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[음식에 진심인 엔믹스! ＜먹어보자 냠냠＞ 게임★ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25306690</link>
             <guid>https://tv.naver.com/v/25306690</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Wed, 16 Feb 2022 12:32:24 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220216_85/uIcvY_1645011093358VAgP2_JPEG/CA202202160042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내겐 너무 가벼운 우리 크래비티 멤버! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25171025</link>
-            <guid>https://tv.naver.com/v/25171025</guid>
-            <pubDate>Wed, 16 Feb 2022 12:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[5:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_295/mwSl4_1645010492757R0XP2_JPEG/CA202202160037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
