@@ -4,9 +4,33 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 03:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 04:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간을 사랑하게 된 외계 🧚요정 록킹돌의 ‘Heart Rider’ _ Ep.508]]></title>
+            <link>https://tv.naver.com/v/25337758</link>
+            <guid>https://tv.naver.com/v/25337758</guid>
+            <pubDate>Fri, 25 Feb 2022 04:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_265/Zy2G3_16457630612445Jpog_PNG/1645763057640.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[5인 🎨5색🎨 다채로운 개성이 돋보이는 크랙시의 ‘Dance with God’ _ Ep.508]]></title>
+            <link>https://tv.naver.com/v/25337754</link>
+            <guid>https://tv.naver.com/v/25337754</guid>
+            <pubDate>Fri, 25 Feb 2022 04:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_27/aK3ZS_1645763044410lgdyI_PNG/1645763039693.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[💜몽환적인 분위기로 펼쳐지는 루미너스의 ‘All eyes down (비상)’ _ Ep.508]]></title>
+            <link>https://tv.naver.com/v/25337750</link>
+            <guid>https://tv.naver.com/v/25337750</guid>
+            <pubDate>Fri, 25 Feb 2022 04:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_49/BU5r7_1645763027055ir4i4_PNG/1645763022649.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[《예고》빌리(Billlie)와 함께한 이번주 심플리 콘투어💌~!! _508회]]></title>
             <link>https://tv.naver.com/v/25323551</link>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 18 Feb 2022 04:27:17 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220218_184/Xf2ml_16451582410023Lgxv_PNG/1645156949184.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[강렬한 🥁리듬🥁으로 흥 폭발시키는 주문 네이처의 ‘RICA RICA’ _ Ep.507]]></title>
-            <link>https://tv.naver.com/v/25209958</link>
-            <guid>https://tv.naver.com/v/25209958</guid>
-            <pubDate>Fri, 18 Feb 2022 04:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_227/IJMhX_1645158223551IbXyy_PNG/1645156944924.png?type=f172_97_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 펜타곤 우석 'Feelin' Like' 직캠 (PENTAGON WOOSEOK 'Feelin' Like') l Simply K-Pop CON-TOUR Ep.507]]></title>
-            <link>https://tv.naver.com/v/25188742</link>
-            <guid>https://tv.naver.com/v/25188742</guid>
-            <pubDate>Fri, 18 Feb 2022 06:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_21/yBUn8_1645084925781tqXwT_JPEG/1645084923283.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 펜타곤 옌안 'Feelin' Like' 직캠 (PENTAGON YANAN 'Feelin' Like‘) l Simply K-Pop CON-TOUR Ep.507]]></title>
-            <link>https://tv.naver.com/v/25188732</link>
-            <guid>https://tv.naver.com/v/25188732</guid>
-            <pubDate>Fri, 18 Feb 2022 06:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_250/cEkhn_1645084912606qtWLi_JPEG/1645084909923.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
