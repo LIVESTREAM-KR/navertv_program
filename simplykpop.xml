@@ -4,7 +4,7 @@
         <title>ARIRANG 심플리 케이팝 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 05:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 06:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,28 +104,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_14/ldcIy_1645690353049syuyA_PNG/1645690351033.png?type=f172_97_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.507]]></title>
-            <link>https://tv.naver.com/v/25210862</link>
-            <guid>https://tv.naver.com/v/25210862</guid>
-            <pubDate>Fri, 18 Feb 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[51:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_139/KUMsN_16451603770943m3k5_PNG/1645160371684.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[[PLYCAM 4K] 임창정 ‘나는 트로트가 싫어요’ 풀캠 (IM CHANG JUNG 'I Hate Trot‘) l Simply K-Pop CON-TOUR]]></title>
+            <link>https://tv.naver.com/v/25321148</link>
+            <guid>https://tv.naver.com/v/25321148</guid>
+            <pubDate>Fri, 25 Feb 2022 06:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_296/XUJ17_1645685437847dBx8x_JPEG/1645684777968.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🌹세련되고 시크한 펜타곤의 ‘Feelin’ Like‘ _ Ep.507]]></title>
-            <link>https://tv.naver.com/v/25210735</link>
-            <guid>https://tv.naver.com/v/25210735</guid>
-            <pubDate>Fri, 18 Feb 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_287/lf2VT_1645160660049ifr7P_PNG/1645160655948.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[[PLYCAM 4K] 빌리 수현 ‘a sign ~ anonymous’ 가로직캠 (Billlie SUHYEON 'a sign ~ anonymous') l Simply K-Pop]]></title>
+            <link>https://tv.naver.com/v/25321138</link>
+            <guid>https://tv.naver.com/v/25321138</guid>
+            <pubDate>Fri, 25 Feb 2022 06:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_239/9XUzo_1645685417414eh512_JPEG/1645684766154.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[독보적인 ✨카리스마✨ 미래소년의 ’Marvelous’ _ Ep.507]]></title>
-            <link>https://tv.naver.com/v/25210659</link>
-            <guid>https://tv.naver.com/v/25210659</guid>
-            <pubDate>Fri, 18 Feb 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_256/Y1Iiv_1645160279859RT72h_PNG/1645160276456.png?type=f172_97_blend" length="0" type="image/png"/>
+            <title><![CDATA[[PLYCAM 4K] 빌리 츠키 ‘긴가민가요’ 가로직캠 (Billlie TSUKI 'GingaMingaYo (the strange world)') l Simply]]></title>
+            <link>https://tv.naver.com/v/25321140</link>
+            <guid>https://tv.naver.com/v/25321140</guid>
+            <pubDate>Fri, 25 Feb 2022 06:25:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_62/zxYM4_16456885811080pIOU_JPEG/1645688578908.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
