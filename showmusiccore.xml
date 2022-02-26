@@ -4,9 +4,57 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 09:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 10:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 방과후 설렘 직캠 ‘Lions + Sonic Boom’ (My Teenage girl FanCam) @Show!MusicCore 220226]]></title>
+            <link>https://tv.naver.com/v/25357323</link>
+            <guid>https://tv.naver.com/v/25357323</guid>
+            <pubDate>Sat, 26 Feb 2022 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220226_103/XyfGk_1645870657027e0eM0_JPEG/clip_20220226185524_60.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 스테이씨 직캠 'RUN2U' (STAYC FanCam) @Show!MusicCore 220226]]></title>
+            <link>https://tv.naver.com/v/25357180</link>
+            <guid>https://tv.naver.com/v/25357180</guid>
+            <pubDate>Sat, 26 Feb 2022 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220226_280/UjqRX_1645869756022mu6gL_JPEG/clip_20220226183507_58.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 비비지 직캠 ‘BOP BOP!’ (VIVIZ FanCam) @Show!MusicCore 220226]]></title>
+            <link>https://tv.naver.com/v/25357088</link>
+            <guid>https://tv.naver.com/v/25357088</guid>
+            <pubDate>Sat, 26 Feb 2022 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220226_298/m88y8_1645869153890ayymg_JPEG/clip_20220226182933_56.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 비투비 직캠 ‘노래(The Song)’ (BTOB FanCam) @Show!MusicCore 220226]]></title>
+            <link>https://tv.naver.com/v/25357087</link>
+            <guid>https://tv.naver.com/v/25357087</guid>
+            <pubDate>Sat, 26 Feb 2022 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220226_61/o31W3_164586915175251rAJ_JPEG/clip_20220226182429_54.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 에이핑크 직캠 'My oh My' (Apink FanCam) @Show!MusicCore 220226]]></title>
+            <link>https://tv.naver.com/v/25357029</link>
+            <guid>https://tv.naver.com/v/25357029</guid>
+            <pubDate>Sat, 26 Feb 2022 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220226_231/8JVH6_1645868860502AAx5B_JPEG/clip_20220226182128_52.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 에이핑크 직캠 'Dilemma' (Apink FanCam) @Show!MusicCore 220226]]></title>
+            <link>https://tv.naver.com/v/25356991</link>
+            <guid>https://tv.naver.com/v/25356991</guid>
+            <pubDate>Sat, 26 Feb 2022 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220226_244/kbTsX_16458685524726gH3c_JPEG/clip_20220226181752_50.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 우주소녀 쪼꼬미 직캠 '슈퍼 그럼요(Super Yuppers!)' (WJSN CHOCOME FanCam) @Show!MusicCore 220122]]></title>
             <link>https://tv.naver.com/v/24744889</link>
@@ -198,54 +246,6 @@
             <pubDate>Sat, 22 Jan 2022 09:18:43 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220122_11/jSVup_1642842096025K8myk_JPEG/clip_20220122173811_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 진진 세로캠 ‘숨 좀 쉬자’ (JINJIN FanCam) @Show!MusicCore 220122]]></title>
-            <link>https://tv.naver.com/v/24743934</link>
-            <guid>https://tv.naver.com/v/24743934</guid>
-            <pubDate>Sat, 22 Jan 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220122_67/fk9z4_1642841855086r2ykY_JPEG/clip_20220122173806_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 진진&라키 직캠 ‘숨 좀 쉬자’ (ASTRO JINJIN & ROCKY FanCam) @Show!MusicCore 220122]]></title>
-            <link>https://tv.naver.com/v/24743914</link>
-            <guid>https://tv.naver.com/v/24743914</guid>
-            <pubDate>Sat, 22 Jan 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220122_127/DgbyU_1642841794384xGs4D_JPEG/clip_20220122173500_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 문별 세로캠 ‘LUNATIC’ (Moon Byul FanCam) @Show!MusicCore 220122]]></title>
-            <link>https://tv.naver.com/v/24743492</link>
-            <guid>https://tv.naver.com/v/24743492</guid>
-            <pubDate>Sat, 22 Jan 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220122_48/HihKk_1642840592844PMqol_JPEG/clip_20220122171230_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 문별 직캠 ‘LUNATIC’ (Moon Byul FanCam) @Show!MusicCore 220122]]></title>
-            <link>https://tv.naver.com/v/24743371</link>
-            <guid>https://tv.naver.com/v/24743371</guid>
-            <pubDate>Sat, 22 Jan 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220122_122/8zPTh_1642840291792m1woj_JPEG/clip_20220122171033_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 휘인 세로캠 ‘오묘해’ (Whee In FanCam) @Show!MusicCore 220122]]></title>
-            <link>https://tv.naver.com/v/24743269</link>
-            <guid>https://tv.naver.com/v/24743269</guid>
-            <pubDate>Sat, 22 Jan 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220122_138/4P6Xk_1642840051287INB4T_JPEG/clip_20220122170742_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 휘인 직캠 ‘오묘해’ (Whee In FanCam) @Show!MusicCore 220122]]></title>
-            <link>https://tv.naver.com/v/24743243</link>
-            <guid>https://tv.naver.com/v/24743243</guid>
-            <pubDate>Sat, 22 Jan 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220122_242/uvNXL_1642839991899PQhfr_JPEG/clip_20220122170425_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
