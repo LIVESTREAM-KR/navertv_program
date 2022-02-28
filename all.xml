@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 23:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 01:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1917,7 +1917,7 @@
             <guid>https://tv.naver.com/v/25342080</guid>
             <pubDate>Fri, 25 Feb 2022 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_74/ZnOqA_1645774718629gx5kc_JPEG/CA202203020002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_180/pyu4z_16460098574660EaHq_JPEG/CA202203020002_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간아 미방] 오또케송♡ 엔믹스 (NMIXX) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -2504,6 +2504,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210712_155/XLq8z_1626069103384sL4GE_JPEG/85b475ba-1028-43b0-9e6e-8aa4b824fccb_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[최종회 선공개] 파이널 순서 뽑기엔 역시 가위바위보가 국룰..! (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25375903</link>
+            <guid>https://tv.naver.com/v/25375903</guid>
+            <pubDate>Mon, 28 Feb 2022 01:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_62/2VI5h_1646009254275Lv9kW_JPEG/20220228_092946_174_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스페셜] 싱어게인2 플레이 리스트▷▶▷ 출근길 텐션 실화? 기분 좋아지는 무대 모음집 | JTBC 220221 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25306917</link>
             <guid>https://tv.naver.com/v/25306917</guid>
@@ -2734,14 +2742,6 @@
             <pubDate>Mon, 21 Feb 2022 14:21:07 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_21/oAQ7Y_1645436558194CJ56Q_JPEG/20220221_183351_639_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이주혁'만의 감성으로 가-득 채운 〈라일락이 질 때〉♬ | JTBC 220221 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25265517</link>
-            <guid>https://tv.naver.com/v/25265517</guid>
-            <pubDate>Mon, 21 Feb 2022 14:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_145/et9E4_1645436556436K1q7y_JPEG/20220221_183038_171_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 도전조 A 오지은 - Havana #세미파이널 #리허설 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220220방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
