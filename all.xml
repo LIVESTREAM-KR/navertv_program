@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 15:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 16:32:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2504,12 +2504,60 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210712_155/XLq8z_1626069103384sL4GE_JPEG/85b475ba-1028-43b0-9e6e-8aa4b824fccb_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[티저] 다양한 매력의 싱어게인2 TOP 6와 함께하는🎤 〈유명가수전〉 4월 첫 방송! (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25392667</link>
+            <guid>https://tv.naver.com/v/25392667</guid>
+            <pubDate>Mon, 28 Feb 2022 16:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_182/QwZmZ_16460623589813im3w_JPEG/20220301_002026_818_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어게인2 보너스 트랙 예고편 - 본격 하드 털이! TOP 6의 모든 순간을 공개합니다~ (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25392666</link>
+            <guid>https://tv.naver.com/v/25392666</guid>
+            <pubDate>Mon, 28 Feb 2022 16:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_102/6hujT_1646062357373by5Lr_JPEG/20220301_001953_987_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈싱어게인2〉 우승자 김기태의 소감 ＂모두 다 힘내시길 바랍니다👊🏻＂ | JTBC 220228 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25392564</link>
+            <guid>https://tv.naver.com/v/25392564</guid>
+            <pubDate>Mon, 28 Feb 2022 16:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_28/gA3oO_1646062059877ownY3_JPEG/20220301_001611_482_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈싱어게인2〉 파이널 라운드, 최종 2위 김소연 | JTBC 220228 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25392509</link>
+            <guid>https://tv.naver.com/v/25392509</guid>
+            <pubDate>Mon, 28 Feb 2022 16:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_45/szLOt_1646063319980j3fmz_JPEG/20220301_003756_344_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈싱어게인2〉 파이널 라운드, 최종 1위 김기태 | JTBC 220228 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25392508</link>
+            <guid>https://tv.naver.com/v/25392508</guid>
+            <pubDate>Mon, 28 Feb 2022 16:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_189/0HX39_1646061810893On5Mk_JPEG/20220301_001311_330_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[〈싱어게인2〉 파이널 라운드, 최종 3위 윤성 | JTBC 220228 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25392510</link>
             <guid>https://tv.naver.com/v/25392510</guid>
             <pubDate>Mon, 28 Feb 2022 15:23:44 GMT</pubDate>
             <content:encoded><![CDATA[1:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220301_126/dNkdi_1646061814680PFxKG_JPEG/20220301_001158_803_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결과 발표] 〈싱어게인2〉 파이널 라운드 TOP 4-6위 발표! | JTBC 220228 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25392563</link>
+            <guid>https://tv.naver.com/v/25392563</guid>
+            <pubDate>Mon, 28 Feb 2022 16:32:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_280/Fz6kx_1646062056602sIsb5_JPEG/20220301_001015_315_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[〈싱어게인1〉 TOP3 인터뷰 👉 ＂〈싱어게인〉 1에 나와서 다행이다…＂ 🤣 | JTBC 220228 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
@@ -2600,7 +2648,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220228_264/v8CUe_1646056673748q9Jtu_JPEG/20220228_224134_600_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[파이널 무대] (존재감 폭발💙) 신유미의 〈아름다운 강산〉♬ | JTBC 220228 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <title><![CDATA[[파이널 무대] (존재감 폭발↗️) 신유미만의 강산으로 재해석한 〈아름다운 강산〉♬ | JTBC 220228 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25391340</link>
             <guid>https://tv.naver.com/v/25391340</guid>
             <pubDate>Mon, 28 Feb 2022 14:20:29 GMT</pubDate>
@@ -2694,54 +2742,6 @@
             <pubDate>Wed, 23 Feb 2022 12:34:57 GMT</pubDate>
             <content:encoded><![CDATA[17:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_239/TOJBs_1645617405510hpxsf_JPEG/20220223_201516_427_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스페셜] 싱어게인2 플레이 리스트▷▶▷ 잠들기 전 감성 충전🌙 마음 촉촉히 적시는 무대 모음집 | JTBC 220221 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25306718</link>
-            <guid>https://tv.naver.com/v/25306718</guid>
-            <pubDate>Wed, 23 Feb 2022 12:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[17:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_4/AFVQ2_1645616562807EPQry_JPEG/20220223_201103_314_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 주인공에게 온라인 사전 투표하세요! 《싱어게인 2(singagain2)》 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25301391</link>
-            <guid>https://tv.naver.com/v/25301391</guid>
-            <pubDate>Wed, 23 Feb 2022 08:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_32/pMNV6_16456014986901AJc2_JPEG/20220223_162030_240_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 최종회 예고편 - 당신의 싱어게인2 TOP3를 뽑아주세요👉 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25267417</link>
-            <guid>https://tv.naver.com/v/25267417</guid>
-            <pubDate>Mon, 21 Feb 2022 16:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_186/MAsgT_1645767767973YgOJL_JPEG/20220225_143435_018_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🚨 (안 보면 후회) god기의 〈으르렁〉♬ 즉흥 댄스 🚨 | JTBC 220221 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25267205</link>
-            <guid>https://tv.naver.com/v/25267205</guid>
-            <pubDate>Mon, 21 Feb 2022 15:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_117/lM9RC_1645443762519aURKe_JPEG/20220221_203328_783_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＂다음에 또 봐＂ 마지막이 아닌 나중을 기약하며 나누는 인사 😥 | JTBC 220221 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25267202</link>
-            <guid>https://tv.naver.com/v/25267202</guid>
-            <pubDate>Mon, 21 Feb 2022 15:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_157/AQhg8_1645443760554nE2Sn_JPEG/20220221_203111_736_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심사위원들의 압도적인 표를 받은 '김소연' TOP 6 진출🎉 | JTBC 220221 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25267186</link>
-            <guid>https://tv.naver.com/v/25267186</guid>
-            <pubDate>Mon, 21 Feb 2022 15:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_43/twjtj_1645443704298vcj2Y_JPEG/20220221_202830_641_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 도전조 이영채 – LIONS #파이널 #ROUND2 #예능연구소4K직캠 #Fancam l MBC220227방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
