@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 09:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 10:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2744,6 +2744,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_21/oAQ7Y_1645436558194CJ56Q_JPEG/20220221_183351_639_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[#방과후설렘 직캠] 데뷔조 윤채원 - DREAMING #파이널 #ROUND1 #예능연구소4K직캠 #Fancam l MBC220227방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25387701</link>
+            <guid>https://tv.naver.com/v/25387701</guid>
+            <pubDate>Mon, 28 Feb 2022 10:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_55/ZL75m_16460438143790WK9B_JPEG/clip_20220228190423_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#방과후설렘 직캠] 데뷔조 - DREAMING #파이널 #ROUND1 #예능연구소4K직캠 #Fancam l MBC220227방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25387405</link>
+            <guid>https://tv.naver.com/v/25387405</guid>
+            <pubDate>Mon, 28 Feb 2022 10:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_200/m6xDi_1646042924463By1M3_JPEG/clip_20220228184743_46.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[#방과후설렘 직캠] 도전조 A 오지은 - Havana #세미파이널 #리허설 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220220방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25276181</link>
             <guid>https://tv.naver.com/v/25276181</guid>
@@ -2966,22 +2982,6 @@
             <pubDate>Mon, 21 Feb 2022 04:29:40 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_153/1JwqG_16454151955946Pmbo_JPEG/clip_20220221123052_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#방과후설렘 직캠] 데뷔조 김현희 VS 도전조 B 미나미 – Havana #세미파이널 #데뷔조자리뺏기 #예능연구소4K직캠 #Fancam l MBC220220방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25257683</link>
-            <guid>https://tv.naver.com/v/25257683</guid>
-            <pubDate>Mon, 21 Feb 2022 04:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_55/aXWQq_1645415193833FUWxJ_JPEG/clip_20220221122714_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이것이 경험에서 나온 바이브다' 😎 재치있는 영통 팬싸인회! , MBC 220203 방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24926530</link>
-            <guid>https://tv.naver.com/v/24926530</guid>
-            <pubDate>Thu, 03 Feb 2022 15:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_298/J1vue_1643901101257zAcQn_JPEG/1643901098676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
