@@ -4,9 +4,17 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 04:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 05:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 당신에게 딱 맞는 아티스트는? 'K-POP 취향 테스트'로 쇼챔에서 확인해봐❤]]></title>
+            <link>https://tv.naver.com/v/25379706</link>
+            <guid>https://tv.naver.com/v/25379706</guid>
+            <pubDate>Mon, 28 Feb 2022 05:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_53/Hyq8G_1646023058781n1b5B_JPEG/CA202203020003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2월 4주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.424]]></title>
             <link>https://tv.naver.com/v/25340591</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Feb 2022 13:24:07 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_127/qTGms_1645608099887JgtCB_JPEG/CA202202230024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Do Yoon - Like A Beast (도윤 - 짐승처럼)]]></title>
-            <link>https://tv.naver.com/v/25304226</link>
-            <guid>https://tv.naver.com/v/25304226</guid>
-            <pubDate>Wed, 23 Feb 2022 10:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_74/05tRA_1645608097647alOzm_JPEG/CA202202230029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
