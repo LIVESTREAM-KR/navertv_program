@@ -4,9 +4,25 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 23:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 01:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] 베일에 싸여있어도 빛나는 STAYC 수민 시은 아이사가 커버하는 소녀시대 - 태티서의 ＜Twinkle＞♬]]></title>
+            <link>https://tv.naver.com/v/25384884</link>
+            <guid>https://tv.naver.com/v/25384884</guid>
+            <pubDate>Tue, 01 Mar 2022 01:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_262/vyomb_1646036322283iXBs9_JPEG/CA202203020005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 마! 일어나라! 스테이씨 봐야된디!! 스윗들을 위한 수민 아이사의 모닝콜 사투리 버전♥]]></title>
+            <link>https://tv.naver.com/v/25384855</link>
+            <guid>https://tv.naver.com/v/25384855</guid>
+            <pubDate>Tue, 01 Mar 2022 01:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_111/6p8D4_1646036256913W19zw_JPEG/CA202203020004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 551회 STAYC 편 예고]]></title>
             <link>https://tv.naver.com/v/25342080</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 22 Feb 2022 01:11:21 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_63/xjyKN_1645432599984E1xTy_JPEG/CA202202230005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 릴리&해원의 완벽 하모니! 연습생 시절 추억이 담긴 ＜Speechless＞]]></title>
-            <link>https://tv.naver.com/v/25264077</link>
-            <guid>https://tv.naver.com/v/25264077</guid>
-            <pubDate>Tue, 22 Feb 2022 01:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_280/28V7F_1645432598785X7C3P_JPEG/CA202202230004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼포비티 랜덤 플레이 댄스 대성공★]]></title>
-            <link>https://tv.naver.com/v/25171171</link>
-            <guid>https://tv.naver.com/v/25171171</guid>
-            <pubDate>Wed, 16 Feb 2022 12:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_252/1qQP9_1645011096393MOszp_JPEG/CA202202160044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
