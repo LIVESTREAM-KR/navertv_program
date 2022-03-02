@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 11:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 12:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1044,7 +1044,7 @@
             <link>https://tv.naver.com/v/25423813</link>
             <guid>https://tv.naver.com/v/25423813</guid>
             <pubDate>Wed, 02 Mar 2022 10:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_37/nbtCe_1646215361664FnfSB_JPEG/CA202203020047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1128,92 +1128,92 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_108/5XijV_1646213254970sCHDk_JPEG/CA202203020037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 아이사ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25412349</link>
-            <guid>https://tv.naver.com/v/25412349</guid>
-            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_130/VueMA_1646184759866OVpdF_JPEG/CA202203020014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠] STAYC ISA - RUN2U (스테이씨 아이사 - 런투유) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25423010</link>
+            <guid>https://tv.naver.com/v/25423010</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_143/GrLue_1646213253697PP3dW_JPEG/CA202203020026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 수민ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25412348</link>
-            <guid>https://tv.naver.com/v/25412348</guid>
-            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_210/NCep9_1646184756144RUn2X_JPEG/CA202203020013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠] STAYC SEEUN - RUN2U (스테이씨 세은 - 런투유) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25422880</link>
+            <guid>https://tv.naver.com/v/25422880</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_188/a1Ozh_16462129561852VQG7_JPEG/CA202203020023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 재이ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25412347</link>
-            <guid>https://tv.naver.com/v/25412347</guid>
-            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_32/imljS_1646184754686AOzfK_JPEG/CA202203020012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[원픽캠] WONHO - Eye On You (원호 - 아이 온 유) l Show Champion l EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25422879</link>
+            <guid>https://tv.naver.com/v/25422879</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_230/Bo77P_1646212954236cy6mR_JPEG/CA202203020035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 윤ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25412258</link>
-            <guid>https://tv.naver.com/v/25412258</guid>
-            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_221/UzvXB_1646184455397IEHWF_JPEG/CA202203020008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠] WONHO - Eye On You (원호 - 아이 온 유) l Show Champion l EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25422790</link>
+            <guid>https://tv.naver.com/v/25422790</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_282/1S01h_1646212729594JaKrf_JPEG/CA202203020036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 세은ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25412200</link>
-            <guid>https://tv.naver.com/v/25412200</guid>
-            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_168/bEqdO_1646184216111mrdgo_JPEG/CA202203020011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 시은ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25412199</link>
-            <guid>https://tv.naver.com/v/25412199</guid>
-            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_138/gHI0D_1646184213346mIxad_JPEG/CA202203020010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 당신에게 딱 맞는 아티스트는? 'K-POP 취향 테스트'로 쇼챔에서 확인해봐❤ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25379706</link>
-            <guid>https://tv.naver.com/v/25379706</guid>
-            <pubDate>Mon, 28 Feb 2022 05:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_53/Hyq8G_1646023058781n1b5B_JPEG/CA202203020003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월 4주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.424 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25340591</link>
-            <guid>https://tv.naver.com/v/25340591</guid>
-            <pubDate>Sat, 26 Feb 2022 11:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[8:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_271/RPMMu_16457708133486jHv2_JPEG/CA202202230085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYOLYN - Layin’ Low(feat. Jooyoung) (효린 - 레인 로우) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25306352</link>
-            <guid>https://tv.naver.com/v/25306352</guid>
-            <pubDate>Wed, 23 Feb 2022 12:33:56 GMT</pubDate>
+            <title><![CDATA[[쇼챔직캠] CRAXY ChaeY - Dance with God (크랙시 채이 - 댄스 위드 갓) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25422477</link>
+            <guid>https://tv.naver.com/v/25422477</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_235/GTcvp_16456152920368uVlG_JPEG/CA202202230047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_96/DxI7Q_1646212053787x5bex_JPEG/CA202203020030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[원픽캠] WONPIL(DAY6) - Voiceless (원필(DAY6) - 안녕, 잘 가) | Show Champion | EP.424 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25306201</link>
-            <guid>https://tv.naver.com/v/25306201</guid>
-            <pubDate>Wed, 23 Feb 2022 13:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_297/Gs0Fk_1645614752973Rdf97_JPEG/CA202202230055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠] STAYC SIEUN - RUN2U (스테이씨 시은 - 런투유) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25422200</link>
+            <guid>https://tv.naver.com/v/25422200</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_211/7NE6X_1646211453292HWHXE_JPEG/CA202203020025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[쇼챔직캠] WONPIL(DAY6) - Voiceless (원필(DAY6) - 안녕, 잘 가) | Show Champion | EP.424 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25306188</link>
-            <guid>https://tv.naver.com/v/25306188</guid>
-            <pubDate>Wed, 23 Feb 2022 13:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_128/FHIlI_1645614694547W00G4_JPEG/CA202202230054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[쇼챔직캠] STAYC SUMIN - RUN2U (스테이씨 수민 - 런투유) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25422199</link>
+            <guid>https://tv.naver.com/v/25422199</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_274/oRDJZ_1646211451954Vybj5_JPEG/CA202203020024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] CRAXY KaRin - Dance with God (크랙시 카린 - 댄스 위드 갓) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25422081</link>
+            <guid>https://tv.naver.com/v/25422081</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_177/7N6Vs_1646211153732Cn0Fd_JPEG/CA202203020031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] STAYC YOON - RUN2U (스테이씨 윤 - 런투유) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25422080</link>
+            <guid>https://tv.naver.com/v/25422080</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_263/u6E2R_1646211151701KmMhM_JPEG/CA202203020027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] CRAXY SWAN - Dance with God (크랙시 수안 - 댄스 위드 갓) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25421972</link>
+            <guid>https://tv.naver.com/v/25421972</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_290/65vAU_1646210913055WXe8V_JPEG/CA202203020029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[쇼챔직캠] STAYC J - RUN2U (스테이씨 재이 - 런투유) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25421939</link>
+            <guid>https://tv.naver.com/v/25421939</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_203/xEl13_1646210854405aSUUe_JPEG/CA202203020028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
@@ -1912,6 +1912,38 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_10/satyl_1643876966221qOjEC_JPEG/26f83166-84cb-11ec-9c62-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[※복장주의※ 스테이씨의 역발상 작렬 ＜몸으로 말해요＞ 게임 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25426299</link>
+            <guid>https://tv.naver.com/v/25426299</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[8:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_151/J6oyE_1646221652296Hwmte_JPEG/CA202203020068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갓기 그 자채 재이가 뽑은 막내가 돼주라~♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25425854</link>
+            <guid>https://tv.naver.com/v/25425854</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_207/odDFC_1646220754619NMhYK_JPEG/CA202203020067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25425732</link>
+            <guid>https://tv.naver.com/v/25425732</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_150/mDlSN_1646220464702Le4pD_JPEG/CA202203020069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모두를 소름 돋게 만든 윤의 충격적인 잠버릇 정체는? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25425586</link>
+            <guid>https://tv.naver.com/v/25425586</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_88/ekTjS_1646220154905iB0Q4_JPEG/CA202203020066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스테이씨 은자매의 애교 3종 세트 ㅇ3ㅇ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25425443</link>
             <guid>https://tv.naver.com/v/25425443</guid>
@@ -1941,7 +1973,7 @@
             <guid>https://tv.naver.com/v/25425208</guid>
             <pubDate>Wed, 02 Mar 2022 11:19:12 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_199/PLuxQ_1646219317722wuDxW_JPEG/CA202203020061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_75/BrvRy_1646221662659Mde6T_JPEG/CA202203020061_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[＜RUN2U 2배속 댄스＞ 2배속 어려운 거 못해 이해♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -1974,6 +2006,70 @@
             <pubDate>Wed, 02 Mar 2022 11:19:12 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_253/X0qmQ_1646218355168HPBdY_JPEG/CA202203020057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] STAYC ISA - RUN2U (스테이씨 아이사 - 런투유) l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25420585</link>
+            <guid>https://tv.naver.com/v/25420585</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_288/yPxCC_1646208164377zkBoX_JPEG/CA202203020033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] STAYC J - RUN2U (스테이씨 재이 - 런투유) l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25417926</link>
+            <guid>https://tv.naver.com/v/25417926</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_292/WrZBp_1646203053529W9FHq_JPEG/CA202203020018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] STAYC SEEUN - RUN2U (스테이씨 세은 - 런투유) l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25417925</link>
+            <guid>https://tv.naver.com/v/25417925</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_91/YWbHD_1646203052728UC24s_JPEG/CA202203020019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] STAYC SIEUN - RUN2U (스테이씨 시은 - 런투유) l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25417923</link>
+            <guid>https://tv.naver.com/v/25417923</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_167/zKAxx_1646203051833WaCEt_JPEG/CA202203020016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] STAYC SUMIN  - RUN2U (스테이씨 수민 - 런투유) l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25417921</link>
+            <guid>https://tv.naver.com/v/25417921</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_40/yokKv_1646203050736NUnPP_JPEG/CA202203020015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] STAYC YOON - RUN2U (스테이씨 윤 - 런투유) l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25417782</link>
+            <guid>https://tv.naver.com/v/25417782</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_2/rNiq4_1646202757051uQsOD_JPEG/CA202203020017_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 4K캠] STAYC - RUN2U (스테이씨 - 런투유) l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25416637</link>
+            <guid>https://tv.naver.com/v/25416637</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_205/s7ZEq_1646200115512s8oob_JPEG/CA202203020007_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist] STAYC의 ‘보컬 메들리’♬ Full ver. l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25416607</link>
+            <guid>https://tv.naver.com/v/25416607</guid>
+            <pubDate>Wed, 02 Mar 2022 12:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_212/bRYEp_1646200053892oA2SP_JPEG/CA202203020009_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 신곡] 컴백만 하면 메가 히트! 스테이씨(STAYC)의 ‘RUN2U’♬ l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -2054,102 +2150,6 @@
             <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_173/wntxq_1645614993646rHsdK_JPEG/CA202202230062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔믹스의 잊지 못할 연습생 시절.jyp (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25306270</link>
-            <guid>https://tv.naver.com/v/25306270</guid>
-            <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_250/24sjD_1645614992027DRvl3_JPEG/CA202202230061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔믹스pick★ 첫인상이 가장 기억에 남는 멤버는?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25306187</link>
-            <guid>https://tv.naver.com/v/25306187</guid>
-            <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[4:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_213/oiYfi_1645614693139jxNg8_JPEG/CA202202230059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔믹스 배이의 길거리 캐스팅 SSUL (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25306085</link>
-            <guid>https://tv.naver.com/v/25306085</guid>
-            <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_162/FCE5I_16456143999334xVuu_JPEG/CA202202230060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 출연에 기록 갈아치운 패기甲 지우ㅇ0ㅇ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25305934</link>
-            <guid>https://tv.naver.com/v/25305934</guid>
-            <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_27/4M30L_1645613854569ilp9I_JPEG/CA202202230057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔믹스의 맛깔 성대모사 (ft.천서진, 주토피아) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25305932</link>
-            <guid>https://tv.naver.com/v/25305932</guid>
-            <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_2/ZgYjL_1645613853369zAvgs_JPEG/CA202202230056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔믹스의 데뷔곡♬ 안무 원포인트 레슨 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25305917</link>
-            <guid>https://tv.naver.com/v/25305917</guid>
-            <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_150/ngIu3_16456137995251VM2r_JPEG/CA202202230058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸그룹 명가 JYP의 신인 걸그룹 NMIXX ★셀프 소개★ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25305831</link>
-            <guid>https://tv.naver.com/v/25305831</guid>
-            <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_107/HiYuj_1645613496849Q8HyN_JPEG/CA202202230053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] NMIXX KYUJIN - O.O (엔믹스 규진 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25299632</link>
-            <guid>https://tv.naver.com/v/25299632</guid>
-            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_53/vkEz8_16455972943686OkSh_JPEG/CA202202230007_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] NMIXX JIWOO - O.O (엔믹스 지우 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25299631</link>
-            <guid>https://tv.naver.com/v/25299631</guid>
-            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_299/aTvDs_1645597293539P0CqG_JPEG/CA202202230012_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] NMIXX BAE - O.O (엔믹스 배이 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25299630</link>
-            <guid>https://tv.naver.com/v/25299630</guid>
-            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_196/QY7JR_1645597292643wgz7u_JPEG/CA202202230009_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] NMIXX JINNI - O.O (엔믹스 지니 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25299412</link>
-            <guid>https://tv.naver.com/v/25299412</guid>
-            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_267/ot8z3_1645596753867BFl8b_JPEG/CA202202230011_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] NMIXX SULLYOON - O.O (엔믹스 설윤 - 오오) l EP.550 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25299411</link>
-            <guid>https://tv.naver.com/v/25299411</guid>
-            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_34/bfB8W_1645596752945Gyb6W_JPEG/CA202202230010_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
