@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 12:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 13:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2072,14 +2072,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_212/bRYEp_1646200053892oA2SP_JPEG/CA202203020009_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 신곡] 컴백만 하면 메가 히트! 스테이씨(STAYC)의 ‘RUN2U’♬ l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25416361</link>
-            <guid>https://tv.naver.com/v/25416361</guid>
-            <pubDate>Wed, 02 Mar 2022 11:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_31/zcVnZ_1646199451922gBana_JPEG/CA202203020006_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[방송선공개] 베일에 싸여있어도 빛나는 STAYC 수민 시은 아이사가 커버하는 소녀시대 - 태티서의 ＜Twinkle＞♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25384884</link>
             <guid>https://tv.naver.com/v/25384884</guid>
@@ -2150,6 +2142,14 @@
             <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_173/wntxq_1645614993646rHsdK_JPEG/CA202202230062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔믹스의 잊지 못할 연습생 시절.jyp (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25306270</link>
+            <guid>https://tv.naver.com/v/25306270</guid>
+            <pubDate>Wed, 02 Mar 2022 13:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_250/24sjD_1645614992027DRvl3_JPEG/CA202202230061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
