@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 02:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 03:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -976,6 +976,54 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170710_44/W7seI_1499677537300zuhxv_JPEG/VD13895327_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 아이사ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25412349</link>
+            <guid>https://tv.naver.com/v/25412349</guid>
+            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_130/VueMA_1646184759866OVpdF_JPEG/CA202203020014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 수민ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25412348</link>
+            <guid>https://tv.naver.com/v/25412348</guid>
+            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_210/NCep9_1646184756144RUn2X_JPEG/CA202203020013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 재이ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25412347</link>
+            <guid>https://tv.naver.com/v/25412347</guid>
+            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_32/imljS_1646184754686AOzfK_JPEG/CA202203020012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 윤ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25412258</link>
+            <guid>https://tv.naver.com/v/25412258</guid>
+            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_221/UzvXB_1646184455397IEHWF_JPEG/CA202203020008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 세은ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25412200</link>
+            <guid>https://tv.naver.com/v/25412200</guid>
+            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_168/bEqdO_1646184216111mrdgo_JPEG/CA202203020011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 STAYC(스테이씨) 엔딩요정_ 시은ver. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25412199</link>
+            <guid>https://tv.naver.com/v/25412199</guid>
+            <pubDate>Wed, 02 Mar 2022 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_138/gHI0D_1646184213346mIxad_JPEG/CA202203020010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] 당신에게 딱 맞는 아티스트는? 'K-POP 취향 테스트'로 쇼챔에서 확인해봐❤ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25379706</link>
             <guid>https://tv.naver.com/v/25379706</guid>
@@ -1166,54 +1214,6 @@
             <pubDate>Wed, 23 Feb 2022 10:22:44 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_263/eSEbO_1645610256996IC2CC_JPEG/CA202202230038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rocking doll - Heart Rider (록킹돌 - 하트 라이더) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25304902</link>
-            <guid>https://tv.naver.com/v/25304902</guid>
-            <pubDate>Wed, 23 Feb 2022 10:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_231/6hfm7_1645610251922Sx3Xu_JPEG/CA202202230035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[sEODo BAND - lovesong (서도밴드 - 사랑가) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25304834</link>
-            <guid>https://tv.naver.com/v/25304834</guid>
-            <pubDate>Wed, 23 Feb 2022 10:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_237/uT0HC_1645609906811m6m3h_JPEG/CA202202230034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JWiiver - Jtrap (제이위버 - 제이트랩) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25304833</link>
-            <guid>https://tv.naver.com/v/25304833</guid>
-            <pubDate>Wed, 23 Feb 2022 10:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_173/eIvwy_1645609904488fAWRL_JPEG/CA202202230032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Park Hyeon Seo - Shoulder (박현서 - 어깨) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25304656</link>
-            <guid>https://tv.naver.com/v/25304656</guid>
-            <pubDate>Wed, 23 Feb 2022 10:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_201/c4JMd_1645609355372L8AiA_JPEG/CA202202230037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Fantasy - Tales of the Unusual (핑크판타지 - 기기괴괴(奇奇怪怪)) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25304230</link>
-            <guid>https://tv.naver.com/v/25304230</guid>
-            <pubDate>Wed, 23 Feb 2022 10:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_151/fRgOM_1645608101845cpCwO_JPEG/CA202202230030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] VIVIZ - BOP BOP! (비비지 - 밥밥) l Show Champion l EP.424 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25304227</link>
-            <guid>https://tv.naver.com/v/25304227</guid>
-            <pubDate>Wed, 23 Feb 2022 13:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_127/qTGms_1645608099887JgtCB_JPEG/CA202202230024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
