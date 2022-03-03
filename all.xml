@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 08:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 09:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1552,6 +1552,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210704_170/FNrPH_162539829698262HPR_JPEG/clip_20210704202212_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[《예고》💌트렌드지(TRENDZ)와 함께한 이번주 심플리 콘투어 이집트편~!! _509회 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25448878</link>
+            <guid>https://tv.naver.com/v/25448878</guid>
+            <pubDate>Thu, 03 Mar 2022 09:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_20/AADKH_1646297346048ob0E3_PNG/1646297339869.png?type=f172_97_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[심플리케이팝 콘투어 (Simply K-Pop CON-TOUR) Ep.508 (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25338386</link>
             <guid>https://tv.naver.com/v/25338386</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Fri, 25 Feb 2022 06:25:41 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_239/9XUzo_1645685417414eh512_JPEG/1645684766154.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PLYCAM 4K] 빌리 츠키 ‘긴가민가요’ 가로직캠 (Billlie TSUKI 'GingaMingaYo (the strange world)') l Simply (ARIRANG 심플리 케이팝 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25321140</link>
-            <guid>https://tv.naver.com/v/25321140</guid>
-            <pubDate>Fri, 25 Feb 2022 06:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_62/zxYM4_16456885811080pIOU_JPEG/1645688578908.jpg?type=f172_97_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몽니_다시 (UBC 열린예술무대 뒤란 ─ 네이버TV)]]></title>
