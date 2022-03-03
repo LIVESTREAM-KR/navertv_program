@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 10:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 11:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 직캠] 스테이씨(STAYC)의 '소원수리센터' 직캠 Ver. l Twinkle, Dumb Dumb, 벌써 12시 l EP.551]]></title>
+            <link>https://tv.naver.com/v/25450738</link>
+            <guid>https://tv.naver.com/v/25450738</guid>
+            <pubDate>Thu, 03 Mar 2022 11:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_100/KnAZ8_1646297549626oydwv_JPEG/CA202203020089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[※복장주의※ 스테이씨의 역발상 작렬 ＜몸으로 말해요＞ 게임]]></title>
             <link>https://tv.naver.com/v/25426299</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_173/qc0tQ_1645614995042gSQ7x_JPEG/CA202202230063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔믹스 '지지진'의 소녀시대-GEE 커버 댄스]]></title>
-            <link>https://tv.naver.com/v/25306271</link>
-            <guid>https://tv.naver.com/v/25306271</guid>
-            <pubDate>Wed, 23 Feb 2022 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_173/wntxq_1645614993646rHsdK_JPEG/CA202202230062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
