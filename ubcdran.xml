@@ -4,9 +4,81 @@
         <title>UBC 열린예술무대 뒤란 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 10:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 11:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짙은_인터뷰]]></title>
+            <link>https://tv.naver.com/v/25447912</link>
+            <guid>https://tv.naver.com/v/25447912</guid>
+            <pubDate>Fri, 04 Mar 2022 11:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_162/r1yAk_1646292451644y1yh2_JPEG/244c67ec-9ac3-11ec-a12c-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짙은_잘지내자, 우리]]></title>
+            <link>https://tv.naver.com/v/25447866</link>
+            <guid>https://tv.naver.com/v/25447866</guid>
+            <pubDate>Fri, 04 Mar 2022 11:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_135/CZbNi_1646292360269WwAMF_JPEG/f0c9c2c9-9ac2-11ec-8052-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_인터뷰]]></title>
+            <link>https://tv.naver.com/v/25447826</link>
+            <guid>https://tv.naver.com/v/25447826</guid>
+            <pubDate>Fri, 04 Mar 2022 11:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_116/BeyK7_1646292274243BivSW_JPEG/c8b6d215-9ac2-11ec-bcec-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짙은_백야]]></title>
+            <link>https://tv.naver.com/v/25447804</link>
+            <guid>https://tv.naver.com/v/25447804</guid>
+            <pubDate>Fri, 04 Mar 2022 11:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_175/PT8G9_1646292208432eF0Bo_JPEG/9d9b0dd5-9ac2-11ec-b19d-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짙은_수면에서]]></title>
+            <link>https://tv.naver.com/v/25447778</link>
+            <guid>https://tv.naver.com/v/25447778</guid>
+            <pubDate>Fri, 04 Mar 2022 11:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_236/CTUL1_1646292147696v9lJK_JPEG/735d25e5-9ac2-11ec-a295-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_발자국]]></title>
+            <link>https://tv.naver.com/v/25447749</link>
+            <guid>https://tv.naver.com/v/25447749</guid>
+            <pubDate>Fri, 04 Mar 2022 11:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_295/ylmvQ_1646292071964BUSPJ_JPEG/40be78b0-9ac2-11ec-b35e-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_사랑이 식었다고 말해도 돼]]></title>
+            <link>https://tv.naver.com/v/25447723</link>
+            <guid>https://tv.naver.com/v/25447723</guid>
+            <pubDate>Fri, 04 Mar 2022 11:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_82/vuwBs_1646291980130USoK3_JPEG/193b6b9e-9ac2-11ec-94f6-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_미안해, 사랑해, 고마워_즉석앙코르]]></title>
+            <link>https://tv.naver.com/v/25447708</link>
+            <guid>https://tv.naver.com/v/25447708</guid>
+            <pubDate>Fri, 04 Mar 2022 11:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_98/2D72B_1646291926656pmnQD_JPEG/13832fd9-9ac2-11ec-94f6-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈_가을안부]]></title>
+            <link>https://tv.naver.com/v/25447705</link>
+            <guid>https://tv.naver.com/v/25447705</guid>
+            <pubDate>Fri, 04 Mar 2022 11:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_57/JNMYz_1646291914333yqTTH_JPEG/dccd4ba8-9ac1-11ec-b145-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽니_다시]]></title>
             <link>https://tv.naver.com/v/25317962</link>
@@ -174,78 +246,6 @@
             <pubDate>Sat, 12 Feb 2022 17:19:25 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220210_54/gHVuy_164447095857028DwA_JPEG/344556d7-8a32-11ec-b3f1-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위아영_고마워]]></title>
-            <link>https://tv.naver.com/v/25046988</link>
-            <guid>https://tv.naver.com/v/25046988</guid>
-            <pubDate>Sat, 12 Feb 2022 17:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[4:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_185/DH8Jj_1644470891683M1oLs_JPEG/08515b9a-8a32-11ec-9c62-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강허달림_외로운 사람들]]></title>
-            <link>https://tv.naver.com/v/25046946</link>
-            <guid>https://tv.naver.com/v/25046946</guid>
-            <pubDate>Sat, 12 Feb 2022 17:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[6:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_59/iCxXv_1644470819858Igurb_JPEG/c8df9906-8a31-11ec-a810-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위아영_인터뷰]]></title>
-            <link>https://tv.naver.com/v/25045243</link>
-            <guid>https://tv.naver.com/v/25045243</guid>
-            <pubDate>Sat, 12 Feb 2022 17:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[9:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_35/ETxht_16444665320863dwO1_JPEG/e54124ae-8a24-11ec-9f25-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더원_사랑아]]></title>
-            <link>https://tv.naver.com/v/24914404</link>
-            <guid>https://tv.naver.com/v/24914404</guid>
-            <pubDate>Fri, 04 Feb 2022 11:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_255/64mGw_1643878283722hqTCC_JPEG/4776a52b-84ce-11ec-9c62-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴디지_Youth21]]></title>
-            <link>https://tv.naver.com/v/24913662</link>
-            <guid>https://tv.naver.com/v/24913662</guid>
-            <pubDate>Fri, 04 Feb 2022 11:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_120/XcGdE_1643877281219mhtr5_JPEG/d99990e1-84cb-11ec-a810-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴디지_Coloring the life]]></title>
-            <link>https://tv.naver.com/v/24913574</link>
-            <guid>https://tv.naver.com/v/24913574</guid>
-            <pubDate>Fri, 04 Feb 2022 11:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_289/uO9b2_1643877180235ejfSc_JPEG/b2fe23bc-84cb-11ec-bf63-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴디지_퍽(bam)]]></title>
-            <link>https://tv.naver.com/v/24913521</link>
-            <guid>https://tv.naver.com/v/24913521</guid>
-            <pubDate>Fri, 04 Feb 2022 11:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_291/RMds8_1643877109146IJoSx_JPEG/8491fc74-84cb-11ec-b3f1-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴디지_불길 속으로]]></title>
-            <link>https://tv.naver.com/v/24913452</link>
-            <guid>https://tv.naver.com/v/24913452</guid>
-            <pubDate>Fri, 04 Feb 2022 11:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_43/uYSy2_1643877031419gRyjF_JPEG/5ce14f69-84cb-11ec-acdf-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더원_지나간다]]></title>
-            <link>https://tv.naver.com/v/24913406</link>
-            <guid>https://tv.naver.com/v/24913406</guid>
-            <pubDate>Fri, 04 Feb 2022 11:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_10/satyl_1643876966221qOjEC_JPEG/26f83166-84cb-11ec-9c62-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
