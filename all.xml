@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 07:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 08:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 09 Dec 2021 19:55:47 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 트레저 직캠 ‘직진(JIKJIN)’ (TREASURE FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25485629</link>
+            <guid>https://tv.naver.com/v/25485629</guid>
+            <pubDate>Sat, 05 Mar 2022 08:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_87/G3O2d_1646468252641EeleO_JPEG/clip_20220305165942_58.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 방과후 설렘 직캠 ‘Lions + Sonic Boom’ (My Teenage girl FanCam) @Show!MusicCore 220226 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 22 Jan 2022 09:18:43 GMT</pubDate>
             <content:encoded><![CDATA[4:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220122_220/sG24H_16428420974623cShB_JPEG/clip_20220122173835_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 라키 세로캠 ‘숨 좀 쉬자’ (ROCKY FanCam) @Show!MusicCore 220122 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/24743994</link>
-            <guid>https://tv.naver.com/v/24743994</guid>
-            <pubDate>Sat, 22 Jan 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220122_11/jSVup_1642842096025K8myk_JPEG/clip_20220122173811_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -1920,6 +1920,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_128/GXZMu_1646380359278JAMT6_JPEG/CA202203090002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Weekly Playlist l 세로캠] STAYC의 ‘보컬 메들리’♬ l Still I Love You, Likey, 롤러코스터, 다른 남자말고 너 l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25467415</link>
+            <guid>https://tv.naver.com/v/25467415</guid>
+            <pubDate>Sat, 05 Mar 2022 08:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_44/CjazH_1646373451293pbWGF_JPEG/CA202203020091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간아 짐벌캠] STAYC - RUN2U (스테이씨 - 런투유) l EP.551 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25467414</link>
             <guid>https://tv.naver.com/v/25467414</guid>
@@ -2142,14 +2150,6 @@
             <pubDate>Thu, 24 Feb 2022 10:23:52 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_195/krLYI_1645687595164zF7lc_JPEG/CA202202230084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음식에 진심인 엔믹스! ＜먹어보자 냠냠＞ 게임★ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25306690</link>
-            <guid>https://tv.naver.com/v/25306690</guid>
-            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[7:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_221/Evvic_1645616492307h6miw_JPEG/CA202202230064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
