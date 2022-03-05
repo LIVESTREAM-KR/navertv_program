@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 04:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 05:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 04 Mar 2022 10:23:53 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_128/GXZMu_1646380359278JAMT6_JPEG/CA202203090002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] STAYC - RUN2U (스테이씨 - 런투유) l EP.551]]></title>
+            <link>https://tv.naver.com/v/25467414</link>
+            <guid>https://tv.naver.com/v/25467414</guid>
+            <pubDate>Sat, 05 Mar 2022 05:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_202/0r7mv_1646373449561cFbHB_JPEG/CA202203020088_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간아 직캠] 스테이씨(STAYC)의 '소원수리센터' 직캠 Ver. l Twinkle, Dumb Dumb, 벌써 12시 l EP.551]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
             <content:encoded><![CDATA[7:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_221/Evvic_1645616492307h6miw_JPEG/CA202202230064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-            <link>https://tv.naver.com/v/25306468</link>
-            <guid>https://tv.naver.com/v/25306468</guid>
-            <pubDate>Wed, 23 Feb 2022 12:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_272/TNhWO_1645615653685ekFMr_JPEG/CA202202230065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
