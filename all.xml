@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 11:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 12:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,78 @@
             <pubDate>Thu, 09 Dec 2021 19:55:47 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 지니 직캠 ‘O.O’ (NMIXX JINNI FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25488831</link>
+            <guid>https://tv.naver.com/v/25488831</guid>
+            <pubDate>Sat, 05 Mar 2022 12:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_195/XTjEO_1646480555252DiYPk_JPEG/clip_20220305201621_138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 규진 직캠 ‘O.O’ (NMIXX KYUJIN FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25488793</link>
+            <guid>https://tv.naver.com/v/25488793</guid>
+            <pubDate>Sat, 05 Mar 2022 12:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_132/wugOb_16464803202718CCyB_JPEG/clip_20220305201854_142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 해원 직캠 ‘O.O’ (NMIXX HAEWON FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25488792</link>
+            <guid>https://tv.naver.com/v/25488792</guid>
+            <pubDate>Sat, 05 Mar 2022 12:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_191/0BYwq_1646480318758KGJF2_JPEG/clip_20220305201749_140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 지우 직캠 ‘O.O’ (NMIXX JIWOO FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25488775</link>
+            <guid>https://tv.naver.com/v/25488775</guid>
+            <pubDate>Sat, 05 Mar 2022 12:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_173/FX1tj_1646480258804jq12i_JPEG/clip_20220305201546_136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 릴리 직캠 ‘O.O’ (NMIXX LILY FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25488774</link>
+            <guid>https://tv.naver.com/v/25488774</guid>
+            <pubDate>Sat, 05 Mar 2022 12:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_173/5vlPU_16464802575201fRQB_JPEG/clip_20220305201532_134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 배이 직캠 ‘O.O’ (NMIXX BAE FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25488773</link>
+            <guid>https://tv.naver.com/v/25488773</guid>
+            <pubDate>Sat, 05 Mar 2022 12:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_209/YC2RB_16464802561827F2V2_JPEG/clip_20220305201518_132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 엔믹스 설윤 직캠 ‘O.O’ (NMIXX SULLYOON FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25488771</link>
+            <guid>https://tv.naver.com/v/25488771</guid>
+            <pubDate>Sat, 05 Mar 2022 12:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_284/XLmPC_1646480254726KTWNi_JPEG/clip_20220305201453_130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 원호 세로캠 ‘'EYE ON YOU’ (WONHO FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25488665</link>
+            <guid>https://tv.naver.com/v/25488665</guid>
+            <pubDate>Sat, 05 Mar 2022 12:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_142/ez73k_164647965145931j0h_JPEG/clip_20220305200304_128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 스테이씨 세은 직캠 ‘RUN2U’ (STAYC SEEUN FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25488598</link>
+            <guid>https://tv.naver.com/v/25488598</guid>
+            <pubDate>Sat, 05 Mar 2022 12:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_48/ueY9j_1646479354964TJ9CU_JPEG/clip_20220305195236_126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 스테이씨 수민 직캠 ‘RUN2U’ (STAYC SUMIN FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -88,7 +160,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_18/qpmEO_1646476717991WgpAI_JPEG/clip_20220305191654_112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소 4K] 템페스트 태래 직캠 ‘Bad News’ (TEMPEST FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <title><![CDATA[[예능연구소 4K] 템페스트 태래 직캠 ‘Bad News’ (TEMPEST TAERAE FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25487980</link>
             <guid>https://tv.naver.com/v/25487980</guid>
             <pubDate>Sat, 05 Mar 2022 11:18:38 GMT</pubDate>
@@ -96,7 +168,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_188/RVMU2_1646476056582gtihn_JPEG/clip_20220305185928_104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소 4K] 템페스트 루 직캠 ‘Bad News’ (TEMPEST FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <title><![CDATA[[예능연구소 4K] 템페스트 루 직캠 ‘Bad News’ (TEMPEST LEW FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25487979</link>
             <guid>https://tv.naver.com/v/25487979</guid>
             <pubDate>Sat, 05 Mar 2022 11:18:38 GMT</pubDate>
@@ -104,7 +176,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_217/KxIjs_1646476055471QXNlU_JPEG/clip_20220305185914_102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소 4K] 템페스트 혁 직캠 ‘Bad News’ (TEMPEST FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <title><![CDATA[[예능연구소 4K] 템페스트 혁 직캠 ‘Bad News’ (TEMPEST HYUK FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25487978</link>
             <guid>https://tv.naver.com/v/25487978</guid>
             <pubDate>Sat, 05 Mar 2022 11:18:38 GMT</pubDate>
@@ -112,7 +184,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_268/FmK2H_1646476054307eoko6_JPEG/clip_20220305185909_100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소 4K] 템페스트 은찬 직캠 ‘Bad News’ (TEMPEST FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <title><![CDATA[[예능연구소 4K] 템페스트 은찬 직캠 ‘Bad News’ (TEMPEST EUNCHAN  FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25487977</link>
             <guid>https://tv.naver.com/v/25487977</guid>
             <pubDate>Sat, 05 Mar 2022 11:18:38 GMT</pubDate>
@@ -120,7 +192,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_257/hZmIV_1646476052910LVe6X_JPEG/clip_20220305185903_98.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소 4K] 템페스트 화랑 직캠 ‘Bad News’ (TEMPEST FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <title><![CDATA[[예능연구소 4K] 템페스트 화랑 직캠 ‘Bad News’ (TEMPEST HWARANG FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25487976</link>
             <guid>https://tv.naver.com/v/25487976</guid>
             <pubDate>Sat, 05 Mar 2022 11:18:38 GMT</pubDate>
@@ -136,7 +208,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_287/gnoui_1646475756412EOOxQ_JPEG/clip_20220305185841_92.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예능연구소 4K] 템페스트 형섭 직캠 ‘Bad News’ (TEMPEST FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <title><![CDATA[[예능연구소 4K] 템페스트 형섭 직캠 ‘Bad News’ (TEMPEST HYEONGSEOP FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25487919</link>
             <guid>https://tv.naver.com/v/25487919</guid>
             <pubDate>Sat, 05 Mar 2022 11:18:38 GMT</pubDate>
@@ -182,78 +254,6 @@
             <pubDate>Sat, 05 Mar 2022 10:21:57 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_294/XwrLb_1646471556442zg3vQ_JPEG/clip_20220305174922_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 트레저 요시 직캠 ‘직진(JIKJIN)’ (TREASURE YOSHI FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486886</link>
-            <guid>https://tv.naver.com/v/25486886</guid>
-            <pubDate>Sat, 05 Mar 2022 10:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_37/8329n_1646471555201bQHzq_JPEG/clip_20220305174902_80.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 트레저 하루토 직캠 ‘직진(JIKJIN)’ (TREASURE HARUTO FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486885</link>
-            <guid>https://tv.naver.com/v/25486885</guid>
-            <pubDate>Sat, 05 Mar 2022 10:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_271/4Qei5_1646471553777zWXVW_JPEG/clip_20220305174842_78.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 직캠 ‘O.O’ (NMIXX FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486344</link>
-            <guid>https://tv.naver.com/v/25486344</guid>
-            <pubDate>Sat, 05 Mar 2022 10:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_51/eqAvq_1646470055489gKqLT_JPEG/clip_20220305172557_76.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 슈퍼주니어 직캠 ‘Callin'’ (SUPER JUNIOR FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486339</link>
-            <guid>https://tv.naver.com/v/25486339</guid>
-            <pubDate>Sat, 05 Mar 2022 10:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[4:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_244/dAvQb_1646470051997OBPlF_JPEG/clip_20220305171917_74.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 비투비 직캠 ‘노래 (The Song)’ (BTOB FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486236</link>
-            <guid>https://tv.naver.com/v/25486236</guid>
-            <pubDate>Sat, 05 Mar 2022 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_47/yKGT1_1646469751813UHVuN_JPEG/clip_20220305171628_72.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 스테이씨 직캠 ‘RUN2U’ (STAYC FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486120</link>
-            <guid>https://tv.naver.com/v/25486120</guid>
-            <pubDate>Sat, 05 Mar 2022 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_228/5UqLF_1646469453659uEIdg_JPEG/clip_20220305171426_70.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 원호 직캠 ‘EYE ON YOU’ (WONHO FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486015</link>
-            <guid>https://tv.naver.com/v/25486015</guid>
-            <pubDate>Sat, 05 Mar 2022 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_281/G2e5m_1646469219014wnFbE_JPEG/clip_20220305171248_68.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 템페스트 직캠 ‘Bad News’ (TEMPEST FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486014</link>
-            <guid>https://tv.naver.com/v/25486014</guid>
-            <pubDate>Sat, 05 Mar 2022 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_90/VrGlu_1646469216694pWk3L_JPEG/clip_20220305170903_66.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 로켓펀치 직캠 ‘CHIQUITA’ (Rocket Punch FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486013</link>
-            <guid>https://tv.naver.com/v/25486013</guid>
-            <pubDate>Sat, 05 Mar 2022 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_199/vVgZ6_1646469214478tX52D_JPEG/clip_20220305170602_64.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -2152,6 +2152,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_195/krLYI_1645687595164zF7lc_JPEG/CA202202230084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[원조 보니&클라이드(?) 포포몬쓰! 가희X키범 (+나래) ＜DIVA＞ 가보자고♡ | tvN 220305 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25489114</link>
+            <guid>https://tv.naver.com/v/25489114</guid>
+            <pubDate>Sat, 05 Mar 2022 12:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_120/neDc0_1646482058512lrO56_JPEG/667a9706-6fd6-491c-89d1-7156de2307e7_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포포몬쓰 열등생들의 반란! 가희쌤 피셜 ✩최고의 합이 돋보인 안무✩ | tvN 220305 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25489070</link>
+            <guid>https://tv.naver.com/v/25489070</guid>
+            <pubDate>Sat, 05 Mar 2022 12:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_185/SXICZ_1646481821209JREHo_JPEG/30cadf1b-dc4c-44e6-9721-da167bcd4171_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23255090</link>
             <guid>https://tv.naver.com/v/23255090</guid>
@@ -2374,22 +2390,6 @@
             <pubDate>Mon, 27 Dec 2021 02:44:51 GMT</pubDate>
             <content:encoded><![CDATA[10:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210224_103/1r999_1614178669123njDqG_JPEG/B120188696_EPI0126_21_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 뭬이야? 정육점 조명 속 박나래 여인천하! | tvN 200919 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/15843092</link>
-            <guid>https://tv.naver.com/v/15843092</guid>
-            <pubDate>Mon, 27 Dec 2021 02:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210224_154/lcKFP_1614178316320x9xe2_JPEG/B120188696_EPI0126_24_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 받쓰 도플갱어 81년생 동현과 99년생 도연 | tvN 200919 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/15843090</link>
-            <guid>https://tv.naver.com/v/15843090</guid>
-            <pubDate>Sat, 19 Feb 2022 13:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210224_177/o8xvW_1614178314713om6Lw_JPEG/B120188696_EPI0126_23_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선공개] '댄서들의 댄서' 우먼파워 프라우드먼! (연륜에 예민한 언니들 8ㅅ8) | 8/24(화) 밤 10 (Mnet 스트릿 우먼 파이터 ─ 네이버TV)]]></title>
