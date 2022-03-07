@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 08:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,46 @@
             <pubDate>Thu, 09 Dec 2021 19:55:47 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 비투비 서은광 직캠 ‘노래 (The Song)’ (BTOB SEO EUNKWANG FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25489718</link>
+            <guid>https://tv.naver.com/v/25489718</guid>
+            <pubDate>Mon, 07 Mar 2022 09:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_221/Dfx9R_1646485354852rfjdy_JPEG/clip_20220305213124_148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 비투비 임현식 직캠 ‘노래 (The Song)’ (BTOB LIM HYUNSIK FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25489717</link>
+            <guid>https://tv.naver.com/v/25489717</guid>
+            <pubDate>Mon, 07 Mar 2022 09:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_295/826Rc_1646485353619QJaTC_JPEG/clip_20220305213115_146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 비투비 이창섭 직캠 ‘노래 (The Song)’ (BTOB LEE CHANGSUB FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25489662</link>
+            <guid>https://tv.naver.com/v/25489662</guid>
+            <pubDate>Mon, 07 Mar 2022 09:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_259/32lA9_1646485057688LBqB0_JPEG/clip_20220305213148_152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 비투비 프니엘 직캠 ‘노래 (The Song)’ (BTOB PENIEL FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25489661</link>
+            <guid>https://tv.naver.com/v/25489661</guid>
+            <pubDate>Mon, 07 Mar 2022 09:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_249/NvVHx_1646485056307blFwl_JPEG/clip_20220305213130_150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 비투비 육성재 직캠 ‘노래 (The Song)’ (BTOB YOOK SUNGJAE FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25489595</link>
+            <guid>https://tv.naver.com/v/25489595</guid>
+            <pubDate>Mon, 07 Mar 2022 09:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_57/b9qfX_1646484753674FBfco_JPEG/clip_20220305213052_144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 엔믹스 지니 직캠 ‘O.O’ (NMIXX JINNI FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -214,46 +254,6 @@
             <pubDate>Sat, 05 Mar 2022 11:18:38 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_221/OGnFd_1646475755317wOReN_JPEG/clip_20220305185849_94.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 트레저 지훈 직캠 ‘직진(JIKJIN)’ (TREASURE JIHOON FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486988</link>
-            <guid>https://tv.naver.com/v/25486988</guid>
-            <pubDate>Sat, 05 Mar 2022 10:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_244/JlNbb_164647185249705AhF_JPEG/clip_20220305175106_90.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 트레저 준규 직캠 ‘직진(JIKJIN)’ (TREASURE JUNKYU FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486987</link>
-            <guid>https://tv.naver.com/v/25486987</guid>
-            <pubDate>Sat, 05 Mar 2022 10:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_255/8CYZv_1646471851402RUh2F_JPEG/clip_20220305174958_84.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 트레저 박정우 직캠 ‘직진(JIKJIN)’ (TREASURE PARK JEONG WOO FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486891</link>
-            <guid>https://tv.naver.com/v/25486891</guid>
-            <pubDate>Sat, 05 Mar 2022 10:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_205/RikYl_1646471559207GqxCr_JPEG/clip_20220305175049_88.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 트레저 아사히 직캠 ‘직진(JIKJIN)’ (TREASURE ASAHI FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486889</link>
-            <guid>https://tv.naver.com/v/25486889</guid>
-            <pubDate>Sat, 05 Mar 2022 10:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_80/6EurG_1646471557850EIA7J_JPEG/clip_20220305175017_86.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 트레저 도영 직캠 ‘직진(JIKJIN)’ (TREASURE DOYOUNG FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25486887</link>
-            <guid>https://tv.naver.com/v/25486887</guid>
-            <pubDate>Sat, 05 Mar 2022 10:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_294/XwrLb_1646471556442zg3vQ_JPEG/clip_20220305174922_82.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -976,6 +976,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170710_44/W7seI_1499677537300zuhxv_JPEG/VD13895327_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쇼챔 뉴스] STAYC가 전하는 3월 둘째 주 K-POP 핫이슈! 잠시 후 시작됩니다. (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25519357</link>
+            <guid>https://tv.naver.com/v/25519357</guid>
+            <pubDate>Mon, 07 Mar 2022 09:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_177/mjZqq_1646643452449rtFHe_JPEG/CA202203090003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[3월 1주차 ♥쇼챔피언♡ MC 모음.zip (베리베리 강민, 아스트로 문빈&산하) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25469077</link>
             <guid>https://tv.naver.com/v/25469077</guid>
@@ -1206,14 +1214,6 @@
             <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_177/7N6Vs_1646211153732Cn0Fd_JPEG/CA202203020031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] STAYC YOON - RUN2U (스테이씨 윤 - 런투유) | Show Champion | EP.425 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25422080</link>
-            <guid>https://tv.naver.com/v/25422080</guid>
-            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[4:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_263/u6E2R_1646211151701KmMhM_JPEG/CA202203020027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
