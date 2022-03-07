@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 13:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 14:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,6 +496,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20190303_177/DMz4G_1551602198592jqLjz_JPEG/VD94948705_w1280_h720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['HOT DEBUT' 설렘 주의 'CLASS:y'의 'SURPRISE' 무대 | Mnet 220303 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25452434</link>
+            <guid>https://tv.naver.com/v/25452434</guid>
+            <pubDate>Mon, 07 Mar 2022 14:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_163/2c10W_1646303866128WUPiu_JPEG/c95bf101-b6a0-433c-af4c-86de3afde37f_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['1위' 팔색조 매력 '휘인'의 '오묘해' 무대 | Mnet 220127 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24834275</link>
             <guid>https://tv.naver.com/v/24834275</guid>
@@ -726,14 +734,6 @@
             <pubDate>Tue, 25 Jan 2022 18:23:55 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210225_48/bc45F_1614183405734i8yBT_JPEG/B120041702_EPI0682_09_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['최초 공개' 마라맛 퍼포먼스 '스트레이 키즈'의 'Back Door' 무대 | Mnet 200917 방송 (Mnet 엠카운트다운 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/15832008</link>
-            <guid>https://tv.naver.com/v/15832008</guid>
-            <pubDate>Tue, 25 Jan 2022 18:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210225_97/bn9Ky_1614183708543fSclD_JPEG/B120041702_EPI0682_10_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7월 11일 더쇼 초이스! 영광의 주인공은? (SBS MTV 더쇼 ─ 네이버TV)]]></title>
@@ -2504,6 +2504,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210712_155/XLq8z_1626069103384sL4GE_JPEG/85b475ba-1028-43b0-9e6e-8aa4b824fccb_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무엇보다 값졌던 〈싱어게인2〉 73팀의 도전 ＂다시 '나'를 부르다＂ | JTBC 220307 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25520224</link>
+            <guid>https://tv.naver.com/v/25520224</guid>
+            <pubDate>Mon, 07 Mar 2022 14:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_234/y4v3R_1646645617426lxKQD_JPEG/20220307_181637_236_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살이 쪼-옥 빠진 김기태의 다이어트 비결 👉 우는 아들 달래기(?) 🤣 | JTBC 220307 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25520191</link>
+            <guid>https://tv.naver.com/v/25520191</guid>
+            <pubDate>Mon, 07 Mar 2022 14:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_138/PgssT_1646645552452LUEFo_JPEG/20220307_181445_488_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김기태의 남다른 허스키 보이스🔊 ※최근 맑아진 편입니다^_^;;※ | JTBC 220307 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25520062</link>
             <guid>https://tv.naver.com/v/25520062</guid>
@@ -2726,22 +2742,6 @@
             <pubDate>Mon, 28 Feb 2022 14:20:29 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220228_171/6elAD_1646057264442JdgKT_JPEG/20220228_225119_641_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파이널 무대] 힘든 순간들 모두 지나가기를… 박현규의 〈지나간다〉♬ | JTBC 220228 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25391486</link>
-            <guid>https://tv.naver.com/v/25391486</guid>
-            <pubDate>Mon, 28 Feb 2022 14:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_247/qmGMc_1646057027686P8FbO_JPEG/20220228_225345_532_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박현규, 뜻밖의 인맥?! 둘도 없는 친구 '마마무 문별&솔라' | JTBC 220228 방송 (JTBC 싱어게인2 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25391482</link>
-            <guid>https://tv.naver.com/v/25391482</guid>
-            <pubDate>Mon, 28 Feb 2022 14:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_110/91Wku_1646057022022TrDOF_JPEG/20220228_225126_130_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[#방과후설렘 직캠] 도전조 이영채 – LIONS #파이널 #ROUND2 #예능연구소4K직캠 #Fancam l MBC220227방송 (MBC 방과후 설렘 ─ 네이버TV)]]></title>
