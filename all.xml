@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 09:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 10:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 09 Dec 2021 19:55:47 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200515_98/LTJcf_1589536302737cNa4A_PNG/2b329870fc1ecf4a03f88fb80f881c73.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 비투비 이민혁 직캠 ‘노래 (The Song)’ (BTOB LEE MINHYUK FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25520054</link>
+            <guid>https://tv.naver.com/v/25520054</guid>
+            <pubDate>Mon, 07 Mar 2022 10:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[4:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_206/IQ8i3_1646645256217mA4tO_JPEG/clip_20220307173423_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 비투비 서은광 직캠 ‘노래 (The Song)’ (BTOB SEO EUNKWANG FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
@@ -246,14 +254,6 @@
             <pubDate>Sat, 05 Mar 2022 11:18:38 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_287/gnoui_1646475756412EOOxQ_JPEG/clip_20220305185841_92.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 템페스트 형섭 직캠 ‘Bad News’ (TEMPEST HYEONGSEOP FanCam) @Show!MusicCore 220305 (MBC 쇼! 음악중심 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25487919</link>
-            <guid>https://tv.naver.com/v/25487919</guid>
-            <pubDate>Sat, 05 Mar 2022 11:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_221/OGnFd_1646475755317wOReN_JPEG/clip_20220305185849_94.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘몬스타엑스’의 독보적인 파워! ‘FANTASIA’ (SBS 인기가요 ─ 네이버TV)]]></title>
@@ -2152,22 +2152,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_195/krLYI_1645687595164zF7lc_JPEG/CA202202230084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[원조 보니&클라이드(?) 포포몬쓰! 가희X키범 (+나래) ＜DIVA＞ 가보자고♡ | tvN 220305 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25489114</link>
-            <guid>https://tv.naver.com/v/25489114</guid>
-            <pubDate>Sat, 05 Mar 2022 12:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_120/neDc0_1646482058512lrO56_JPEG/667a9706-6fd6-491c-89d1-7156de2307e7_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포포몬쓰 열등생들의 반란! 가희쌤 피셜 ✩최고의 합이 돋보인 안무✩ | tvN 220305 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25489070</link>
-            <guid>https://tv.naver.com/v/25489070</guid>
-            <pubDate>Sat, 05 Mar 2022 12:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_185/SXICZ_1646481821209JREHo_JPEG/30cadf1b-dc4c-44e6-9721-da167bcd4171_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23255090</link>
             <guid>https://tv.naver.com/v/23255090</guid>
@@ -2390,6 +2374,22 @@
             <pubDate>Mon, 27 Dec 2021 02:44:51 GMT</pubDate>
             <content:encoded><![CDATA[10:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210224_103/1r999_1614178669123njDqG_JPEG/B120188696_EPI0126_21_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 뭬이야? 정육점 조명 속 박나래 여인천하! | tvN 200919 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/15843092</link>
+            <guid>https://tv.naver.com/v/15843092</guid>
+            <pubDate>Mon, 07 Mar 2022 10:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210224_154/lcKFP_1614178316320x9xe2_JPEG/B120188696_EPI0126_24_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 받쓰 도플갱어 81년생 동현과 99년생 도연 | tvN 200919 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/15843090</link>
+            <guid>https://tv.naver.com/v/15843090</guid>
+            <pubDate>Mon, 07 Mar 2022 10:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210224_177/o8xvW_1614178314713om6Lw_JPEG/B120188696_EPI0126_23_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선공개] '댄서들의 댄서' 우먼파워 프라우드먼! (연륜에 예민한 언니들 8ㅅ8) | 8/24(화) 밤 10 (Mnet 스트릿 우먼 파이터 ─ 네이버TV)]]></title>
