@@ -1,5 +1,4 @@
 # 네이버TV
-https://livestream-kr.github.io/navertv_program/all.xml
 
 ## [음악방송](https://github.com/LIVESTREAM-KR/navertv_music_stage)
 https://livestream-kr.github.io/navertv_music_stage/all.xml
