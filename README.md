@@ -17,3 +17,7 @@ https://livestream-kr.github.io/navertv_music_stage/all.xml
 ## [음악예능](https://github.com/LIVESTREAM-KR/navertv_music_shows)
 
 ## [오디션](https://github.com/LIVESTREAM-KR/navertv_audition)
+
+---
+
+[▶️ 네이버 프로그램 이동하기](https://github.com/LIVESTREAM-KR/program)
