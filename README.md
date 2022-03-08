@@ -12,5 +12,5 @@ https://livestream-kr.github.io/navertv_program/all.xml
 - 심플리 케이팝: https://livestream-kr.github.io/navertv_program/simplykpop.xml
 - 열린예술무대 뒤란: https://livestream-kr.github.io/navertv_program/ubcdran.xml
 - 주간 아이돌: https://livestream-kr.github.io/navertv_program/weekidol.xml
-- 스트릿 우먼 파이터: https://livestream-kr.github.io/navertv_program/streetwomanfighter.xml
+- ~스트릿 우먼 파이터: https://livestream-kr.github.io/navertv_program/streetwomanfighter.xml~
 - 싱어게인2: https://livestream-kr.github.io/navertv_program/singagain2.xml
