@@ -15,6 +15,8 @@ https://livestream-kr.github.io/navertv_music_stage/all.xml
 - 열린예술무대 뒤란: https://livestream-kr.github.io/navertv_music_stage/ubcdran.xml
 
 ## [음악예능](https://github.com/LIVESTREAM-KR/navertv_music_shows)
+https://livestream-kr.github.io/navertv_music_shows/all.xml
+- ~놀라운 토요일: https://livestream-kr.github.io/navertv_music_shows/amazingsaturday.xml~
 
 ## [오디션](https://github.com/LIVESTREAM-KR/navertv_audition)
 
