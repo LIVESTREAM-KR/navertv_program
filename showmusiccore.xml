@@ -4,9 +4,33 @@
         <title>MBC 쇼! 음악중심 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 07:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 08:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 아스트로 문빈&산하 직캠 ‘WHO’ (ASTRO MOONBIN&SANHA FanCam) @Show!MusicCore 220319]]></title>
+            <link>https://tv.naver.com/v/25739190</link>
+            <guid>https://tv.naver.com/v/25739190</guid>
+            <pubDate>Sat, 19 Mar 2022 08:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_178/ztHC8_1647678185070076ID_JPEG/clip_20220319170303_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] 솔라 직캠 ‘꿀 (HONEY)’ (Solar FanCam) @Show!MusicCore 220319]]></title>
+            <link>https://tv.naver.com/v/25739189</link>
+            <guid>https://tv.naver.com/v/25739189</guid>
+            <pubDate>Sat, 19 Mar 2022 08:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_221/HpKc4_16476781809517Fds9_JPEG/clip_20220319170216_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예능연구소 4K] (여자)아이들 직캠 ‘TOMBOY’ ((G)I-DLE FanCam) @Show!MusicCore 220319]]></title>
+            <link>https://tv.naver.com/v/25739085</link>
+            <guid>https://tv.naver.com/v/25739085</guid>
+            <pubDate>Sat, 19 Mar 2022 08:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_25/pJ2ef_1647677519928LFooc_JPEG/clip_20220319164913_0.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예능연구소 4K] 트레저 최현석 직캠 ‘직진(JIKJIN)’ (TREASURE CHOI HYUN SUK FanCam) @Show! MusicCore 220312]]></title>
             <link>https://tv.naver.com/v/25637049</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 12 Mar 2022 11:16:55 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220312_106/aUwVL_16470817556765rsP7_JPEG/clip_20220312191834_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 규진 직캠 ‘O.O’ (NMIXX KYUJIN FanCam) @Show!MusicCore 220312]]></title>
-            <link>https://tv.naver.com/v/25608690</link>
-            <guid>https://tv.naver.com/v/25608690</guid>
-            <pubDate>Sat, 12 Mar 2022 11:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_18/ndlKE_1647081754343Q7RNq_JPEG/clip_20220312191756_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 엔믹스 해원 직캠 ‘O.O’ (NMIXX HAEWON FanCam) @Show!MusicCore 220312]]></title>
-            <link>https://tv.naver.com/v/25608633</link>
-            <guid>https://tv.naver.com/v/25608633</guid>
-            <pubDate>Sat, 12 Mar 2022 11:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_89/o5r5b_1647081455818J2hns_JPEG/clip_20220312192010_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예능연구소 4K] 원호 세로캠 ‘Somebody’ (WONHO FanCam) @Show!MusicCore 220312]]></title>
-            <link>https://tv.naver.com/v/25608268</link>
-            <guid>https://tv.naver.com/v/25608268</guid>
-            <pubDate>Sat, 12 Mar 2022 10:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_18/Vxxm6_1647079412943tNinY_JPEG/clip_20220312184156_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
