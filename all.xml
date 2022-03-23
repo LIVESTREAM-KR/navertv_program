@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 10:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 11:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] Solar - HONEY (솔라 - 꿀) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25813415</link>
+            <guid>https://tv.naver.com/v/25813415</guid>
+            <pubDate>Wed, 23 Mar 2022 11:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_61/NUtsK_1648031823056FchVl_JPEG/CA202203230040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOT DEBUT] KIHYUN(MONSTA X) - VOYAGER (기현(몬스타엑스) - 보이저) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25813320</link>
+            <guid>https://tv.naver.com/v/25813320</guid>
+            <pubDate>Wed, 23 Mar 2022 11:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_96/J7K51_1648031527880AeqV7_JPEG/CA202203230039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] MOONBIN&SANHA(ASTRO) - WHO (문빈&산하(아스트로) - 후) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25813223</link>
+            <guid>https://tv.naver.com/v/25813223</guid>
+            <pubDate>Wed, 23 Mar 2022 11:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_16/R4X0K_1648031231938Yo7h4_JPEG/CA202203230038_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[최초공개] MOONBIN&SANHA(ASTRO) - Ghost Town (문빈&산하(아스트로) - 고스트 타운) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25813110</link>
             <guid>https://tv.naver.com/v/25813110</guid>
@@ -1430,30 +1454,6 @@
             <pubDate>Wed, 09 Mar 2022 12:34:16 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_191/NZ6mY_1646824654121WN4r2_JPEG/CA202203090073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] NMIXX JINNI - O.O (엔믹스 지니 - 오오) | Show Champion | EP.426 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25557825</link>
-            <guid>https://tv.naver.com/v/25557825</guid>
-            <pubDate>Wed, 09 Mar 2022 12:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_46/atcIp_16468238156133UrT4_JPEG/CA202203090084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] NMIXX SULLYOON - O.O (엔믹스 설윤 - 오오) | Show Champion | EP.426 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25557824</link>
-            <guid>https://tv.naver.com/v/25557824</guid>
-            <pubDate>Wed, 09 Mar 2022 12:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_164/Bawgy_1646823813686vOI7J_JPEG/CA202203090080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쇼챔직캠] STAYC YOON - RUN2U (스테이씨 윤 - 런투유) | Show Champion | EP.426 (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25557816</link>
-            <guid>https://tv.naver.com/v/25557816</guid>
-            <pubDate>Wed, 09 Mar 2022 12:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_163/CjqKp_1646823755684klKhc_JPEG/CA202203090077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
@@ -2152,6 +2152,70 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_104/SZpHv_1645677547108vOvHG_JPEG/85533d43-952b-11ec-ba4e-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고막이 melting.. 승민이 부르는 '스물다섯 스물하나'♪ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25814237</link>
+            <guid>https://tv.naver.com/v/25814237</guid>
+            <pubDate>Wed, 23 Mar 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_109/ahMzr_1648034225164XvCJ6_JPEG/CA202203230057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황블리&방블리의 애교빔을 받아라 (´▽`♡) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25814233</link>
+            <guid>https://tv.naver.com/v/25814233</guid>
+            <pubDate>Wed, 23 Mar 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_173/Er7Dg_1648034221808rv3hG_JPEG/CA202203230056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[※그것이 알고 싶다※ 스키즈의 신체 사이즈! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25814232</link>
+            <guid>https://tv.naver.com/v/25814232</guid>
+            <pubDate>Wed, 23 Mar 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[5:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_151/5a99r_1648034220138GOU2d_JPEG/CA202203230054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슼둥이들의 숙소 ☞TMI 대방출☜ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25813947</link>
+            <guid>https://tv.naver.com/v/25813947</guid>
+            <pubDate>Wed, 23 Mar 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_64/NqT90_1648033331018TJ86y_JPEG/CA202203230051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I'들을 위한 스테이 시그널 재창조 하기★ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25813944</link>
+            <guid>https://tv.naver.com/v/25813944</guid>
+            <pubDate>Wed, 23 Mar 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_47/7D13T_16480333273709ftGe_JPEG/CA202203230050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美친 합을 보여줄 스키즈의 신곡 ＜MANIAC＞♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25813825</link>
+            <guid>https://tv.naver.com/v/25813825</guid>
+            <pubDate>Wed, 23 Mar 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_118/HOFbt_1648033023681Twvk4_JPEG/CA202203230046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살아서 컴백 못할 뻔한 창빈이..? ㅎㄷㄷ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25813723</link>
+            <guid>https://tv.naver.com/v/25813723</guid>
+            <pubDate>Wed, 23 Mar 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_222/4RmHt_1648032722328xfKEH_JPEG/CA202203230043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 신곡] 원조 마라돌의 귀환🔥 스트레이키즈(Stray Kids)의 ‘MANIAC’♬ l EP.554 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25807277</link>
+            <guid>https://tv.naver.com/v/25807277</guid>
+            <pubDate>Wed, 23 Mar 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_126/6rfoT_1648017120832dh8wY_JPEG/CA202203230006_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[방송선공개] 스물하나를 보냈고 스물 다섯을 앞둔 승민의 감미로운 ‘스물다섯, 스물하나’ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25768819</link>
             <guid>https://tv.naver.com/v/25768819</guid>
@@ -2326,70 +2390,6 @@
             <pubDate>Wed, 16 Mar 2022 12:35:22 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220316_239/vqgfL_1647416253976iwddJ_JPEG/CA202203160011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] WEi KIM YOHAN - Too Bad (위아이 김요한 - 투 배드) l EP.553 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25677181</link>
-            <guid>https://tv.naver.com/v/25677181</guid>
-            <pubDate>Wed, 16 Mar 2022 12:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_100/hPrQz_1647416252976tYGBf_JPEG/CA202203160010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] WEi YOO YONGHA - Too Bad (위아이 유용하 - 투 배드) l EP.553 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25677056</link>
-            <guid>https://tv.naver.com/v/25677056</guid>
-            <pubDate>Wed, 16 Mar 2022 12:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_76/pi3e3_1647415956926DAFp1_JPEG/CA202203160012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] WEi KIM DONGHAN - Too Bad (위아이 김동한 - 투 배드) l EP.553 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25677053</link>
-            <guid>https://tv.naver.com/v/25677053</guid>
-            <pubDate>Wed, 16 Mar 2022 12:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_128/MP4HV_1647415955922eFG2N_JPEG/CA202203160009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] WEi JANG DAEHYEON - Too Bad (위아이 장대현 - 투 배드) l EP.553 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25677052</link>
-            <guid>https://tv.naver.com/v/25677052</guid>
-            <pubDate>Wed, 16 Mar 2022 12:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_181/LpOE0_1647415954903MTHj5_JPEG/CA202203160013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] WEi KANG SEOKHWA - Too Bad (위아이 강석화 - 투 배드) l EP.553 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25676707</link>
-            <guid>https://tv.naver.com/v/25676707</guid>
-            <pubDate>Wed, 16 Mar 2022 12:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_65/s7fhq_1647415054446iRDlG_JPEG/CA202203160008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 미방] 귀요미송♡ 트레저 (TREASURE) l EP.552 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25657592</link>
-            <guid>https://tv.naver.com/v/25657592</guid>
-            <pubDate>Tue, 15 Mar 2022 09:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_75/HNkP9_1647333153708nnnar_JPEG/CA202203090104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 하드털이] 전율같은 놀라운 이 느낌💚 VOYAGER💙 기현이의 'BEBE'💜 바스트캠 Ver. l 몬스타엑스 기현(KIHYUN) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25638488</link>
-            <guid>https://tv.naver.com/v/25638488</guid>
-            <pubDate>Mon, 14 Mar 2022 11:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_12/78FdD_1647249157919PVwBJ_JPEG/CA202106020106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 위아이의 소원수리센터? 꼭 춰보고 싶다는 TWICE의 ＜Heart Shaker＞♬ 내 심장까지 흔들어 놨다...☆ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25637477</link>
-            <guid>https://tv.naver.com/v/25637477</guid>
-            <pubDate>Tue, 15 Mar 2022 01:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_252/p80vB_1647246455815udeUQ_JPEG/CA202203160004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
