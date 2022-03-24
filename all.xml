@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 05:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 06:28:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_104/SZpHv_1645677547108vOvHG_JPEG/85533d43-952b-11ec-ba4e-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간아 미방] Stray Kids 현진, 한, 방찬의 애교송 (직캠 ver.)  l EP.554 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25827490</link>
+            <guid>https://tv.naver.com/v/25827490</guid>
+            <pubDate>Thu, 24 Mar 2022 06:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_78/DqftP_1648099622256xH5PS_JPEG/CA202203230093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[＜둠칫둠칫! 기억력 STAY 댄스＞ 우승자는 누구?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25814667</link>
             <guid>https://tv.naver.com/v/25814667</guid>
@@ -2382,14 +2390,6 @@
             <pubDate>Sat, 19 Mar 2022 08:24:56 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_154/24dnR_16475692234892RqW4_JPEG/CA202203160048_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회의 효과 받고 칼군무 터지는 위아이 랜플댄 대성공 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25683206</link>
-            <guid>https://tv.naver.com/v/25683206</guid>
-            <pubDate>Wed, 16 Mar 2022 12:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_54/dtTnq_1647430353294yKiI3_JPEG/CA202203160029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
