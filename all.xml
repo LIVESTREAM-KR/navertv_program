@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 09:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 10:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2152,6 +2152,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_133/6HT3v_1645677608040QVYJU_JPEG/ab82c854-952b-11ec-a12c-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주간아이돌 555회 오마이걸 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25856265</link>
+            <guid>https://tv.naver.com/v/25856265</guid>
+            <pubDate>Fri, 25 Mar 2022 10:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_27/TwWkl_1648199225091Tx1bq_JPEG/CA202203300002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간아 직캠] CRAVITY HYEONGJUN - Adrenaline (크래비티 형준 - 아드레날린) l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25849680</link>
             <guid>https://tv.naver.com/v/25849680</guid>
@@ -2382,14 +2390,6 @@
             <pubDate>Wed, 23 Mar 2022 12:38:07 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_85/Tgmib_1648016582913cBN3b_JPEG/CA202203230012_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] Stray Kids I.N - MANIAC (스트레이키즈 아이엔 - 매니악) l EP.554 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25807028</link>
-            <guid>https://tv.naver.com/v/25807028</guid>
-            <pubDate>Wed, 23 Mar 2022 12:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_163/ijKrr_16480165196612eT9A_JPEG/CA202203230013_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
