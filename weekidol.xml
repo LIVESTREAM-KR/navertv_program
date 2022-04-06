@@ -4,9 +4,33 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[※렌즈 광고주 주목※ 경력직 안유진의 렌즈CF 포인트 강의☆]]></title>
+            <link>https://tv.naver.com/v/26077517</link>
+            <guid>https://tv.naver.com/v/26077517</guid>
+            <pubDate>Wed, 06 Apr 2022 11:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_109/h0wc0_1649243825350LuJ6d_JPEG/CA202204060078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진실 혹은 거짓] 스타쉽에는 렌즈 수업 시간이 있다?!]]></title>
+            <link>https://tv.naver.com/v/26077513</link>
+            <guid>https://tv.naver.com/v/26077513</guid>
+            <pubDate>Wed, 06 Apr 2022 11:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_92/gMGTP_1649243823937FrVg7_JPEG/CA202204060077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 신곡] 6명의 큐피드로 돌아온 IVE(아이브)의 'LOVE DIVE'♬ l EP.556]]></title>
+            <link>https://tv.naver.com/v/26063365</link>
+            <guid>https://tv.naver.com/v/26063365</guid>
+            <pubDate>Wed, 06 Apr 2022 11:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_248/8aiQE_16492114283721EWQu_JPEG/CA202204060014_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간아 하드털이] 누군가 K-삼행시를 묻는다면.. 고개를 들어 현승희를 보게하라★ l EP.555]]></title>
             <link>https://tv.naver.com/v/26029084</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 30 Mar 2022 11:20:32 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_161/BtJdJ_1648606025166AFyxH_JPEG/CA202203300015_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 미미는 못하는 게 뭐야? 원 투 훅! 미라클 마음에도 펀치 날려버리는 미미의 복싱 실력!]]></title>
-            <link>https://tv.naver.com/v/25896689</link>
-            <guid>https://tv.naver.com/v/25896689</guid>
-            <pubDate>Tue, 29 Mar 2022 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_284/dI1i5_1648452730989lsdfQ_JPEG/CA202203300005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 병아린 시절 보고 싶은 사람?! 아린이의 몸이 기억하는 2022 버전 아린 ＜BOO＞]]></title>
-            <link>https://tv.naver.com/v/25896563</link>
-            <guid>https://tv.naver.com/v/25896563</guid>
-            <pubDate>Tue, 29 Mar 2022 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_125/sWWNk_1648452420902BkkHt_JPEG/CA202203300004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 555회 오마이걸 편 예고]]></title>
-            <link>https://tv.naver.com/v/25856265</link>
-            <guid>https://tv.naver.com/v/25856265</guid>
-            <pubDate>Fri, 25 Mar 2022 10:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_27/TwWkl_1648199225091Tx1bq_JPEG/CA202203300002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

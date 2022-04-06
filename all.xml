@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[COMEBACK] OH MY GIRL - Real Love (오마이걸 - 리얼 러브) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26076664</link>
+            <guid>https://tv.naver.com/v/26076664</guid>
+            <pubDate>Wed, 06 Apr 2022 11:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_67/ht1HA_1649241424834cGxKh_JPEG/CA202204060064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] OH MY GIRL - Drip (오마이걸 - 드립) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26076504</link>
+            <guid>https://tv.naver.com/v/26076504</guid>
+            <pubDate>Wed, 06 Apr 2022 11:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_108/Pr21s_16492411294379Y0j6_JPEG/CA202204060063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[COMEBACK] VERIVERY - O (베리베리 - 오) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26076227</link>
             <guid>https://tv.naver.com/v/26076227</guid>
@@ -1438,22 +1454,6 @@
             <pubDate>Wed, 30 Mar 2022 13:30:54 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_16/3OQLw_1648636929175cAntC_JPEG/CA202203300077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Brave Girls - Thank You (브레이브걸스 - 땡큐) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25942463</link>
-            <guid>https://tv.naver.com/v/25942463</guid>
-            <pubDate>Wed, 30 Mar 2022 11:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_191/nmsDJ_1648636688531Kjend_JPEG/CA202203300079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] Brave Girls - Love Is Gone (브레이브걸스 - 물거품) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25942371</link>
-            <guid>https://tv.naver.com/v/25942371</guid>
-            <pubDate>Wed, 30 Mar 2022 11:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_51/sMUwr_164863633179783o0H_JPEG/CA202203300078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
@@ -2152,6 +2152,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_151/lCe6G_16468900463653MCGN_JPEG/67b75636-a032-11ec-b19d-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[※렌즈 광고주 주목※ 경력직 안유진의 렌즈CF 포인트 강의☆ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26077517</link>
+            <guid>https://tv.naver.com/v/26077517</guid>
+            <pubDate>Wed, 06 Apr 2022 11:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_109/h0wc0_1649243825350LuJ6d_JPEG/CA202204060078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[진실 혹은 거짓] 스타쉽에는 렌즈 수업 시간이 있다?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26077513</link>
+            <guid>https://tv.naver.com/v/26077513</guid>
+            <pubDate>Wed, 06 Apr 2022 11:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_92/gMGTP_1649243823937FrVg7_JPEG/CA202204060077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 신곡] 6명의 큐피드로 돌아온 IVE(아이브)의 'LOVE DIVE'♬ l EP.556 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26063365</link>
+            <guid>https://tv.naver.com/v/26063365</guid>
+            <pubDate>Wed, 06 Apr 2022 11:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_248/8aiQE_16492114283721EWQu_JPEG/CA202204060014_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간아 하드털이] 누군가 K-삼행시를 묻는다면.. 고개를 들어 현승희를 보게하라★ l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26029084</link>
             <guid>https://tv.naver.com/v/26029084</guid>
@@ -2366,30 +2390,6 @@
             <pubDate>Wed, 30 Mar 2022 11:20:32 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_161/BtJdJ_1648606025166AFyxH_JPEG/CA202203300015_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 미미는 못하는 게 뭐야? 원 투 훅! 미라클 마음에도 펀치 날려버리는 미미의 복싱 실력! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25896689</link>
-            <guid>https://tv.naver.com/v/25896689</guid>
-            <pubDate>Tue, 29 Mar 2022 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_284/dI1i5_1648452730989lsdfQ_JPEG/CA202203300005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 병아린 시절 보고 싶은 사람?! 아린이의 몸이 기억하는 2022 버전 아린 ＜BOO＞ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25896563</link>
-            <guid>https://tv.naver.com/v/25896563</guid>
-            <pubDate>Tue, 29 Mar 2022 01:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_125/sWWNk_1648452420902BkkHt_JPEG/CA202203300004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 555회 오마이걸 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25856265</link>
-            <guid>https://tv.naver.com/v/25856265</guid>
-            <pubDate>Fri, 25 Mar 2022 10:25:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_27/TwWkl_1648199225091Tx1bq_JPEG/CA202203300002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
