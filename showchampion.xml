@@ -4,9 +4,33 @@
         <title>MBC M 쇼챔피언 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 11:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쇼챔 1위] 4월 셋째 주 챔피언송 드림캐쳐 앵콜 Full ver.]]></title>
+            <link>https://tv.naver.com/v/26347662</link>
+            <guid>https://tv.naver.com/v/26347662</guid>
+            <pubDate>Wed, 20 Apr 2022 11:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_218/kEoQV_1650453426174kYONX_JPEG/CA202204200094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COMEBACK] Dreamcatcher - MAISON (드림캐쳐 - 메종)]]></title>
+            <link>https://tv.naver.com/v/26346903</link>
+            <guid>https://tv.naver.com/v/26346903</guid>
+            <pubDate>Wed, 20 Apr 2022 11:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_155/jVIrS_1650450727195WdO1B_JPEG/CA202204200077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE - LOVE DIVE (아이브 - 러브 다이브)]]></title>
+            <link>https://tv.naver.com/v/26346805</link>
+            <guid>https://tv.naver.com/v/26346805</guid>
+            <pubDate>Wed, 20 Apr 2022 11:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_207/DnXwU_1650450421115hdVcn_JPEG/CA202204200076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HONG EUI JIN - I Knew I Love(2022) (홍의진 - 사랑하게 될 줄 알았어(2022))]]></title>
             <link>https://tv.naver.com/v/26346724</link>
@@ -124,7 +148,7 @@
             <link>https://tv.naver.com/v/26345844</link>
             <guid>https://tv.naver.com/v/26345844</guid>
             <pubDate>Wed, 20 Apr 2022 10:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_244/Guoi2_16504474318862lkJi_JPEG/CA202204200056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 13 Apr 2022 10:24:47 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_260/QUPCt_1649844419005WFmc8_JPEG/CA202204130067_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['거울 공주님'으로 변신할 IVE 엔딩요정은 누구?]]></title>
-            <link>https://tv.naver.com/v/26209499</link>
-            <guid>https://tv.naver.com/v/26209499</guid>
-            <pubDate>Wed, 13 Apr 2022 10:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_153/YHnXb_1649843830603TzEla_JPEG/CA202204130066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] GHOST9 - X-Ray (고스트나인 - 엑스-레이)]]></title>
-            <link>https://tv.naver.com/v/26209423</link>
-            <guid>https://tv.naver.com/v/26209423</guid>
-            <pubDate>Wed, 13 Apr 2022 10:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_177/8ntam_1649843525853faQOY_JPEG/CA202204130065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[D-CRUNCH - Addiction (디크런치 - 중독)]]></title>
-            <link>https://tv.naver.com/v/26209341</link>
-            <guid>https://tv.naver.com/v/26209341</guid>
-            <pubDate>Wed, 13 Apr 2022 10:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_54/CFzEj_16498432239476J1uL_JPEG/CA202204130064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
