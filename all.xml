@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 08:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 09:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1216,6 +1216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20170727_192/1wlTn_15011190800075vXzH_JPEG/VD96897571_w1279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HWAYEON - blossom (화연 - 꽃핀다) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26604786</link>
+            <guid>https://tv.naver.com/v/26604786</guid>
+            <pubDate>Wed, 04 May 2022 09:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_69/Ud3hG_1651656180906SFvUd_JPEG/CA202205040054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] 수요일 저녁 6시!! 쇼챔피언으로 Drive 가자~ (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26557262</link>
             <guid>https://tv.naver.com/v/26557262</guid>
@@ -1446,14 +1454,6 @@
             <pubDate>Sat, 23 Apr 2022 10:24:25 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_67/YJcSb_1650448926706u82Iq_JPEG/CA202204200065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COMEBACK] EPEX - Lone Wolf (이펙스 - 론 울프) (MBC M 쇼챔피언 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26346171</link>
-            <guid>https://tv.naver.com/v/26346171</guid>
-            <pubDate>Sat, 23 Apr 2022 10:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_35/03oU6_1650448624802DqhhR_JPEG/CA202204200063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유희열의 스케치 북 - 288회 예고 (KBS 유희열의 스케치북 ─ 네이버TV)]]></title>
